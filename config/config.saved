@@ -1,0 +1,8 @@
+[general]
+pvss_path = "C:/Siemens/Automation/WinCC_OA/3.11"
+proj_path = "C:/sss"
+proj_version = "3.11"
+langs = "de_AT.iso88591"
+userName = "root"
+password = ""
+
