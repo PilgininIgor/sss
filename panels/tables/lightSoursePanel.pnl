@@ -1,0 +1,262 @@
+V 12
+1
+LANG:10001 0 
+PANEL,-1 -1 400 400 N "_3DFace" 1
+"$dpe_value"
+E E E E E 1 -1 -1 0  40 30
+""0  1
+E E 2
+"CBRef" "1"
+"EClose" E
+""
+DISPLAY_LAYER, 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0
+LAYER, 0 
+1
+LANG:10001 0 
+2 0
+"PRIMITIVE_TEXT1"
+""
+1 180 40 E E E 1 E 1 E N "_WindowText" E N "_Window" E E
+ E E
+4 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+1
+"dashclr"N "_Transparent"
+E E 0 1 1 2 1 E 1.223404255319149 0 1.29757785467128 -40.21276595744683 -37.85467128027679 0 E 65 60 295 73
+0 2 2 "0s" 0 0 0 193 0 0  180 60 1
+1
+LANG:10001 37 MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0
+0 1
+LANG:10001 74 Вкл/Выкл        Местоположение       Заданная
+1 1 0 "7" 0
+0
+1 2 1 "7" 0
+0
+1 3 2 "7" 0
+0
+1 4 3 "7" 0
+0
+2 5
+"PRIMITIVE_TEXT3"
+""
+1 180.6914893617021 72.59515570934255 E E E 1 E 1 E N "_WindowText" E N "_Window" E E
+ E E
+5 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+1
+"dashclr"N "_Transparent"
+E E 0 1 1 2 1 E 1.197674418604651 0 1.294117647058824 24.99381494309751 -30.93425605536333 0 E 89 80 171 93
+0 2 2 "0s" 0 0 0 193 0 0  130 80 1
+1
+LANG:10001 37 MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0
+0 1
+LANG:10001 27 Кухня/Гостиная
+2 6
+"PRIMITIVE_TEXT4"
+""
+1 154.2263730826324 105.1833910034602 E E E 1 E 1 E N "_WindowText" E N "_Window" E E
+ E E
+6 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+1
+"dashclr"N "_Transparent"
+E E 0 1 1 2 1 E 1.197674418604651 0 1.294117647058824 -1.471301335972271 1.653979238754324 0 E 104 80 156 93
+0 2 2 "0s" 0 0 0 193 0 0  130 80 1
+1
+LANG:10001 37 MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0
+0 1
+LANG:10001 17    Спальня
+2 7
+"PRIMITIVE_TEXT5"
+""
+1 154.2263730826324 135.1833910034602 E E E 1 E 1 E N "_WindowText" E N "_Window" E E
+ E E
+7 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+1
+"dashclr"N "_Transparent"
+E E 0 1 1 2 1 E 1.197674418604651 0 1.294117647058824 -1.471301335972271 31.65397923875433 0 E 114 80 146 93
+0 2 2 "0s" 0 0 0 193 0 0  130 80 1
+1
+LANG:10001 37 MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0
+0 1
+LANG:10001 10 Гараж
+2 8
+"PRIMITIVE_TEXT6"
+""
+1 144.2263730826324 165.1833910034602 E E E 1 E 1 E N "_WindowText" E N "_Window" E E
+ E E
+8 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+1
+"dashclr"N "_Transparent"
+E E 0 1 1 2 1 E 1.197674418604651 0 1.294117647058824 -11.47130133597227 61.65397923875433 0 E 121 80 139 93
+0 2 2 "0s" 0 0 0 193 0 0  130 80 1
+1
+LANG:10001 37 MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0
+0 1
+LANG:10001 5 С/У
+4 9
+"LINE2"
+""
+1 40.69148936170217 62.59515570934256 E E E 1 E 1 E N {0,0,0} E N "white" E E
+ E E
+9 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+1
+"dashclr"N "_Transparent"
+E E 0 1 1 2 1 E  41 63 321 63
+4 10
+"LINE4"
+""
+1 250.6914893617021 30 E E E 1 E 1 E N {0,0,0} E N "white" E E
+ E E
+10 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+1
+"dashclr"N "_Transparent"
+E E 0 1 1 2 1 E  251 30 251 190
+4 11
+"LINE1"
+""
+1 110.6914893617021 30 E E E 1 E 1 E N {0,0,0} E N "white" E E
+ E E
+11 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+1
+"dashclr"N "_Transparent"
+E E 0 1 1 2 1 E  111 30 111 190
+0
+LAYER, 1 
+1
+LANG:10001 0 
+1 12 0 "" 0
+0
+1 13 0 "" 1
+0
+1 14 0 "" 2
+0
+1 15 0 "" 3
+0
+1 16 0 "" 4
+0
+1 17 1 "" 0
+0
+1 18 1 "" 1
+0
+1 19 1 "" 2
+0
+1 20 1 "" 3
+0
+1 21 1 "" 4
+0
+1 22 2 "" 0
+0
+1 23 2 "" 1
+0
+1 24 2 "" 2
+0
+1 25 2 "" 3
+0
+1 26 2 "" 4
+0
+1 27 3 "" 0
+0
+1 28 3 "" 1
+0
+1 29 3 "" 2
+0
+1 30 3 "" 3
+0
+1 31 3 "" 4
+0
+0
+LAYER, 2 
+1
+LANG:10001 0 
+0
+LAYER, 3 
+1
+LANG:10001 0 
+0
+LAYER, 4 
+1
+LANG:10001 0 
+0
+LAYER, 5 
+1
+LANG:10001 0 
+0
+LAYER, 6 
+1
+LANG:10001 0 
+0
+LAYER, 7 
+1
+LANG:10001 0 
+0
+3 0 "PANEL_REF0" -1
+"objects\\STD_LEDS\\Led_1.pnl" 220 70 T 0 0.64516129032258 0 0.64516129032258 -77.37302676732998 21.30483312869744
+5
+"$b_IBit""TRUE"
+"$b_ShowAlert""TRUE"
+"$dpe_value""$dpe_value"
+"$s_ColOff""STD_led_Off"
+"$s_ColOn""STD_led_On"
+3 1 "PANEL_REF1" -1
+"objects\\STD_LEDS\\Led_1.pnl" 220 70 T 1 0.64516129032258 0 0.64516129032258 -77.05044612216872 51.62741377385869
+5
+"$b_IBit""TRUE"
+"$b_ShowAlert""TRUE"
+"$dpe_value""$dpe_value"
+"$s_ColOff""STD_led_Off"
+"$s_ColOn""STD_led_On"
+3 2 "PANEL_REF2" -1
+"objects\\STD_LEDS\\Led_1.pnl" 220 70 T 2 0.64516129032258 0 0.64516129032258 -77.05044612216872 81.62741377385868
+5
+"$b_IBit""TRUE"
+"$b_ShowAlert""TRUE"
+"$dpe_value""$dpe_value"
+"$s_ColOff""STD_led_Off"
+"$s_ColOn""STD_led_On"
+3 3 "PANEL_REF3" -1
+"objects\\STD_LEDS\\Led_1.pnl" 220 70 T 3 0.64516129032258 0 0.64516129032258 -77.05044612216869 111.6274137738587
+5
+"$b_IBit""TRUE"
+"$b_ShowAlert""TRUE"
+"$dpe_value""$dpe_value"
+"$s_ColOff""STD_led_Off"
+"$s_ColOn""STD_led_On"
+0
