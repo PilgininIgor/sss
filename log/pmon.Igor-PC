@@ -45,3 +45,67 @@ WCCILpmon    (1), 2017.11.02 21:36:54.734, SYS,  INFO,        1, Manager Start, 
 WCCILpmon    (1), 2017.11.02 21:36:55.053, SYS,  INFO,        1, Manager Start, C:\Siemens\Automation\WinCC_OA\3.11\bin\WCCILsim.exe -PROJ sss -pmonIndex 10 
 WCCILpmon    (1), 2017.11.02 21:36:55.458, SYS,  INFO,        1, Manager Start, C:\Siemens\Automation\WinCC_OA\3.11\bin\WCCOAui.exe -PROJ sss -pmonIndex 11 -m gedi
 WCCILpmon    (1), 2017.11.02 21:36:55.659, SYS,  INFO,        9/pmon, The project is up and running. Entering monitor mode
+WCCILpmon    (1), 2017.11.02 22:06:54.713, SYS,  INFO,       11/pmon, Detected stopped manager WCCILevent(0) - restarting it #1
+WCCILpmon    (1), 2017.11.02 22:06:54.717, SYS,  INFO,        1, Manager Start, C:\Siemens\Automation\WinCC_OA\3.11\bin\WCCILevent.exe -PROJ sss -pmonIndex 8 
+WCCILpmon    (1), 2017.11.02 22:06:57.738, SYS,  INFO,       11/pmon, Detected stopped manager WCCOActrl(1) - restarting it #1
+WCCILpmon    (1), 2017.11.02 22:06:57.741, SYS,  INFO,        1, Manager Start, C:\Siemens\Automation\WinCC_OA\3.11\bin\WCCOActrl.exe -PROJ sss -pmonIndex 9 -f pvss_scripts.lst
+WCCILpmon    (1), 2017.11.02 22:06:57.841, SYS,  INFO,       11/pmon, Detected stopped manager WCCILsim(1) - restarting it #1
+WCCILpmon    (1), 2017.11.02 22:06:57.843, SYS,  INFO,        1, Manager Start, C:\Siemens\Automation\WinCC_OA\3.11\bin\WCCILsim.exe -PROJ sss -pmonIndex 10 
+WCCILpmon    (1), 2017.11.02 22:20:36.123, SYS,  INFO,       24/pmon, Got START command from ::1, starting the manager WCCOAui(1) at index 11
+WCCILpmon    (1), 2017.11.02 22:20:36.127, SYS,  INFO,        1, Manager Start, C:\Siemens\Automation\WinCC_OA\3.11\bin\WCCOAui.exe -PROJ sss -pmonIndex 11 -m gedi
+WCCILpmon    (1), 2017.11.02 22:36:55.396, SYS,  INFO,       11/pmon, Detected stopped manager WCCILevent(0) - restarting it #1
+WCCILpmon    (1), 2017.11.02 22:36:55.400, SYS,  INFO,        1, Manager Start, C:\Siemens\Automation\WinCC_OA\3.11\bin\WCCILevent.exe -PROJ sss -pmonIndex 8 
+WCCILpmon    (1), 2017.11.02 22:36:57.409, SYS,  INFO,       11/pmon, Detected stopped manager WCCILsim(1) - restarting it #1
+WCCILpmon    (1), 2017.11.02 22:36:57.412, SYS,  INFO,        1, Manager Start, C:\Siemens\Automation\WinCC_OA\3.11\bin\WCCILsim.exe -PROJ sss -pmonIndex 10 
+WCCILpmon    (1), 2017.11.02 22:36:59.322, SYS,  INFO,       11/pmon, Detected stopped manager WCCOActrl(1) - restarting it #1
+WCCILpmon    (1), 2017.11.02 22:36:59.325, SYS,  INFO,        1, Manager Start, C:\Siemens\Automation\WinCC_OA\3.11\bin\WCCOActrl.exe -PROJ sss -pmonIndex 9 -f pvss_scripts.lst
+WCCILpmon    (1), 2017.11.02 23:02:56.792, SYS,  INFO,       24/pmon, Got START command from ::1, starting the manager WCCOAui(1) at index 11
+WCCILpmon    (1), 2017.11.02 23:02:56.795, SYS,  INFO,        1, Manager Start, C:\Siemens\Automation\WinCC_OA\3.11\bin\WCCOAui.exe -PROJ sss -pmonIndex 11 -m gedi
+WCCILpmon    (1), 2017.11.02 23:06:57.823, SYS,  INFO,       11/pmon, Detected stopped manager WCCILevent(0) - restarting it #1
+WCCILpmon    (1), 2017.11.02 23:06:57.825, SYS,  INFO,        1, Manager Start, C:\Siemens\Automation\WinCC_OA\3.11\bin\WCCILevent.exe -PROJ sss -pmonIndex 8 
+WCCILpmon    (1), 2017.11.02 23:06:59.736, SYS,  INFO,       11/pmon, Detected stopped manager WCCILsim(1) - restarting it #1
+WCCILpmon    (1), 2017.11.02 23:06:59.739, SYS,  INFO,        1, Manager Start, C:\Siemens\Automation\WinCC_OA\3.11\bin\WCCILsim.exe -PROJ sss -pmonIndex 10 
+WCCILpmon    (1), 2017.11.02 23:06:59.940, SYS,  INFO,       11/pmon, Detected stopped manager WCCOActrl(1) - restarting it #1
+WCCILpmon    (1), 2017.11.02 23:06:59.944, SYS,  INFO,        1, Manager Start, C:\Siemens\Automation\WinCC_OA\3.11\bin\WCCOActrl.exe -PROJ sss -pmonIndex 9 -f pvss_scripts.lst
+WCCILpmon    (1), 2017.11.02 23:07:39.567, SYS,  INFO,       24/pmon, Got START command from ::1, starting the manager WCCOAui(1) at index 11
+WCCILpmon    (1), 2017.11.02 23:07:39.570, SYS,  INFO,        1, Manager Start, C:\Siemens\Automation\WinCC_OA\3.11\bin\WCCOAui.exe -PROJ sss -pmonIndex 11 -m gedi
+WCCILpmon    (1), 2017.11.02 23:36:59.458, SYS,  INFO,       11/pmon, Detected stopped manager WCCILevent(0) - restarting it #1
+WCCILpmon    (1), 2017.11.02 23:36:59.461, SYS,  INFO,        1, Manager Start, C:\Siemens\Automation\WinCC_OA\3.11\bin\WCCILevent.exe -PROJ sss -pmonIndex 8 
+WCCILpmon    (1), 2017.11.02 23:37:00.469, SYS,  INFO,       11/pmon, Detected stopped manager WCCILsim(1) - restarting it #1
+WCCILpmon    (1), 2017.11.02 23:37:00.472, SYS,  INFO,        1, Manager Start, C:\Siemens\Automation\WinCC_OA\3.11\bin\WCCILsim.exe -PROJ sss -pmonIndex 10 
+WCCILpmon    (1), 2017.11.02 23:37:01.472, SYS,  INFO,       11/pmon, Detected stopped manager WCCOActrl(1) - restarting it #1
+WCCILpmon    (1), 2017.11.02 23:37:01.475, SYS,  INFO,        1, Manager Start, C:\Siemens\Automation\WinCC_OA\3.11\bin\WCCOActrl.exe -PROJ sss -pmonIndex 9 -f pvss_scripts.lst
+WCCILpmon    (1), 2017.11.02 23:37:08.945, SYS,  INFO,       24/pmon, Got START command from ::1, starting the manager WCCOAui(1) at index 11
+WCCILpmon    (1), 2017.11.02 23:37:08.948, SYS,  INFO,        1, Manager Start, C:\Siemens\Automation\WinCC_OA\3.11\bin\WCCOAui.exe -PROJ sss -pmonIndex 11 -m gedi
+WCCILpmon    (1), 2017.11.03 00:07:00.020, SYS,  INFO,       11/pmon, Detected stopped manager WCCILevent(0) - restarting it #1
+WCCILpmon    (1), 2017.11.03 00:07:00.032, SYS,  INFO,        1, Manager Start, C:\Siemens\Automation\WinCC_OA\3.11\bin\WCCILevent.exe -PROJ sss -pmonIndex 8 
+WCCILpmon    (1), 2017.11.03 00:07:02.027, SYS,  INFO,       11/pmon, Detected stopped manager WCCILsim(1) - restarting it #1
+WCCILpmon    (1), 2017.11.03 00:07:02.030, SYS,  INFO,        1, Manager Start, C:\Siemens\Automation\WinCC_OA\3.11\bin\WCCILsim.exe -PROJ sss -pmonIndex 10 
+WCCILpmon    (1), 2017.11.03 00:07:03.031, SYS,  INFO,       11/pmon, Detected stopped manager WCCOActrl(1) - restarting it #1
+WCCILpmon    (1), 2017.11.03 00:07:03.034, SYS,  INFO,        1, Manager Start, C:\Siemens\Automation\WinCC_OA\3.11\bin\WCCOActrl.exe -PROJ sss -pmonIndex 9 -f pvss_scripts.lst
+WCCILpmon    (1), 2017.11.03 00:07:04.965, SYS,  INFO,       24/pmon, Got START command from ::1, starting the manager WCCOAui(2) at index 11
+WCCILpmon    (1), 2017.11.03 00:07:04.968, SYS,  INFO,        1, Manager Start, C:\Siemens\Automation\WinCC_OA\3.11\bin\WCCOAui.exe -PROJ sss -pmonIndex 11 -m gedi
+WCCILpmon    (1), 2017.11.03 00:37:00.641, SYS,  INFO,       11/pmon, Detected stopped manager WCCILevent(0) - restarting it #1
+WCCILpmon    (1), 2017.11.03 00:37:00.649, SYS,  INFO,        1, Manager Start, C:\Siemens\Automation\WinCC_OA\3.11\bin\WCCILevent.exe -PROJ sss -pmonIndex 8 
+WCCILpmon    (1), 2017.11.03 00:37:02.653, SYS,  INFO,       11/pmon, Detected stopped manager WCCOActrl(1) - restarting it #1
+WCCILpmon    (1), 2017.11.03 00:37:02.656, SYS,  INFO,        1, Manager Start, C:\Siemens\Automation\WinCC_OA\3.11\bin\WCCOActrl.exe -PROJ sss -pmonIndex 9 -f pvss_scripts.lst
+WCCILpmon    (1), 2017.11.03 00:37:03.657, SYS,  INFO,       11/pmon, Detected stopped manager WCCILsim(1) - restarting it #1
+WCCILpmon    (1), 2017.11.03 00:37:03.660, SYS,  INFO,        1, Manager Start, C:\Siemens\Automation\WinCC_OA\3.11\bin\WCCILsim.exe -PROJ sss -pmonIndex 10 
+WCCILpmon    (1), 2017.11.03 00:38:32.151, SYS,  INFO,       24/pmon, Got START command from ::1, starting the manager WCCOAui(2) at index 11
+WCCILpmon    (1), 2017.11.03 00:38:32.154, SYS,  INFO,        1, Manager Start, C:\Siemens\Automation\WinCC_OA\3.11\bin\WCCOAui.exe -PROJ sss -pmonIndex 11 -m gedi
+WCCILpmon    (1), 2017.11.03 01:07:02.279, SYS,  INFO,       11/pmon, Detected stopped manager WCCILevent(0) - restarting it #1
+WCCILpmon    (1), 2017.11.03 01:07:02.282, SYS,  INFO,        1, Manager Start, C:\Siemens\Automation\WinCC_OA\3.11\bin\WCCILevent.exe -PROJ sss -pmonIndex 8 
+WCCILpmon    (1), 2017.11.03 01:07:03.291, SYS,  INFO,       11/pmon, Detected stopped manager WCCOActrl(1) - restarting it #1
+WCCILpmon    (1), 2017.11.03 01:07:03.294, SYS,  INFO,        1, Manager Start, C:\Siemens\Automation\WinCC_OA\3.11\bin\WCCOActrl.exe -PROJ sss -pmonIndex 9 -f pvss_scripts.lst
+WCCILpmon    (1), 2017.11.03 01:07:05.305, SYS,  INFO,       11/pmon, Detected stopped manager WCCILsim(1) - restarting it #1
+WCCILpmon    (1), 2017.11.03 01:07:05.308, SYS,  INFO,        1, Manager Start, C:\Siemens\Automation\WinCC_OA\3.11\bin\WCCILsim.exe -PROJ sss -pmonIndex 10 
+WCCILpmon    (1), 2017.11.03 01:07:37.756, SYS,  INFO,       24/pmon, Got START command from ::1, starting the manager WCCOAui(2) at index 11
+WCCILpmon    (1), 2017.11.03 01:07:37.759, SYS,  INFO,        1, Manager Start, C:\Siemens\Automation\WinCC_OA\3.11\bin\WCCOAui.exe -PROJ sss -pmonIndex 11 -m gedi
+WCCILpmon    (1), 2017.11.03 01:37:03.896, SYS,  INFO,       11/pmon, Detected stopped manager WCCILevent(0) - restarting it #1
+WCCILpmon    (1), 2017.11.03 01:37:03.900, SYS,  INFO,        1, Manager Start, C:\Siemens\Automation\WinCC_OA\3.11\bin\WCCILevent.exe -PROJ sss -pmonIndex 8 
+WCCILpmon    (1), 2017.11.03 01:37:04.905, SYS,  INFO,       11/pmon, Detected stopped manager WCCOActrl(1) - restarting it #1
+WCCILpmon    (1), 2017.11.03 01:37:04.908, SYS,  INFO,        1, Manager Start, C:\Siemens\Automation\WinCC_OA\3.11\bin\WCCOActrl.exe -PROJ sss -pmonIndex 9 -f pvss_scripts.lst
+WCCILpmon    (1), 2017.11.03 01:37:05.908, SYS,  INFO,       11/pmon, Detected stopped manager WCCILsim(1) - restarting it #1
+WCCILpmon    (1), 2017.11.03 01:37:05.911, SYS,  INFO,        1, Manager Start, C:\Siemens\Automation\WinCC_OA\3.11\bin\WCCILsim.exe -PROJ sss -pmonIndex 10 
+WCCILpmon    (1), 2017.11.03 01:39:51.079, SYS,  INFO,       24/pmon, Got START command from ::1, starting the manager WCCOAui(2) at index 11
+WCCILpmon    (1), 2017.11.03 01:39:51.082, SYS,  INFO,        1, Manager Start, C:\Siemens\Automation\WinCC_OA\3.11\bin\WCCOAui.exe -PROJ sss -pmonIndex 11 -m gedi

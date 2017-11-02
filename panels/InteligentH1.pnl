@@ -1,0 +1,2261 @@
+V 12
+1
+LANG:10001 0 
+PANEL,-1 -1 966 594 N "white" 0
+E E E E E 1 -1 -1 0  90 220
+""0  1
+E E 2
+"CBRef" "1"
+"EClose" E
+""
+DISPLAY_LAYER, 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0
+LAYER, 0 
+1
+LANG:10001 0 
+6 135
+"RECTANGLE20"
+""
+1 610 20 E E E 1 E 1 E N "white" E N {255,255,255} E E
+ E E
+135 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+1
+"dashclr"N "_Transparent"
+E E 0 1 1 2 1 E 1.9 0 1.294117647058824 -709 174.1176470588235 1 E 610 20 810 190
+6 136
+"RECTANGLE21"
+""
+1 610 20 E E E 1 E 1 E N "white" E N {255,255,255} E E
+ E E
+136 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+1
+"dashclr"N "_Transparent"
+E E 0 1 1 2 1 E 1.05000008079741 0 0.2352941176470589 -20.50004928642016 415.2941176470588 1 E 610 20 810 190
+6 133
+"RECTANGLE18"
+""
+1 610 20 E E E 1 E 1 E N "white" E N {255,255,255} E E
+ E E
+133 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+1
+"dashclr"N "_Transparent"
+E E 0 1 1 2 1 E 1.05000008079741 0 1.000000003116583 -30.50006544590168 -5.921507346684507e-007 1 E 610 20 810 190
+6 0
+"RECTANGLE1"
+""
+1 40 70 E E E 1 E 1 E N {0,0,0} E N "STD_value_default" E E
+ E E
+0 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverbclr" "N \"STD_value_default\""
+"dashclr"N "_Transparent"
+E E 0 1 1 2 1 E 0.2222222222222222 -6.495198043978307e-017 1.423806649167945e-016 0.5 611.1111111111111 155 1 E 40 70 220 90
+10 113
+"POLYGON3"
+""
+1 160 60 E E E 1 E 1 E N "STD_textfield_text" E N "Darkgrey" E E
+ E E
+113 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+1
+"dashclr"N "STD_textfield_text"
+E E 0 1 1 2 1 E 0.666666525381579 0 0.6666666931576206 493.3333559389474 -30.00000158945723 1 E 12 160 60
+160 70
+160 80
+160 90
+160 100
+160 110
+160 120
+170 120
+180 120
+190 120
+190 60
+180 60
+ 1
+10 116
+"POLYGON6"
+""
+1 660 50 E E E 1 E 1 E N {0,0,0} E N "Darkgrey" E E
+ E E
+116 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+1
+"dashclr"N "_Transparent"
+E E 0 1 1 2 1 E U  1 E 60 660 50
+670 50
+670 40
+670 30
+670 20
+670 10
+660 10
+660 20
+660 30
+660 40
+660 50
+670 50
+670 40
+670 30
+670 20
+670 10
+680 10
+690 10
+700 10
+710 10
+720 10
+730 10
+740 10
+750 10
+760 10
+760 20
+760 10
+770 10
+780 10
+790 10
+800 10
+810 10
+820 10
+830 10
+830 20
+830 30
+830 40
+830 50
+820 50
+810 50
+810 40
+810 30
+810 20
+800 20
+790 20
+780 20
+770 20
+760 20
+750 20
+740 20
+730 20
+720 20
+710 20
+700 20
+690 20
+680 20
+670 20
+670 30
+670 40
+670 50
+ 1
+6 118
+"RECTANGLE3"
+""
+1 40 70 E E E 1 E 1 E N {0,0,0} E N "STD_value_default" E E
+ E E
+118 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverbclr" "N \"STD_value_default\""
+"dashclr"N "_Transparent"
+E E 0 1 1 2 1 E 4.734169729520144e-017 -0.1666666666666667 0.5 8.27100824901905e-017 625 236.6666666666667 1 E 40 70 220 90
+6 120
+"RECTANGLE5"
+""
+1 40 70 E E E 1 E 1 E N {0,0,0} E N "STD_value_default" E E
+ E E
+120 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverbclr" "N \"STD_value_default\""
+"dashclr"N "_Transparent"
+E E 0 1 1 2 1 E 0.2222222222222222 -6.495198043978307e-017 1.423806649167945e-016 0.5 611.1111111111111 425 1 E 40 70 220 90
+6 121
+"RECTANGLE6"
+""
+1 40 70 E E E 1 E 1 E N {0,0,0} E N "STD_value_default" E E
+ E E
+121 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverbclr" "N \"STD_value_default\""
+"dashclr"N "_Transparent"
+E E 0 1 1 2 1 E 0.6666666666666666 -6.495198043978307e-017 4.271419947503835e-016 0.5 283.3333333333333 505 1 E 40 70 220 90
+6 122
+"RECTANGLE7"
+""
+1 40 70 E E E 1 E 1 E N {0,0,0} E N "STD_value_default" E E
+ E E
+122 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverbclr" "N \"STD_value_default\""
+"dashclr"N "_Transparent"
+E E 0 1 1 2 1 E 4.734169729520144e-017 -0.2222222222222219 0.5 1.102801099869205e-016 405 328.8888888888889 1 E 40 70 220 90
+6 123
+"RECTANGLE8"
+""
+1 40 70 E E E 1 E 1 E N {0,0,0} E N "STD_inputfield_back_marked" E E
+ E E
+123 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverbclr" "N \"STD_value_default\""
+"dashclr"N "_Transparent"
+E E 0 1 1 2 1 E 4.734164892174319e-017 -0.5 0.4999994891030422 2.481302474705715e-016 565.0000357627871 160 1 E 40 70 220 90
+6 124
+"RECTANGLE9"
+""
+1 40 70 E E E 1 E 1 E N {0,0,0} E N "STD_inputfield_back_marked" E E
+ E E
+124 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverbclr" "N \"STD_value_default\""
+"dashclr"N "_Transparent"
+E E 0 1 1 2 1 E 4.734169729520144e-017 -0.3888888888888889 0.5 1.929901924771112e-016 785 135.5555555555555 1 E 40 70 220 90
+6 125
+"RECTANGLE10"
+""
+1 40 70 E E E 1 E 1 E N {0,0,0} E N "STD_inputfield_back_marked" E E
+ E E
+125 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverbclr" "N \"STD_value_default\""
+"dashclr"N "_Transparent"
+E E 0 1 1 2 1 E 0.2222222222222222 -6.495198043978307e-017 1.423806649167945e-016 0.5 611.1111111111111 -25 1 E 40 70 220 90
+6 126
+"RECTANGLE11"
+""
+1 40 70 E E E 1 E 1 E N {0,0,0} E N "STD_inputfield_back_marked" E E
+ E E
+126 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverbclr" "N \"STD_value_default\""
+"dashclr"N "_Transparent"
+E E 0 1 1 2 1 E 0.3888888888888888 -6.495198043978307e-017 2.491661636043903e-016 0.5 514.4444444444443 155 1 E 40 70 220 90
+6 127
+"RECTANGLE12"
+""
+1 40 70 E E E 1 E 1 E N {0,0,0} E N "STD_inputfield_back_marked" E E
+ E E
+127 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverbclr" "N \"STD_value_default\""
+"dashclr"N "_Transparent"
+E E 0 1 1 2 1 E 0.3888888888888888 -6.495198043978307e-017 2.491661636043903e-016 0.5 694.4444444444443 425 1 E 40 70 220 90
+6 128
+"RECTANGLE13"
+""
+1 40 70 E E E 1 E 1 E N {0,0,0} E N "STD_inputfield_back_marked" E E
+ E E
+128 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverbclr" "N \"STD_value_default\""
+"dashclr"N "_Transparent"
+E E 0 1 1 2 1 E 0.3888888888888888 -6.495198043978307e-017 2.491661636043903e-016 0.5 484.4444444444443 385 1 E 40 70 220 90
+6 130
+"RECTANGLE15"
+""
+1 40 70 E E E 1 E 1 E N {0,0,0} E N "STD_inputfield_back_marked" E E
+ E E
+130 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverbclr" "N \"STD_value_default\""
+"dashclr"N "_Transparent"
+E E 0 1 1 2 1 E 4.734169729520144e-017 -0.1111111111111111 0.5 5.514005499346034e-017 745 234.4444444444445 1 E 40 70 220 90
+6 131
+"RECTANGLE16"
+""
+1 40 70 E E E 1 E 1 E N {0,0,0} E N "STD_inputfield_back_marked" E E
+ E E
+131 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverbclr" "N \"STD_value_default\""
+"dashclr"N "_Transparent"
+E E 0 1 1 2 1 E 4.734169729520144e-017 -0.2777777777777778 0.5 1.378501374836509e-016 245 351.1111111111111 1 E 40 70 220 90
+6 132
+"RECTANGLE17"
+""
+1 40 70 E E E 1 E 1 E N {0,0,0} E N "STD_inputfield_back_marked" E E
+ E E
+132 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverbclr" "N \"STD_value_default\""
+"dashclr"N "_Transparent"
+E E 0 1 1 2 1 E 4.734169729520144e-017 -0.1111111111111111 0.5 5.514005499346034e-017 785 434.4444444444445 1 E 40 70 220 90
+6 134
+"RECTANGLE19"
+""
+1 610 20 E E E 1 E 1 E N "white" E N {255,255,255} E E
+ E E
+134 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+1
+"dashclr"N "_Transparent"
+E E 0 1 1 2 1 E 0.75 0 1.647058823529412 -167.5 227.0588235294118 1 E 610 20 810 190
+10 137
+"POLYGON7"
+""
+1 810 120 E E E 1 E 1 E N {0,0,0} E N "Darkgrey" E E
+ E E
+137 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+1
+"dashclr"N "_Transparent"
+E E 0 1 1 2 1 E 1 0 1 1.755627681632177e-005 2.600929903451288e-006 1 E 52 810 120
+820 120
+830 120
+830 130
+830 140
+830 150
+830 160
+830 170
+830 180
+830 190
+830 200
+830 210
+820 210
+810 210
+800 210
+790 210
+780 210
+770 210
+770 200
+780 200
+790 200
+800 200
+810 200
+810 190
+800 190
+790 190
+780 190
+770 190
+760 190
+750 190
+740 190
+730 190
+720 190
+710 190
+700 190
+690 190
+680 190
+670 190
+660 190
+660 200
+670 200
+680 200
+690 200
+700 200
+710 200
+720 200
+730 200
+740 200
+750 200
+760 200
+770 200
+810 200
+ 1
+10 138
+"POLYGON8"
+""
+1 600 140 E E E 1 E 1 E N {0,0,0} E N "Darkgrey" E E
+ E E
+138 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+1
+"dashclr"N "_Transparent"
+E E 0 1 1 2 1 E U  1 E 34 600 140
+600 150
+600 160
+600 170
+600 180
+600 190
+600 200
+610 200
+610 210
+610 220
+610 230
+610 240
+610 250
+610 260
+610 270
+610 280
+610 290
+620 290
+620 280
+620 270
+620 260
+620 250
+620 240
+620 230
+620 220
+620 210
+620 200
+620 190
+620 180
+620 170
+620 160
+620 150
+620 140
+610 140
+ 1
+10 140
+"POLYGON10"
+""
+1 660 230 E E E 1 E 1 E N {0,0,0} E N "Darkgrey" E E
+ E E
+140 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+1
+"dashclr"N "_Transparent"
+E E 0 1 1 2 1 E U  1 E 65 660 230
+660 240
+660 250
+660 260
+660 270
+660 280
+660 290
+670 290
+680 290
+690 290
+700 290
+710 290
+720 290
+730 290
+740 290
+750 290
+760 290
+770 290
+780 290
+790 290
+800 290
+810 290
+810 300
+810 310
+810 320
+810 330
+820 330
+830 330
+830 320
+830 310
+830 300
+830 290
+830 280
+830 270
+820 270
+810 270
+800 270
+790 270
+790 260
+790 250
+790 240
+790 230
+780 230
+770 230
+770 240
+770 250
+770 260
+770 270
+770 280
+760 280
+750 280
+740 280
+730 280
+720 280
+710 280
+700 280
+690 280
+680 280
+670 280
+670 270
+670 260
+670 250
+670 240
+670 230
+660 230
+ 1
+10 142
+"POLYGON12"
+""
+1 800 340 E E E 1 E 1 E N {0,0,0} E N "Darkgrey" E E
+ E E
+142 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+1
+"dashclr"N "_Transparent"
+E E 0 1 1 2 1 E U  1 E 5 800 340
+830 350
+830 330
+800 330
+800 340
+ 1
+10 143
+"POLYGON13"
+""
+1 800 400 E E E 1 E 1 E N {0,0,0} E N "Darkgrey" E E
+ E E
+143 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+1
+"dashclr"N "_Transparent"
+E E 0 1 1 2 1 E U  1 E 6 800 400
+800 390
+830 380
+830 410
+810 410
+810 400
+ 1
+6 144
+"RECTANGLE22"
+""
+1 830 330 E E E 1 E 1 E N {0,0,0} E N "Darkgrey" E E
+ E E
+144 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+1
+"dashclr"N "_Transparent"
+E E 0 1 1 2 1 E U  1 E 830 330 850 400
+10 145
+"POLYGON14"
+""
+1 810 430 E E E 1 E 1 E N {0,0,0} E N "Darkgrey" E E
+ E E
+145 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+1
+"dashclr"N "_Transparent"
+E E 0 1 1 2 1 E U  1 E 6 810 430
+810 450
+780 450
+780 470
+830 470
+830 430
+ 1
+10 146
+"POLYGON15"
+""
+1 660 450 E E E 1 E 1 E N {0,0,0} E N "Darkgrey" E E
+ E E
+146 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+1
+"dashclr"N "_Transparent"
+E E 0 1 1 2 1 E U  1 E 5 660 450
+660 470
+710 470
+710 450
+660 450
+ 1
+10 147
+"POLYGON16"
+""
+1 570 410 E E E 1 E 1 E N {0,0,0} E N "Darkgrey" E E
+ E E
+147 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+1
+"dashclr"N "_Transparent"
+E E 0 1 1 2 1 E U  1 E 7 570 410
+570 430
+600 430
+600 470
+620 470
+620 410
+570 410
+ 1
+10 148
+"POLYGON17"
+""
+1 440 320 E E E 1 E 1 E N {0,0,0} E N "Darkgrey" E E
+ E E
+148 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+1
+"dashclr"N "_Transparent"
+E E 0 1 1 2 1 E U  1 E 11 440 320
+450 320
+450 410
+500 410
+500 430
+460 430
+460 550
+430 550
+430 540
+440 540
+440 430
+ 1
+10 149
+"POLYGON18"
+""
+1 280 340 E E E 1 E 1 E N {0,0,0} E N "Darkgrey" E E
+ E E
+149 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+1
+"dashclr"N "_Transparent"
+E E 0 1 1 2 1 E U  1 E 7 280 340
+300 340
+300 540
+310 540
+310 550
+280 550
+280 340
+ 1
+10 150
+"POLYGON19"
+""
+1 280 290 E E E 1 E 1 E N {0,0,0} E N "Darkgrey" E E
+ E E
+150 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+1
+"dashclr"N "_Transparent"
+E E 0 1 1 2 1 E U  1 E 15 280 290
+280 240
+440 240
+440 190
+530 190
+530 200
+450 200
+450 270
+490 270
+490 280
+440 280
+440 260
+300 260
+300 290
+280 290
+ 1
+0
+LAYER, 1 
+1
+LANG:10001 0 
+0
+LAYER, 2 
+1
+LANG:10001 0 
+4 5
+"LINE5"
+""
+1 660 10 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+5 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  660 10 830 10
+4 6
+"LINE6"
+""
+1 830 10 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+6 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  830 10 830 50
+4 7
+"LINE7"
+""
+1 830 50 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+7 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  830 50 810 50
+4 8
+"LINE8"
+""
+1 660 10 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+8 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  660 10 660 50
+4 9
+"LINE9"
+""
+1 670 20 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+9 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  670 20 670 50
+4 10
+"LINE10"
+""
+1 670 20 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+10 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  670 20 810 20
+4 11
+"LINE11"
+""
+1 660 50 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+11 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  660 50 670 50
+4 12
+"LINE12"
+""
+1 810 20 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+12 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  810 20 810 50
+4 13
+"LINE13"
+""
+1 600 10 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+13 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  600 10 620 10
+4 14
+"LINE14"
+""
+1 620 10 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+14 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  620 10 620 50
+4 15
+"LINE15"
+""
+1 600 10 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+15 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  600 10 600 50
+4 16
+"LINE16"
+""
+1 600 50 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+16 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  600 50 620 50
+4 17
+"LINE17"
+""
+1 810 120 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+17 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  810 120 810 190
+4 18
+"LINE18"
+""
+1 810 120 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+18 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  810 120 830 120
+4 19
+"LINE19"
+""
+1 830 120 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+19 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  830 120 830 210
+4 20
+"LINE20"
+""
+1 660 190 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+20 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  660 190 810 190
+4 21
+"LINE21"
+""
+1 660 190 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+21 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  660 190 660 200
+4 22
+"LINE22"
+""
+1 660 200 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+22 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  660 200 770 200
+4 23
+"LINE23"
+""
+1 770 200 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+23 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  770 200 770 210
+4 24
+"LINE24"
+""
+1 770 210 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+24 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  770 210 830 210
+4 25
+"LINE25"
+""
+1 660 230 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+25 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  660 230 660 290
+4 26
+"LINE26"
+""
+1 660 230 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+26 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  660 230 670 230
+4 27
+"LINE27"
+""
+1 670 230 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+27 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  670 230 670 280
+4 28
+"LINE28"
+""
+1 660 290 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+28 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  660 290 810 290
+4 29
+"LINE29"
+""
+1 670 280 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+29 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  670 280 770 280
+4 31
+"LINE31"
+""
+1 770 280 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+31 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  770 280 770 230
+4 32
+"LINE32"
+""
+1 770 230 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+32 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  770 230 790 230
+4 33
+"LINE33"
+""
+1 790 230 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+33 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  790 230 790 270
+4 34
+"LINE34"
+""
+1 790 270 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+34 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  790 270 830 270
+4 35
+"LINE35"
+""
+1 830 270 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+35 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  830 270 830 310
+4 36
+"LINE36"
+""
+1 810 290 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+36 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  810 290 810 330
+4 37
+"LINE37"
+""
+1 830 310 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+37 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  830 310 830 330
+4 38
+"LINE38"
+""
+1 830 330 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+38 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  830 330 850 330
+4 39
+"LINE39"
+""
+1 800 330 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+39 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  800 330 810 330
+4 40
+"LINE40"
+""
+1 800 330 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+40 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  800 330 800 340
+4 41
+"LINE41"
+""
+1 800 340 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+41 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  800 340 830 350
+4 42
+"LINE42"
+""
+1 850 330 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+42 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  850 330 850 400
+4 43
+"LINE43"
+""
+1 830 350 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+43 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  830 350 830 380
+4 44
+"LINE44"
+""
+1 830 380 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+44 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  830 380 800 390
+4 47
+"LINE47"
+""
+1 800 390 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+47 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  800 390 800 400
+4 48
+"LINE48"
+""
+1 800 400 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+48 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  800 400 810 400
+4 49
+"LINE49"
+""
+1 810 400 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+49 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  810 400 810 410
+4 50
+"LINE50"
+""
+1 830 400 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+50 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  830 400 850 400
+4 52
+"LINE52"
+""
+1 830 400 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+52 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  830 400 830 410
+4 53
+"LINE53"
+""
+1 810 410 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+53 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  810 410 830 410
+4 54
+"LINE54"
+""
+1 810 430 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+54 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  810 430 810 450
+4 56
+"LINE56"
+""
+1 830 430 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+56 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  830 430 830 470
+4 57
+"LINE57"
+""
+1 810 430 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+57 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  810 430 830 430
+4 58
+"LINE58"
+""
+1 780 450 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+58 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  780 450 810 450
+4 59
+"LINE59"
+""
+1 780 470 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+59 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  780 470 830 470
+4 60
+"LINE60"
+""
+1 780 450 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+60 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  780 450 780 470
+4 61
+"LINE61"
+""
+1 660 450 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+61 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  660 450 710 450
+4 62
+"LINE62"
+""
+1 660 470 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+62 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  660 470 710 470
+4 63
+"LINE63"
+""
+1 710 450 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+63 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  710 450 710 470
+4 64
+"LINE64"
+""
+1 660 450 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+64 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  660 450 660 470
+4 65
+"LINE65"
+""
+1 620 470 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+65 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  620 470 600 470
+4 66
+"LINE66"
+""
+1 620 470 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+66 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  620 470 620 410
+4 67
+"LINE67"
+""
+1 600 430 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+67 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  600 430 600 470
+4 68
+"LINE68"
+""
+1 570 410 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+68 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  570 410 620 410
+4 69
+"LINE69"
+""
+1 570 430 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+69 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  570 430 600 430
+4 71
+"LINE71"
+""
+1 570 410 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+71 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  570 410 570 430
+4 72
+"LINE72"
+""
+1 450 410 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+72 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  450 410 500 410
+4 73
+"LINE73"
+""
+1 500 410 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+73 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  500 410 500 430
+4 74
+"LINE74"
+""
+1 460 430 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+74 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  460 430 500 430
+4 75
+"LINE75"
+""
+1 460 430 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+75 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  460 430 460 550
+4 76
+"LINE76"
+""
+1 450 410 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+76 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  450 410 450 320
+4 77
+"LINE77"
+""
+1 440 319.9999999999999 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+77 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  440 320 440 540
+4 79
+"LINE79"
+""
+1 440 320 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+79 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  440 320 450 320
+4 80
+"LINE80"
+""
+1 430 550 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+80 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  430 550 460 550
+4 81
+"LINE81"
+""
+1 430 540 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+81 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  430 540 430 550
+4 82
+"LINE82"
+""
+1 430 540 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+82 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  430 540 440 540
+4 83
+"LINE83"
+""
+1 280 340 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+83 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  280 340 280 550
+4 84
+"LINE84"
+""
+1 280 550 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+84 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  280 550 310 550
+4 85
+"LINE85"
+""
+1 300 340 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+85 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  300 340 300 540
+4 86
+"LINE86"
+""
+1 300 540 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+86 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  300 540 310 540
+4 87
+"LINE87"
+""
+1 310 540 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+87 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  310 540 310 550
+4 88
+"LINE88"
+""
+1 280 240 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+88 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  280 240 280 290
+4 89
+"LINE89"
+""
+1 280 290 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+89 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  280 290 300 290
+4 90
+"LINE90"
+""
+1 300 260 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+90 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  300 260 300 290
+4 92
+"LINE92"
+""
+1 280 340 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+92 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  280 340 300 340
+4 93
+"LINE93"
+""
+1 280 240 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+93 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  280 240 440 240
+4 94
+"LINE94"
+""
+1 300 260 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+94 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  300 260 440 260
+4 95
+"LINE95"
+""
+1 440 240 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+95 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  440 240 440 190
+4 96
+"LINE96"
+""
+1 440 190 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+96 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  440 190 530 190
+4 97
+"LINE97"
+""
+1 440 260 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+97 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  440 260 440 280
+4 98
+"LINE98"
+""
+1 440 280 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+98 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  440 280 490 280
+4 99
+"LINE99"
+""
+1 450 210 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+99 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  450 210 450 270
+4 100
+"LINE100"
+""
+1 450 200 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+100 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  450 200 530 200
+4 101
+"LINE101"
+""
+1 530 190 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+101 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  530 190 530 200
+4 102
+"LINE102"
+""
+1 450 200 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+102 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  450 200 450 210
+4 103
+"LINE103"
+""
+1 450 270 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+103 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  450 270 490 270
+4 104
+"LINE104"
+""
+1 490 270 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+104 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  490 270 490 280
+4 105
+"LINE105"
+""
+1 620 140 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+105 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  620 140 620 290
+4 106
+"LINE106"
+""
+1 610 200 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+106 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  610 200 610 290
+4 107
+"LINE107"
+""
+1 610 290 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+107 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  610 290 620 290
+4 108
+"LINE108"
+""
+1 600 200 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+108 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  600 200 610 200
+4 109
+"LINE109"
+""
+1 600 140 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+109 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  600 140 600 200
+4 110
+"LINE110"
+""
+1 600 140 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+110 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"hoverfclr" "N \"STD_value_default\""
+"dashclr"N "STD_windows_available"
+E E 0 1 1 2 1 E  600 140 620 140
+0
+LAYER, 3 
+1
+LANG:10001 0 
+0
+LAYER, 4 
+1
+LANG:10001 0 
+0
+LAYER, 5 
+1
+LANG:10001 0 
+0
+LAYER, 6 
+1
+LANG:10001 0 
+0
+LAYER, 7 
+1
+LANG:10001 0 
+0
+0
