@@ -1165,3 +1165,11 @@ WCCOAui      (2), 2017.11.03 01:39:51.239, SYS,  INFO,      102, Waiting for use
 WCCOAui      (2), 2017.11.03 01:39:51.242, SYS,  INFO,      103, User names/passwords initialized
 WCCILdatabg  (1), 2017.11.03 01:47:44.169, IMPL, SEVERE,     54, Unexpected state, DataManDpIntern, refreshSaveDirList, Error reading directories
 WCCILdatabg  (1), 2017.11.03 01:47:44.208, IMPL, SEVERE,     54, Unexpected state, DataManDpIntern, refreshAlertSaveDirList, Error reading directories
+WCCILdatabg  (1), 2017.11.03 01:48:45.185, IMPL, SEVERE,     54, Unexpected state, DataManDpIntern, refreshSaveDirList, Error reading directories
+WCCILdatabg  (1), 2017.11.03 01:48:45.185, IMPL, SEVERE,     54, Unexpected state, DataManDpIntern, refreshAlertSaveDirList, Error reading directories
+WCCILdatabg  (1), 2017.11.03 01:49:45.198, IMPL, SEVERE,     54, Unexpected state, DataManDpIntern, refreshSaveDirList, Error reading directories
+WCCILdatabg  (1), 2017.11.03 01:49:45.198, IMPL, SEVERE,     54, Unexpected state, DataManDpIntern, refreshAlertSaveDirList, Error reading directories
+WCCILdatabg  (1), 2017.11.03 01:50:45.214, IMPL, SEVERE,     54, Unexpected state, DataManDpIntern, refreshSaveDirList, Error reading directories
+WCCILdatabg  (1), 2017.11.03 01:50:45.214, IMPL, SEVERE,     54, Unexpected state, DataManDpIntern, refreshAlertSaveDirList, Error reading directories
+WCCILdatabg  (1), 2017.11.03 01:51:45.230, IMPL, SEVERE,     54, Unexpected state, DataManDpIntern, refreshSaveDirList, Error reading directories
+WCCILdatabg  (1), 2017.11.03 01:51:45.230, IMPL, SEVERE,     54, Unexpected state, DataManDpIntern, refreshAlertSaveDirList, Error reading directories
