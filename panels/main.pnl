@@ -1,0 +1,578 @@
+V 12
+2
+LANG:10001 0 
+LANG:10027 0 
+PANEL,-1 -1 1000 700 N "_3DFace" 0
+E E E E E 1 -1 -1 0  110 80
+""0  1
+E E 2
+"CBRef" "1"
+"EClose" E
+""
+DISPLAY_LAYER, 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0
+LAYER, 0 
+2
+LANG:10001 0 
+LANG:10027 0 
+4 1
+"LINE1"
+""
+1 660 314.2000000000001 E E E 1 E 1 E N {0,0,0} E N {255,255,255} E E
+ E E
+1 0 0 0 0 0
+E E E
+0
+2
+LANG:10001 0 
+LANG:10027 0 
+
+1
+"dashclr"N "_Transparent"
+E E 0 4 2 2 1 E  830 310 830 520
+4 2
+"LINE2"
+""
+1 788.4 30 E E E 1 E 1 E N {0,0,0} E N {255,255,255} E E
+ E E
+2 0 0 0 0 0
+E E E
+0
+2
+LANG:10001 0 
+LANG:10027 0 
+
+1
+"dashclr"N "_Transparent"
+E E 0 4 2 2 1 E  750 20 830 20
+4 3
+"LINE3"
+""
+1 576.4000000000001 30 E E E 1 E 1 E N {0,0,0} E N {255,255,255} E E
+ E E
+3 0 0 0 0 0
+E E E
+0
+2
+LANG:10001 0 
+LANG:10027 0 
+
+1
+"dashclr"N "_Transparent"
+E E 0 4 2 2 1 E  490 20 670 20
+4 5
+"LINE5"
+""
+1 368.4 30 E E E 1 E 1 E N {0,0,0} E N {255,255,255} E E
+ E E
+5 0 0 0 0 0
+E E E
+0
+2
+LANG:10001 0 
+LANG:10027 0 
+
+1
+"dashclr"N "_Transparent"
+E E 0 4 2 2 1 E  330 20 410 20
+4 7
+"LINE7"
+""
+1 160 21.6 E E E 1 E 1 E N {0,0,0} E N {255,255,255} E E
+ E E
+7 0 0 0 0 0
+E E E
+0
+2
+LANG:10001 0 
+LANG:10027 0 
+
+1
+"dashclr"N "_Transparent"
+E E 0 4 2 2 1 E  330 20 330 100
+4 8
+"LINE8"
+""
+1 160 183.2 E E E 1 E 1 E N {0,0,0} E N {255,255,255} E E
+ E E
+8 0 0 0 0 0
+E E E
+0
+2
+LANG:10001 0 
+LANG:10027 0 
+
+1
+"dashclr"N "_Transparent"
+E E 0 4 2 2 1 E  330 180 330 340
+4 9
+"LINE9"
+""
+1 160 441.6 E E E 1 E 1 E N {0,0,0} E N {255,255,255} E E
+ E E
+9 0 0 0 0 0
+E E E
+0
+2
+LANG:10001 0 
+LANG:10027 0 
+
+1
+"dashclr"N "_Transparent"
+E E 0 4 2 2 1 E  330 440 330 520
+4 10
+"LINE10"
+""
+1 373.2000000000001 530 E E E 1 E 1 E N {0,0,0} E N {255,255,255} E E
+ E E
+10 0 0 0 0 0
+E E E
+0
+2
+LANG:10001 0 
+LANG:10027 0 
+
+1
+"dashclr"N "_Transparent"
+E E 0 4 2 2 1 E  330 520 420 520
+4 11
+"LINE11"
+""
+1 577.6 530 E E E 1 E 1 E N {0,0,0} E N {255,255,255} E E
+ E E
+11 0 0 0 0 0
+E E E
+0
+2
+LANG:10001 0 
+LANG:10027 0 
+
+1
+"dashclr"N "_Transparent"
+E E 0 4 2 2 1 E  520 520 640 520
+4 12
+"LINE12"
+""
+1 814.4 530 E E E 1 E 1 E N {0,0,0} E N {255,255,255} E E
+ E E
+12 0 0 0 0 0
+E E E
+0
+2
+LANG:10001 0 
+LANG:10027 0 
+
+1
+"dashclr"N "_Transparent"
+E E 0 4 2 2 1 E  800 520 830 520
+4 13
+"LINE13"
+""
+1 733.6 530 E E E 1 E 1 E N {0,0,0} E N {255,255,255} E E
+ E E
+13 0 0 0 0 0
+E E E
+0
+2
+LANG:10001 0 
+LANG:10027 0 
+
+1
+"dashclr"N "_Transparent"
+E E 0 4 2 2 1 E  700 520 770 520
+4 14
+"LINE14"
+""
+1 560 402.4 E E E 1 E 1 E N {0,0,0} E N {255,255,255} E E
+ E E
+14 0 0 0 0 0
+E E E
+0
+2
+LANG:10001 0 
+LANG:10027 0 
+
+1
+"dashclr"N "_Transparent"
+E E 0 4 2 2 1 E  730 400 730 520
+4 15
+"LINE15"
+""
+1 778 340 E E E 1 E 1 E N {0,0,0} E N {255,255,255} E E
+ E E
+15 0 0 0 0 0
+E E E
+0
+2
+LANG:10001 0 
+LANG:10027 0 
+
+1
+"dashclr"N "_Transparent"
+E E 0 4 2 2 1 E  730 330 830 330
+4 16
+"LINE16"
+""
+1 560 330.4 E E E 1 E 1 E N {0,0,0} E N {255,255,255} E E
+ E E
+16 0 0 0 0 0
+E E E
+0
+2
+LANG:10001 0 
+LANG:10027 0 
+
+1
+"dashclr"N "_Transparent"
+E E 0 4 2 2 1 E  730 330 730 350
+4 17
+"LINE17"
+""
+1 746.8 240 E E E 1 E 1 E N {0,0,0} E N {255,255,255} E E
+ E E
+17 0 0 0 0 0
+E E E
+0
+2
+LANG:10001 0 
+LANG:10027 0 
+
+1
+"dashclr"N "_Transparent"
+E E 0 4 2 2 1 E  670 230 830 230
+4 18
+"LINE18"
+""
+1 660 24.6 E E E 1 E 1 E N {0,0,0} E N {255,255,255} E E
+ E E
+18 0 0 0 0 0
+E E E
+0
+2
+LANG:10001 0 
+LANG:10027 0 
+
+1
+"dashclr"N "_Transparent"
+E E 0 4 2 2 1 E  830 20 830 250
+4 19
+"LINE19"
+""
+1 599.5999999999999 240 E E E 1 E 1 E N {0,0,0} E N {255,255,255} E E
+ E E
+19 0 0 0 0 0
+E E E
+0
+2
+LANG:10001 0 
+LANG:10027 0 
+
+1
+"dashclr"N "_Transparent"
+E E 0 4 2 2 1 E  590 230 610 230
+4 20
+"LINE20"
+""
+1 420 24.2 E E E 1 E 1 E N {0,0,0} E N {255,255,255} E E
+ E E
+20 0 0 0 0 0
+E E E
+0
+2
+LANG:10001 0 
+LANG:10027 0 
+
+1
+"dashclr"N "_Transparent"
+E E 0 4 2 2 1 E  590 20 590 230
+4 21
+"LINE21"
+""
+1 849.2000000000001 100 E E E 1 E 1 E N {0,0,0} E N {255,255,255} E E
+ E E
+21 0 0 0 0 0
+E E E
+0
+2
+LANG:10001 0 
+LANG:10027 0 
+
+1
+"dashclr"N "_Transparent"
+E E 0 4 2 2 1 E  830 90 870 90
+4 22
+"LINE22"
+""
+1 949.2000000000001 100 E E E 1 E 1 E N {0,0,0} E N {255,255,255} E E
+ E E
+22 0 0 0 0 0
+E E E
+0
+2
+LANG:10001 0 
+LANG:10027 0 
+
+1
+"dashclr"N "_Transparent"
+E E 0 4 2 2 1 E  930 90 970 90
+4 23
+"LINE23"
+""
+1 800 95.39999999999999 E E E 1 E 1 E N {0,0,0} E N {255,255,255} E E
+ E E
+23 0 0 0 0 0
+E E E
+0
+2
+LANG:10001 0 
+LANG:10027 0 
+
+1
+"dashclr"N "_Transparent"
+E E 0 4 2 2 1 E  970 90 970 360
+4 24
+"LINE24"
+""
+1 959.5999999999999 370 E E E 1 E 1 E N {0,0,0} E N {255,255,255} E E
+ E E
+24 0 0 0 0 0
+E E E
+0
+2
+LANG:10001 0 
+LANG:10027 0 
+
+1
+"dashclr"N "_Transparent"
+E E 0 4 2 2 1 E  950 360 970 360
+4 25
+"LINE25"
+""
+1 839.5999999999999 370 E E E 1 E 1 E N {0,0,0} E N {255,255,255} E E
+ E E
+25 0 0 0 0 0
+E E E
+0
+2
+LANG:10001 0 
+LANG:10027 0 
+
+1
+"dashclr"N "_Transparent"
+E E 0 4 2 2 1 E  830 360 850 360
+4 27
+"LINE27"
+""
+1 410 20 E E E 1 E 1 E N "STD_windows_available" E N {255,255,255} E E
+ E E
+27 0 0 0 0 0
+E E E
+0
+2
+LANG:10001 0 
+LANG:10027 0 
+
+1
+"dashclr"N "_Transparent"
+E E 0 2 2 2 1 E  410 20 490 20
+4 28
+"LINE28"
+""
+1 670 20 E E E 1 E 1 E N "STD_windows_available" E N {255,255,255} E E
+ E E
+28 0 0 0 0 0
+E E E
+0
+2
+LANG:10001 0 
+LANG:10027 0 
+
+1
+"dashclr"N "_Transparent"
+E E 0 2 2 2 1 E  670 20 750 20
+4 29
+"LINE29"
+""
+1 870 90 E E E 1 E 1 E N "STD_windows_available" E N {255,255,255} E E
+ E E
+29 0 0 0 0 0
+E E E
+0
+2
+LANG:10001 0 
+LANG:10027 0 
+
+1
+"dashclr"N "_Transparent"
+E E 0 2 2 2 1 E  870 90 930 90
+4 30
+"LINE30"
+""
+1 420.0000000000001 520 E E E 1 E 1 E N "STD_windows_available" E N {255,255,255} E E
+ E E
+30 0 0 0 0 0
+E E E
+0
+2
+LANG:10001 0 
+LANG:10027 0 
+
+1
+"dashclr"N "_Transparent"
+E E 0 2 2 2 1 E  420 520 520 520
+4 32
+"LINE32"
+""
+1 330 100 E E E 1 E 1 E N "STD_windows_available" E N {255,255,255} E E
+ E E
+32 0 0 0 0 0
+E E E
+0
+2
+LANG:10001 0 
+LANG:10027 0 
+
+1
+"dashclr"N "_Transparent"
+E E 0 2 2 2 1 E  330 100 330 180
+4 33
+"LINE33"
+""
+1 330 340 E E E 1 E 1 E N "STD_windows_available" E N {255,255,255} E E
+ E E
+33 0 0 0 0 0
+E E E
+0
+2
+LANG:10001 0 
+LANG:10027 0 
+
+1
+"dashclr"N "_Transparent"
+E E 0 2 2 2 1 E  330 340 330 440
+4 34
+"LINE34"
+""
+1 770 520 E E E 1 E 1 E N "STD_windows_available" E N {255,255,255} E E
+ E E
+34 0 0 0 0 0
+E E E
+0
+2
+LANG:10001 0 
+LANG:10027 0 
+
+1
+"dashclr"N "_Transparent"
+E E 0 2 2 2 1 E  770 520 800 520
+4 36
+"LINE36"
+""
+1 850 360 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+36 0 0 0 0 0
+E E E
+0
+2
+LANG:10001 0 
+LANG:10027 0 
+
+1
+"dashclr"N "_Transparent"
+E E 0 3 2 2 1 E  850 360 950 360
+4 37
+"LINE37"
+""
+1 610 230 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+37 0 0 0 0 0
+E E E
+0
+2
+LANG:10001 0 
+LANG:10027 0 
+
+1
+"dashclr"N "_Transparent"
+E E 0 3 2 2 1 E  610 230 670 230
+4 38
+"LINE38"
+""
+1 640 520 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+38 0 0 0 0 0
+E E E
+0
+2
+LANG:10001 0 
+LANG:10027 0 
+
+1
+"dashclr"N "_Transparent"
+E E 0 3 2 2 1 E  640 520 700 520
+4 39
+"LINE39"
+""
+1 830 250 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+39 0 0 0 0 0
+E E E
+0
+2
+LANG:10001 0 
+LANG:10027 0 
+
+1
+"dashclr"N "_Transparent"
+E E 0 3 2 2 1 E  830 250 830 310
+4 40
+"LINE40"
+""
+1 730 350 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+ E E
+40 0 0 0 0 0
+E E E
+0
+2
+LANG:10001 0 
+LANG:10027 0 
+
+1
+"dashclr"N "_Transparent"
+E E 0 3 2 2 1 E  730 350 730 400
+0
+LAYER, 1 
+2
+LANG:10001 0 
+LANG:10027 0 
+0
+LAYER, 2 
+2
+LANG:10001 0 
+LANG:10027 0 
+0
+LAYER, 3 
+2
+LANG:10001 0 
+LANG:10027 0 
+0
+LAYER, 4 
+2
+LANG:10001 0 
+LANG:10027 0 
+0
+LAYER, 5 
+2
+LANG:10001 0 
+LANG:10027 0 
+0
+LAYER, 6 
+2
+LANG:10001 0 
+LANG:10027 0 
+0
+LAYER, 7 
+2
+LANG:10001 0 
+LANG:10027 0 
+0
+0

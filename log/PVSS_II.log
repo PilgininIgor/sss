@@ -220,3 +220,194 @@ WCCILdatabg  (1), 2017.11.02 00:49:26.993, SYS,  INFO,        4, Connected to, (
 WCCILdata    (0), 2017.11.02 00:49:26.994, SYS,  INFO,        4, Connected to, (SYS: 1 Data -num 1 CONN: 1) @ Igor-PC (::ffff:127.0.0.1)
 WCCILdata    (0), 2017.11.02 00:49:26.998, SYS,  INFO,        0, , Manager (SYS: 1 Data -num 1 CONN: 1) initialised
 WCCILdatabg  (1), 2017.11.02 00:49:27.164, SYS,  INFO,        6, Initialization by Data Manager finished
+WCCILdata    (0), 2017.11.02 01:01:16.335, SYS,  WARNING,    39, Connection lost, MAN: (SYS: 1 Data -num 1 CONN: 1), Connection reset by peer (10054)
+WCCILdata    (0), 2017.11.02 01:01:16.340, SYS,  WARNING,    39, Connection lost, MAN: (SYS: 1 Event -num 0 CONN: 1), Connection reset by peer (10054)
+WCCILpmon    (1), 2017.11.02 21:31:54.236, SYS,  INFO,        1, Manager Start, START_MODE
+WCCILpmon    (1), 2017.11.02 21:31:54.452, SYS,  INFO,        1, Manager Start, C:\Siemens\Automation\WinCC_OA\3.11\bin\WCCILdata.exe -PROJ sss -pmonIndex 1 
+WCCILdata    (0), 2017.11.02 21:31:54.524, SYS,  INFO,        1, Manager Start, PROJ, sss, V 3.11 - 3.11    linked at Jul 11 2012 23:32:12
+WCCILdata    (0), 2017.11.02 21:31:54.530, SYS,  INFO,      106, Database repair, DataManager, repairDBase (last), Datenbank wird repariert : last
+	Logdatei : C:\sss\log\dbRepair.log
+WCCILdata    (0), 2017.11.02 21:32:06.481, SYS,  INFO,      106, Database repair, DataManager, repairDBase (last), Database OK
+WCCILdata    (0), 2017.11.02 21:32:06.483, SYS,  FATAL,     158, Could not create the server socket on port = 4897: Permission denied
+WCCILdata    (0), 2017.11.02 21:32:08.486, SYS,  INFO,        2, Manager Stop
+WCCILpmon    (1), 2017.11.02 21:32:08.514, SYS,  INFO,       11/pmon, Detected stopped manager WCCILdata(0) - restarting it #1
+WCCILpmon    (1), 2017.11.02 21:32:08.516, SYS,  INFO,        1, Manager Start, C:\Siemens\Automation\WinCC_OA\3.11\bin\WCCILdata.exe -PROJ sss -pmonIndex 1 
+WCCILdata    (0), 2017.11.02 21:32:08.572, SYS,  INFO,        1, Manager Start, PROJ, sss, V 3.11 - 3.11    linked at Jul 11 2012 23:32:12
+WCCILdata    (0), 2017.11.02 21:32:08.579, SYS,  FATAL,     158, Could not create the server socket on port = 4897: Permission denied
+WCCILdata    (0), 2017.11.02 21:32:10.582, SYS,  INFO,        2, Manager Stop
+WCCILpmon    (1), 2017.11.02 21:32:10.626, SYS,  INFO,       11/pmon, Detected stopped manager WCCILdata(0) - restarting it #2
+WCCILpmon    (1), 2017.11.02 21:32:10.628, SYS,  INFO,        1, Manager Start, C:\Siemens\Automation\WinCC_OA\3.11\bin\WCCILdata.exe -PROJ sss -pmonIndex 1 
+WCCILdata    (0), 2017.11.02 21:32:10.685, SYS,  INFO,        1, Manager Start, PROJ, sss, V 3.11 - 3.11    linked at Jul 11 2012 23:32:12
+WCCILdata    (0), 2017.11.02 21:32:10.691, SYS,  FATAL,     158, Could not create the server socket on port = 4897: Permission denied
+WCCILdata    (0), 2017.11.02 21:32:12.693, SYS,  INFO,        2, Manager Stop
+WCCILpmon    (1), 2017.11.02 21:32:12.739, SYS,  INFO,       11/pmon, Detected stopped manager WCCILdata(0) - restarting it #3
+WCCILpmon    (1), 2017.11.02 21:32:12.741, SYS,  INFO,        1, Manager Start, C:\Siemens\Automation\WinCC_OA\3.11\bin\WCCILdata.exe -PROJ sss -pmonIndex 1 
+WCCILdata    (0), 2017.11.02 21:32:12.808, SYS,  INFO,        1, Manager Start, PROJ, sss, V 3.11 - 3.11    linked at Jul 11 2012 23:32:12
+WCCILdata    (0), 2017.11.02 21:32:12.815, SYS,  FATAL,     158, Could not create the server socket on port = 4897: Permission denied
+WCCILdata    (0), 2017.11.02 21:32:14.817, SYS,  INFO,        2, Manager Stop
+WCCILpmon    (1), 2017.11.02 21:32:14.867, SYS,  SEVERE,      7/pmon, The manager WCCILdata(0) did not start correctly! Stopping the startup sequence and waiting for commands
+WCCILpmon    (1), 2017.11.02 21:32:17.780, SYS,  INFO,        3/pmon, Got shutdown command - stopping the project and terminating
+WCCILpmon    (1), 2017.11.02 21:32:17.781, SYS,  INFO,       15/pmon, Completely stopped the project - terminating
+WCCILpmon    (1), 2017.11.02 21:32:17.781, SYS,  INFO,        2, Manager Stop
+WCCILpmon    (1), 2017.11.02 21:36:46.238, SYS,  INFO,        1, Manager Start, START_MODE
+WCCILpmon    (1), 2017.11.02 21:36:46.579, SYS,  INFO,        1, Manager Start, C:\Siemens\Automation\WinCC_OA\3.11\bin\WCCILdata.exe -PROJ sss -pmonIndex 1 
+WCCILdata    (0), 2017.11.02 21:36:46.756, SYS,  INFO,        1, Manager Start, PROJ, sss, V 3.11 - 3.11    linked at Jul 11 2012 23:32:12
+WCCILdata    (0), 2017.11.02 21:36:46.770, SYS,  INFO,        0, , (Re)Opening databases in single user mode without transaction logging.
+WCCILdata    (0), 2017.11.02 21:36:47.442, SYS,  INFO,        0, , Initialize archive smoothing
+WCCILdata    (0), 2017.11.02 21:36:47.470, SYS,  INFO,        0, , Initialize archive smoothing
+WCCILdata    (0), 2017.11.02 21:36:47.471, SYS,  INFO,        0, , Loading DpIdentification
+WCCILdata    (0), 2017.11.02 21:36:47.688, SYS,  INFO,        0, , Initializing last value cache
+WCCILdata    (0), 2017.11.02 21:36:49.052, SYS,  INFO,        0, , Loading internal datapoints
+WCCILdata    (0), 2017.11.02 21:36:49.053, SYS,  INFO,        0, , Initializing ID history
+WCCILdata    (0), 2017.11.02 21:36:49.054, SYS,  INFO,        0, , Initializing Alert history
+WCCILdata    (0), 2017.11.02 21:36:49.160, SYS,  INFO,        0, , Initializing Alert Class cache
+WCCILdata    (0), 2017.11.02 21:36:49.288, SYS,  INFO,        6, Initialization by Data Manager finished
+WCCILdata    (0), 2017.11.02 21:36:49.334, SYS,  INFO,        0, , Initializing Value Archives
+WCCILdata    (0), 2017.11.02 21:36:49.341, SYS,  INFO,        0, , ValueArchive will be used...
+WCCILpmon    (1), 2017.11.02 21:36:49.542, SYS,  INFO,        1, Manager Start, C:\Siemens\Automation\WinCC_OA\3.11\bin\WCCOAvalarch.exe -PROJ sss -pmonIndex 2 -num 0
+WCCOAvalarch (0), 2017.11.02 21:36:49.651, SYS,  INFO,        1, Manager Start, PROJ, sss, V 3.11 - 3.11    linked at Jul 11 2012 23:27:57
+WCCOAvalarch (0), 2017.11.02 21:36:49.680, SYS,  INFO,        3, Trying to connect to, (SYS: 0 Data -num 0 CONN: 1) @ localhost:4897
+WCCOAvalarch (0), 2017.11.02 21:36:49.698, SYS,  INFO,        4, Connected to, (SYS: 0 Data -num 0 CONN: 1) @ Igor-PC (127.0.0.1)
+WCCILdata    (0), 2017.11.02 21:36:49.700, SYS,  INFO,        4, Connected to, (SYS: 1 Data -num 2 CONN: 1) @ Igor-PC (::ffff:127.0.0.1)
+WCCILdata    (0), 2017.11.02 21:36:49.702, PARAM,INFO,        1, Manager Start, HistOrgMain, connection from archive received - initializing, archive number is: 0
+WCCILdata    (0), 2017.11.02 21:36:49.705, SYS,  INFO,        0, , Manager (SYS: 1 Data -num 2 CONN: 1) initialised
+WCCILpmon    (1), 2017.11.02 21:36:49.847, SYS,  INFO,        1, Manager Start, C:\Siemens\Automation\WinCC_OA\3.11\bin\WCCOAvalarch.exe -PROJ sss -pmonIndex 3 -num 1
+WCCOAvalarch (1), 2017.11.02 21:36:49.906, SYS,  INFO,        1, Manager Start, PROJ, sss, V 3.11 - 3.11    linked at Jul 11 2012 23:27:57
+WCCOAvalarch (1), 2017.11.02 21:36:49.915, SYS,  INFO,        3, Trying to connect to, (SYS: 0 Data -num 0 CONN: 1) @ localhost:4897
+WCCOAvalarch (1), 2017.11.02 21:36:49.917, SYS,  INFO,        4, Connected to, (SYS: 0 Data -num 0 CONN: 1) @ Igor-PC (127.0.0.1)
+WCCILdata    (0), 2017.11.02 21:36:49.918, SYS,  INFO,        4, Connected to, (SYS: 1 Data -num 3 CONN: 1) @ Igor-PC (::ffff:127.0.0.1)
+WCCILdata    (0), 2017.11.02 21:36:49.919, PARAM,INFO,        1, Manager Start, HistOrgMain, connection from archive received - initializing, archive number is: 1
+WCCILdata    (0), 2017.11.02 21:36:49.921, SYS,  INFO,        0, , Manager (SYS: 1 Data -num 3 CONN: 1) initialised
+WCCILpmon    (1), 2017.11.02 21:36:50.052, SYS,  INFO,        1, Manager Start, C:\Siemens\Automation\WinCC_OA\3.11\bin\WCCOAvalarch.exe -PROJ sss -pmonIndex 4 -num 2
+WCCOAvalarch (2), 2017.11.02 21:36:50.106, SYS,  INFO,        1, Manager Start, PROJ, sss, V 3.11 - 3.11    linked at Jul 11 2012 23:27:57
+WCCOAvalarch (2), 2017.11.02 21:36:50.113, SYS,  INFO,        3, Trying to connect to, (SYS: 0 Data -num 0 CONN: 1) @ localhost:4897
+WCCOAvalarch (2), 2017.11.02 21:36:50.116, SYS,  INFO,        4, Connected to, (SYS: 0 Data -num 0 CONN: 1) @ Igor-PC (127.0.0.1)
+WCCILdata    (0), 2017.11.02 21:36:50.117, SYS,  INFO,        4, Connected to, (SYS: 1 Data -num 4 CONN: 1) @ Igor-PC (::ffff:127.0.0.1)
+WCCILdata    (0), 2017.11.02 21:36:50.119, PARAM,INFO,        1, Manager Start, HistOrgMain, connection from archive received - initializing, archive number is: 2
+WCCILdata    (0), 2017.11.02 21:36:50.122, SYS,  INFO,        0, , Manager (SYS: 1 Data -num 4 CONN: 1) initialised
+WCCILpmon    (1), 2017.11.02 21:36:50.255, SYS,  INFO,        1, Manager Start, C:\Siemens\Automation\WinCC_OA\3.11\bin\WCCOAvalarch.exe -PROJ sss -pmonIndex 5 -num 3
+WCCOAvalarch (3), 2017.11.02 21:36:50.300, SYS,  INFO,        1, Manager Start, PROJ, sss, V 3.11 - 3.11    linked at Jul 11 2012 23:27:57
+WCCOAvalarch (3), 2017.11.02 21:36:50.307, SYS,  INFO,        3, Trying to connect to, (SYS: 0 Data -num 0 CONN: 1) @ localhost:4897
+WCCOAvalarch (3), 2017.11.02 21:36:50.310, SYS,  INFO,        4, Connected to, (SYS: 0 Data -num 0 CONN: 1) @ Igor-PC (127.0.0.1)
+WCCILdata    (0), 2017.11.02 21:36:50.310, SYS,  INFO,        4, Connected to, (SYS: 1 Data -num 5 CONN: 1) @ Igor-PC (::ffff:127.0.0.1)
+WCCILdata    (0), 2017.11.02 21:36:50.312, PARAM,INFO,        1, Manager Start, HistOrgMain, connection from archive received - initializing, archive number is: 3
+WCCILdata    (0), 2017.11.02 21:36:50.313, SYS,  INFO,        0, , Manager (SYS: 1 Data -num 5 CONN: 1) initialised
+WCCILpmon    (1), 2017.11.02 21:36:50.459, SYS,  INFO,        1, Manager Start, C:\Siemens\Automation\WinCC_OA\3.11\bin\WCCOAvalarch.exe -PROJ sss -pmonIndex 6 -num 4
+WCCOAvalarch (4), 2017.11.02 21:36:50.506, SYS,  INFO,        1, Manager Start, PROJ, sss, V 3.11 - 3.11    linked at Jul 11 2012 23:27:57
+WCCOAvalarch (4), 2017.11.02 21:36:50.513, SYS,  INFO,        3, Trying to connect to, (SYS: 0 Data -num 0 CONN: 1) @ localhost:4897
+WCCOAvalarch (4), 2017.11.02 21:36:50.515, SYS,  INFO,        4, Connected to, (SYS: 0 Data -num 0 CONN: 1) @ Igor-PC (127.0.0.1)
+WCCILdata    (0), 2017.11.02 21:36:50.516, SYS,  INFO,        4, Connected to, (SYS: 1 Data -num 6 CONN: 1) @ Igor-PC (::ffff:127.0.0.1)
+WCCILdata    (0), 2017.11.02 21:36:50.517, PARAM,INFO,        1, Manager Start, HistOrgMain, connection from archive received - initializing, archive number is: 4
+WCCILdata    (0), 2017.11.02 21:36:50.519, SYS,  INFO,        0, , Manager (SYS: 1 Data -num 6 CONN: 1) initialised
+WCCILpmon    (1), 2017.11.02 21:36:50.662, SYS,  INFO,        1, Manager Start, C:\Siemens\Automation\WinCC_OA\3.11\bin\WCCOAvalarch.exe -PROJ sss -pmonIndex 7 -num 5
+WCCOAvalarch (5), 2017.11.02 21:36:50.712, SYS,  INFO,        1, Manager Start, PROJ, sss, V 3.11 - 3.11    linked at Jul 11 2012 23:27:57
+WCCOAvalarch (5), 2017.11.02 21:36:50.727, SYS,  INFO,        3, Trying to connect to, (SYS: 0 Data -num 0 CONN: 1) @ localhost:4897
+WCCOAvalarch (5), 2017.11.02 21:36:50.730, SYS,  INFO,        4, Connected to, (SYS: 0 Data -num 0 CONN: 1) @ Igor-PC (127.0.0.1)
+WCCILdata    (0), 2017.11.02 21:36:50.730, SYS,  INFO,        4, Connected to, (SYS: 1 Data -num 7 CONN: 1) @ Igor-PC (::ffff:127.0.0.1)
+WCCILdata    (0), 2017.11.02 21:36:50.731, PARAM,INFO,        1, Manager Start, HistOrgMain, connection from archive received - initializing, archive number is: 5
+WCCILdata    (0), 2017.11.02 21:36:50.733, SYS,  INFO,        0, , Manager (SYS: 1 Data -num 7 CONN: 1) initialised
+WCCOAvalarch (0), 2017.11.02 21:36:52.895, SYS,  INFO,        6, Initialization by Data Manager finished
+WCCILdata    (0), 2017.11.02 21:36:52.906, SYS,  INFO,        0, , Sending initial values to archive
+WCCOAvalarch (1), 2017.11.02 21:36:53.057, SYS,  INFO,        6, Initialization by Data Manager finished
+WCCILdata    (0), 2017.11.02 21:36:53.063, SYS,  INFO,        0, , Sending initial values to archive
+WCCOAvalarch (2), 2017.11.02 21:36:53.242, SYS,  INFO,        6, Initialization by Data Manager finished
+WCCILdata    (0), 2017.11.02 21:36:53.243, SYS,  INFO,        0, , Sending initial values to archive
+WCCOAvalarch (3), 2017.11.02 21:36:53.458, SYS,  INFO,        6, Initialization by Data Manager finished
+WCCILdata    (0), 2017.11.02 21:36:53.474, SYS,  INFO,        0, , Sending initial values to archive
+WCCOAvalarch (4), 2017.11.02 21:36:53.660, SYS,  INFO,        6, Initialization by Data Manager finished
+WCCILdata    (0), 2017.11.02 21:36:53.660, SYS,  INFO,        0, , Sending initial values to archive
+WCCOAvalarch (5), 2017.11.02 21:36:53.855, SYS,  INFO,        6, Initialization by Data Manager finished
+WCCILdata    (0), 2017.11.02 21:36:53.874, SYS,  INFO,        0, , Sending initial values to archive
+WCCOAvalarch (0), 2017.11.02 21:36:53.895, SYS,  INFO,        0, , Ready for operation.
+WCCILpmon    (1), 2017.11.02 21:36:53.951, SYS,  INFO,        1, Manager Start, C:\Siemens\Automation\WinCC_OA\3.11\bin\WCCILevent.exe -PROJ sss -pmonIndex 8 
+WCCILevent   (0), 2017.11.02 21:36:54.004, SYS,  INFO,        1, Manager Start, PROJ, sss, V 3.11 - 3.11    linked at Jul 11 2012 23:21:55
+WCCILevent   (0), 2017.11.02 21:36:54.044, SYS,  INFO,      108, License information, Host information
+Hostname:   Igor-PC
+HW-code:    41810088914
+HW-version: 31100002
+
+WCCILevent   (0), 2017.11.02 21:36:54.047, SYS,  SEVERE,    105, Invalid license, Igor-PC: No license found
+WCCOAvalarch (1), 2017.11.02 21:36:54.057, SYS,  INFO,        0, , Ready for operation.
+WCCILevent   (0), 2017.11.02 21:36:54.058, SYS,  INFO,      108, License information, Using license file C:\Siemens\Automation\WinCC_OA\3.11\shield
+
+WCCILevent   (0), 2017.11.02 21:36:54.096, SYS,  INFO,        3, Trying to connect to, (SYS: 0 Data -num 0 CONN: 1) @ localhost:4897
+WCCILevent   (0), 2017.11.02 21:36:54.099, SYS,  INFO,        4, Connected to, (SYS: 0 Data -num 0 CONN: 1) @ Igor-PC (127.0.0.1)
+WCCILdata    (0), 2017.11.02 21:36:54.100, SYS,  INFO,        4, Connected to, (SYS: 1 Event -num 0 CONN: 1) @ Igor-PC (::ffff:127.0.0.1)
+WCCILevent   (0), 2017.11.02 21:36:54.109, SYS,  SEVERE,    105, Invalid license, Igor-PC: No license found
+WCCOAvalarch (2), 2017.11.02 21:36:54.242, SYS,  INFO,        0, , Ready for operation.
+WCCOAvalarch (3), 2017.11.02 21:36:54.458, SYS,  INFO,        0, , Ready for operation.
+WCCILdata    (0), 2017.11.02 21:36:54.559, SYS,  INFO,        0, , Manager (SYS: 1 Event -num 0 CONN: 1) initialised
+WCCILevent   (0), 2017.11.02 21:36:54.559, SYS,  INFO,        6, Initialization by Data Manager finished
+WCCILevent   (0), 2017.11.02 21:36:54.560, SYS,  INFO,      169, Initialize 72 dp-functions
+WCCILevent   (0), 2017.11.02 21:36:54.569, SYS,  INFO,      168, Initialize 92 alerts
+WCCILevent   (0), 2017.11.02 21:36:54.571, SYS,  SEVERE,    105, Invalid license, Eventmanager will shutdown after the demo period of 1800 seconds
+WCCILevent   (0), 2017.11.02 21:36:54.573, SYS,  INFO,      103, User names/passwords initialized
+WCCOAvalarch (4), 2017.11.02 21:36:54.660, SYS,  INFO,        0, , Ready for operation.
+WCCILpmon    (1), 2017.11.02 21:36:54.734, SYS,  INFO,        1, Manager Start, C:\Siemens\Automation\WinCC_OA\3.11\bin\WCCOActrl.exe -PROJ sss -pmonIndex 9 -f pvss_scripts.lst
+WCCOActrl    (0), 2017.11.02 21:36:54.787, SYS,  INFO,        1, Manager Start, PROJ, sss, V 3.11 - 3.11    linked at Jul 11 2012 23:19:30
+WCCOActrl    (0), 2017.11.02 21:36:54.793, SYS,  INFO,        3, Trying to connect to, (SYS: 0 Data -num 0 CONN: 1) @ localhost:4897
+WCCOActrl    (0), 2017.11.02 21:36:54.797, SYS,  INFO,        4, Connected to, (SYS: 0 Data -num 0 CONN: 1) @ Igor-PC (127.0.0.1)
+WCCILdata    (0), 2017.11.02 21:36:54.798, SYS,  INFO,        4, Connected to, (SYS: 1 Ctrl -num 1 CONN: 1) @ Igor-PC (::ffff:127.0.0.1)
+WCCILdata    (0), 2017.11.02 21:36:54.801, SYS,  INFO,        0, , Manager (SYS: 1 Ctrl -num 1 CONN: 1) initialised
+WCCOActrl    (1), 2017.11.02 21:36:54.804, SYS,  INFO,        6, Initialization by Data Manager finished
+WCCOActrl    (1), 2017.11.02 21:36:54.804, SYS,  INFO,        3, Trying to connect to, (SYS: 1 Event -num 0 CONN: 1) @ localhost:4998
+WCCOActrl    (1), 2017.11.02 21:36:54.805, SYS,  INFO,        4, Connected to, (SYS: 1 Event -num 0 CONN: 1) @ Igor-PC (127.0.0.1)
+WCCILevent   (0), 2017.11.02 21:36:54.806, SYS,  WARNING,   105, Invalid license, Igor-PC: No license found, Running as demo version, ctrl
+WCCILevent   (0), 2017.11.02 21:36:54.806, SYS,  INFO,        4, Connected to, (SYS: 1 Ctrl -num 1 CONN: 1) @ Igor-PC (::ffff:127.0.0.1)
+WCCOActrl    (1), 2017.11.02 21:36:54.808, SYS,  INFO,      102, Waiting for user names/passwords
+WCCOActrl    (1), 2017.11.02 21:36:54.809, SYS,  INFO,      103, User names/passwords initialized
+WCCOAvalarch (5), 2017.11.02 21:36:54.855, SYS,  INFO,        0, , Ready for operation.
+WCCILpmon    (1), 2017.11.02 21:36:55.053, SYS,  INFO,        1, Manager Start, C:\Siemens\Automation\WinCC_OA\3.11\bin\WCCILsim.exe -PROJ sss -pmonIndex 10 
+WCCILsim     (1), 2017.11.02 21:36:55.103, SYS,  INFO,        1, Manager Start, PROJ, sss, V 3.11 - 3.11    linked at Jul 11 2012 22:27:53
+WCCILsim     (1), 2017.11.02 21:36:55.108, SYS,  INFO,        3, Trying to connect to, (SYS: 0 Data -num 0 CONN: 1) @ localhost:4897
+WCCILsim     (1), 2017.11.02 21:36:55.112, SYS,  INFO,        4, Connected to, (SYS: 0 Data -num 0 CONN: 1) @ Igor-PC (127.0.0.1)
+WCCILdata    (0), 2017.11.02 21:36:55.112, SYS,  INFO,        4, Connected to, (SYS: 1 Driver -num 1 CONN: 1) @ Igor-PC (::ffff:127.0.0.1)
+WCCOActrl    (1), 2017.11.02 21:36:55.284, SYS,  WARNING,     0, , Possible mismatch in host configuration: host1=Igor-PC
+WCCOActrl    (1), 2017.11.02 21:36:55.285, CTRL, WARNING,     5/ctrl, Location of the following log entry: calculateState.ctl    Library: C:\Siemens\Automation\WinCC_OA\3.11\scripts\libs\hosts.ctl
+    Line: 61
+WCCOActrl    (1), 2017.11.02 21:36:55.285, SYS,  WARNING,     0, , Possible mismatch in host configuration: host1=Igor-PC
+WCCILdata    (0), 2017.11.02 21:36:55.440, SYS,  INFO,        0, , Manager (SYS: 1 Driver -num 1 CONN: 1) initialised
+WCCILsim     (1), 2017.11.02 21:36:55.441, SYS,  INFO,        6, Initialization by Data Manager finished
+WCCILsim     (1), 2017.11.02 21:36:55.442, SYS,  INFO,        3, Trying to connect to, (SYS: 1 Event -num 0 CONN: 1) @ localhost:4998
+WCCILsim     (1), 2017.11.02 21:36:55.443, SYS,  INFO,        4, Connected to, (SYS: 1 Event -num 0 CONN: 1) @ Igor-PC (127.0.0.1)
+WCCILevent   (0), 2017.11.02 21:36:55.444, SYS,  WARNING,   105, Invalid license, Igor-PC: No license found, Running as demo version, driver
+WCCILevent   (0), 2017.11.02 21:36:55.445, SYS,  INFO,        4, Connected to, (SYS: 1 Driver -num 1 CONN: 1) @ Igor-PC (::ffff:127.0.0.1)
+WCCILsim     (1), 2017.11.02 21:36:55.448, SYS,  SEVERE,    105, Invalid license, Driver will shutdown after the demo period of 1800 seconds
+WCCILsim     (1), 2017.11.02 21:36:55.448, SYS,  INFO,      156, Driver initialization finished.
+WCCILpmon    (1), 2017.11.02 21:36:55.458, SYS,  INFO,        1, Manager Start, C:\Siemens\Automation\WinCC_OA\3.11\bin\WCCOAui.exe -PROJ sss -pmonIndex 11 -m gedi
+WCCOAui      (0), 2017.11.02 21:36:55.530, SYS,  INFO,        1, Manager Start, PROJ, sss, V 3.11 - 3.11    linked at Jul 12 2012 00:11:22
+WCCOAui      (0), 2017.11.02 21:36:55.547, SYS,  INFO,        3, Trying to connect to, (SYS: 0 Data -num 0 CONN: 1) @ localhost:4897
+WCCOAui      (0), 2017.11.02 21:36:55.558, SYS,  INFO,        4, Connected to, (SYS: 0 Data -num 0 CONN: 1) @ Igor-PC (127.0.0.1)
+WCCILdata    (0), 2017.11.02 21:36:55.567, SYS,  INFO,        4, Connected to, (SYS: 1 Ui -num 1 CONN: 1) @ Igor-PC (::ffff:127.0.0.1)
+WCCILdata    (0), 2017.11.02 21:36:55.584, SYS,  INFO,        0, , Manager (SYS: 1 Ui -num 1 CONN: 1) initialised
+WCCOAui      (1), 2017.11.02 21:36:55.588, SYS,  INFO,        6, Initialization by Data Manager finished
+WCCOAui      (1), 2017.11.02 21:36:55.591, SYS,  INFO,        3, Trying to connect to, (SYS: 1 Event -num 0 CONN: 1) @ localhost:4998
+WCCOAui      (1), 2017.11.02 21:36:55.605, SYS,  INFO,        4, Connected to, (SYS: 1 Event -num 0 CONN: 1) @ Igor-PC (127.0.0.1)
+WCCILevent   (0), 2017.11.02 21:36:55.608, SYS,  WARNING,   105, Invalid license, Igor-PC: No license found, Running as demo version, ui
+WCCILevent   (0), 2017.11.02 21:36:55.609, SYS,  INFO,        4, Connected to, (SYS: 1 Ui -num 1 CONN: 1) @ Igor-PC (::ffff:127.0.0.1)
+WCCOAui      (1), 2017.11.02 21:36:55.613, SYS,  INFO,      102, Waiting for user names/passwords
+WCCOAui      (1), 2017.11.02 21:36:55.618, SYS,  INFO,      103, User names/passwords initialized
+WCCILpmon    (1), 2017.11.02 21:36:55.659, SYS,  INFO,        9/pmon, The project is up and running. Entering monitor mode
+WCCILdata    (0), 2017.11.02 21:37:55.762, SYS,  INFO,        0, , Loading DpIdentification
+WCCILdata    (0), 2017.11.02 21:37:55.764, SYS,  INFO,        0, , (Re)Opening databases in multi user mode without transaction logging.
+WCCILdata    (0), 2017.11.02 21:37:56.135, SYS,  INFO,        0, , DataManager, startBgMgr, (Re)starting WCCILdatabg
+WCCILdatabg  (1), 2017.11.02 21:37:56.266, SYS,  INFO,        1, Manager Start, PROJ, sss, V 3.11 - 3.11    linked at Jul 11 2012 23:24:50
+WCCILdatabg  (1), 2017.11.02 21:37:56.271, SYS,  INFO,        3, Trying to connect to, (SYS: 0 Data -num 0 CONN: 1) @ localhost:4897
+WCCILdatabg  (1), 2017.11.02 21:37:56.274, SYS,  INFO,        4, Connected to, (SYS: 0 Data -num 0 CONN: 1) @ Igor-PC (127.0.0.1)
+WCCILdata    (0), 2017.11.02 21:37:56.275, SYS,  INFO,        4, Connected to, (SYS: 1 Data -num 1 CONN: 1) @ Igor-PC (::ffff:127.0.0.1)
+WCCILdata    (0), 2017.11.02 21:37:56.279, SYS,  INFO,        0, , Manager (SYS: 1 Data -num 1 CONN: 1) initialised
+WCCILdatabg  (1), 2017.11.02 21:37:56.479, SYS,  INFO,        6, Initialization by Data Manager finished
+WCCOAui      (1), 2017.11.02 21:42:03.987, SYS,  WARNING,     0, , Possible mismatch in host configuration: host1=Igor-PC
+WCCOAui      (1), 2017.11.02 21:42:06.663, CTRL, WARNING,     5/ctrl, Location of the following log entry: 
+    Module: WinCC_OA(1)
+    Panel: C:\Siemens\Automation\WinCC_OA\3.11\panels\vision\AsciiMan.pnl []
+    Script: Initialize
+    Library: C:\Siemens\Automation\WinCC_OA\3.11\scripts\libs\hosts.ctl
+    Line: 61
+WCCOAui      (1), 2017.11.02 21:42:06.663, SYS,  WARNING,     0, , Possible mismatch in host configuration: host1=Igor-PC
+WCCILdata    (0), 2017.11.02 21:43:21.153, SYS,  INFO,        4, Connected to, (SYS: 1 Ascii -num 1 CONN: 1) @ Igor-PC (::ffff:127.0.0.1)
+WCCILdata    (0), 2017.11.02 21:43:21.156, SYS,  INFO,        0, , Manager (SYS: 1 Ascii -num 1 CONN: 1) initialised
+WCCILevent   (0), 2017.11.02 21:43:21.161, SYS,  WARNING,   105, Invalid license, Igor-PC: No license found, Running as demo version, ascii
+WCCILevent   (0), 2017.11.02 21:43:21.162, SYS,  INFO,        4, Connected to, (SYS: 1 Ascii -num 1 CONN: 1) @ Igor-PC (::ffff:127.0.0.1)
+WCCILdata    (0), 2017.11.02 21:43:21.229, SYS,  WARNING,    39, Connection lost, MAN: (SYS: 1 Ascii -num 1 CONN: 1), Connection reset by peer (10054)
+WCCILevent   (0), 2017.11.02 21:43:21.229, SYS,  WARNING,    39, Connection lost, MAN: (SYS: 1 Ascii -num 1 CONN: 1), Connection reset by peer (10054)
