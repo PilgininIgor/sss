@@ -11531,3 +11531,306 @@ WCCOAui      (2), 2017.11.21 01:00:19.458, SYS,  INFO,       39, Connection lost
 WCCILevent   (0), 2017.11.21 01:00:19.458, SYS,  INFO,       39, Connection lost, MAN: (SYS: 1 Ui -num 2 CONN: 1), Connection closed
 WCCOAui      (2), 2017.11.21 01:00:19.459, SYS,  INFO,       39, Connection lost, MAN: (SYS: 1 Event -num 0 CONN: 1), Connection closed
 WCCOAui      (2), 2017.11.21 01:00:19.505, SYS,  INFO,        2, Manager Stop
+WCCILpmon    (1), 2017.11.21 01:03:12.858, SYS,  INFO,       24/pmon, Got START command from ::1, starting the manager WCCOAui(2) at index 11
+WCCILpmon    (1), 2017.11.21 01:03:12.861, SYS,  INFO,        1, Manager Start, C:\Siemens\Automation\WinCC_OA\3.11\bin\WCCOAui.exe -PROJ sss -pmonIndex 11 -m gedi
+WCCOAui      (0), 2017.11.21 01:03:13.022, SYS,  INFO,        1, Manager Start, PROJ, sss, V 3.11 - 3.11    linked at Jul 12 2012 00:11:22
+WCCOAui      (0), 2017.11.21 01:03:13.040, SYS,  INFO,        3, Trying to connect to, (SYS: 0 Data -num 0 CONN: 1) @ localhost:4897
+WCCOAui      (0), 2017.11.21 01:03:13.048, SYS,  INFO,        4, Connected to, (SYS: 0 Data -num 0 CONN: 1) @ Igor-PC (127.0.0.1)
+WCCILdata    (0), 2017.11.21 01:03:13.054, SYS,  INFO,        4, Connected to, (SYS: 1 Ui -num 2 CONN: 1) @ Igor-PC (::ffff:127.0.0.1)
+WCCILdata    (0), 2017.11.21 01:03:13.065, SYS,  INFO,        0, , Manager (SYS: 1 Ui -num 2 CONN: 1) initialised
+WCCOAui      (2), 2017.11.21 01:03:13.067, SYS,  INFO,        6, Initialization by Data Manager finished
+WCCOAui      (2), 2017.11.21 01:03:13.070, SYS,  INFO,        3, Trying to connect to, (SYS: 1 Event -num 0 CONN: 1) @ localhost:4998
+WCCOAui      (2), 2017.11.21 01:03:13.074, SYS,  INFO,        4, Connected to, (SYS: 1 Event -num 0 CONN: 1) @ Igor-PC (127.0.0.1)
+WCCILevent   (0), 2017.11.21 01:03:13.078, SYS,  WARNING,   105, Invalid license, Igor-PC: No license found, Running as demo version, ui
+WCCILevent   (0), 2017.11.21 01:03:13.079, SYS,  INFO,        4, Connected to, (SYS: 1 Ui -num 2 CONN: 1) @ Igor-PC (::ffff:127.0.0.1)
+WCCOAui      (2), 2017.11.21 01:03:13.094, SYS,  INFO,      102, Waiting for user names/passwords
+WCCOAui      (2), 2017.11.21 01:03:13.097, SYS,  INFO,      103, User names/passwords initialized
+WCCILevent   (0), 2017.11.21 01:03:35.705, SYS,  SEVERE,    105, Invalid license, Igor-PC: No license found
+WCCILevent   (0), 2017.11.21 01:03:35.706, SYS,  FATAL,     105, Invalid license, License timer expired, exiting...
+WCCILevent   (0), 2017.11.21 01:03:35.708, SYS,  INFO,        2, Manager Stop, start cleanup
+WCCILevent   (0), 2017.11.21 01:03:35.708, SYS,  INFO,      181, Closing connection to (SYS: 1 Data -num 0 CONN: 1)
+WCCILevent   (0), 2017.11.21 01:03:35.708, SYS,  INFO,      181, Closing connection to (SYS: 1 Ctrl -num 1 CONN: 1)
+WCCOActrl    (1), 2017.11.21 01:03:35.709, SYS,  INFO,       39, Connection lost, MAN: (SYS: 1 Event -num 0 CONN: 1), Connection closed
+WCCOActrl    (1), 2017.11.21 01:03:35.709, SYS,  SEVERE,     54, Unexpected state, CtrlMgr, doConnectionClose, Lost Connection to Event Manager, exiting ...
+WCCILdata    (0), 2017.11.21 01:03:35.709, SYS,  INFO,       39, Connection lost, MAN: (SYS: 1 Event -num 0 CONN: 1), Connection closed
+WCCILevent   (0), 2017.11.21 01:03:35.709, SYS,  INFO,      181, Closing connection to (SYS: 1 Driver -num 1 CONN: 1)
+WCCILevent   (0), 2017.11.21 01:03:36.710, SYS,  INFO,      181, Closing connection to (SYS: 1 Ui -num 2 CONN: 1)
+WCCOAui      (2), 2017.11.21 01:03:36.710, SYS,  INFO,       39, Connection lost, MAN: (SYS: 1 Event -num 0 CONN: 1), Connection closed
+WCCILevent   (0), 2017.11.21 01:03:36.716, SYS,  INFO,        2, Manager Stop
+WCCILsim     (1), 2017.11.21 01:03:36.717, SYS,  INFO,       39, Connection lost, MAN: (SYS: 1 Event -num 0 CONN: 1), Connection closed
+WCCOAui      (2), 2017.11.21 01:03:36.764, SYS,  WARNING,    65, Wrong destination address, (SYS: 1 Event -num 0 CONN: 1), DP_MSG_DISCONNECT
+WCCOAui      (2), 2017.11.21 01:03:36.764, SYS,  WARNING,    65, Wrong destination address, (SYS: 1 Event -num 0 CONN: 1), DP_MSG_DISCONNECT
+WCCILpmon    (1), 2017.11.21 01:03:36.783, SYS,  INFO,       11/pmon, Detected stopped manager WCCILevent(0) - restarting it #1
+WCCILpmon    (1), 2017.11.21 01:03:36.785, SYS,  INFO,        1, Manager Start, C:\Siemens\Automation\WinCC_OA\3.11\bin\WCCILevent.exe -PROJ sss -pmonIndex 8 
+WCCILevent   (0), 2017.11.21 01:03:36.864, SYS,  INFO,        1, Manager Start, PROJ, sss, V 3.11 - 3.11    linked at Jul 11 2012 23:21:55
+WCCILevent   (0), 2017.11.21 01:03:36.872, SYS,  INFO,      108, License information, Host information
+Hostname:   Igor-PC
+HW-code:    41810088914
+HW-version: 31100002
+
+WCCILevent   (0), 2017.11.21 01:03:36.875, SYS,  SEVERE,    105, Invalid license, Igor-PC: No license found
+WCCILevent   (0), 2017.11.21 01:03:36.878, SYS,  INFO,      108, License information, Using license file C:\Siemens\Automation\WinCC_OA\3.11\shield
+
+WCCILevent   (0), 2017.11.21 01:03:36.883, SYS,  INFO,        3, Trying to connect to, (SYS: 0 Data -num 0 CONN: 1) @ localhost:4897
+WCCILevent   (0), 2017.11.21 01:03:36.885, SYS,  INFO,        4, Connected to, (SYS: 0 Data -num 0 CONN: 1) @ Igor-PC (127.0.0.1)
+WCCILdata    (0), 2017.11.21 01:03:36.886, SYS,  INFO,        4, Connected to, (SYS: 1 Event -num 0 CONN: 1) @ Igor-PC (::ffff:127.0.0.1)
+WCCILevent   (0), 2017.11.21 01:03:36.900, SYS,  SEVERE,    105, Invalid license, Igor-PC: No license found
+WCCILdata    (0), 2017.11.21 01:03:37.225, IMPL, SEVERE,     54, Unexpected state, DataManDpIntern, refreshSaveDirList, Error reading directories
+WCCILdata    (0), 2017.11.21 01:03:37.225, IMPL, SEVERE,     54, Unexpected state, DataManDpIntern, refreshAlertSaveDirList, Error reading directories
+WCCILdata    (0), 2017.11.21 01:03:37.226, SYS,  INFO,        0, , Manager (SYS: 1 Event -num 0 CONN: 1) initialised
+WCCILevent   (0), 2017.11.21 01:03:37.226, SYS,  INFO,        6, Initialization by Data Manager finished
+WCCILevent   (0), 2017.11.21 01:03:37.226, SYS,  INFO,      169, Initialize 72 dp-functions
+WCCILevent   (0), 2017.11.21 01:03:37.235, SYS,  INFO,      168, Initialize 91 alerts
+WCCILevent   (0), 2017.11.21 01:03:37.237, SYS,  SEVERE,    105, Invalid license, Eventmanager will shutdown after the demo period of 1800 seconds
+WCCILevent   (0), 2017.11.21 01:03:37.238, SYS,  INFO,      103, User names/passwords initialized
+WCCOActrl    (1), 2017.11.21 01:03:37.710, SYS,  INFO,      181, Closing connection to (SYS: 1 Data -num 0 CONN: 1)
+WCCILdata    (0), 2017.11.21 01:03:37.710, SYS,  INFO,       39, Connection lost, MAN: (SYS: 1 Ctrl -num 1 CONN: 1), Connection closed
+WCCOActrl    (1), 2017.11.21 01:03:37.711, SYS,  INFO,       39, Connection lost, MAN: (SYS: 1 Data -num 0 CONN: 1), Connection closed
+WCCOActrl    (1), 2017.11.21 01:03:37.720, SYS,  INFO,        2, Manager Stop
+WCCILpmon    (1), 2017.11.21 01:03:37.786, SYS,  INFO,       11/pmon, Detected stopped manager WCCOActrl(1) - restarting it #1
+WCCILpmon    (1), 2017.11.21 01:03:37.788, SYS,  INFO,        1, Manager Start, C:\Siemens\Automation\WinCC_OA\3.11\bin\WCCOActrl.exe -PROJ sss -pmonIndex 9 -f pvss_scripts.lst
+WCCOActrl    (0), 2017.11.21 01:03:37.861, SYS,  INFO,        1, Manager Start, PROJ, sss, V 3.11 - 3.11    linked at Jul 11 2012 23:19:30
+WCCOActrl    (0), 2017.11.21 01:03:37.866, SYS,  INFO,        3, Trying to connect to, (SYS: 0 Data -num 0 CONN: 1) @ localhost:4897
+WCCOActrl    (0), 2017.11.21 01:03:37.870, SYS,  INFO,        4, Connected to, (SYS: 0 Data -num 0 CONN: 1) @ Igor-PC (127.0.0.1)
+WCCILdata    (0), 2017.11.21 01:03:37.871, SYS,  INFO,        4, Connected to, (SYS: 1 Ctrl -num 1 CONN: 1) @ Igor-PC (::ffff:127.0.0.1)
+WCCILdata    (0), 2017.11.21 01:03:37.874, SYS,  INFO,        0, , Manager (SYS: 1 Ctrl -num 1 CONN: 1) initialised
+WCCOActrl    (1), 2017.11.21 01:03:37.877, SYS,  INFO,        6, Initialization by Data Manager finished
+WCCOActrl    (1), 2017.11.21 01:03:37.877, SYS,  INFO,        3, Trying to connect to, (SYS: 1 Event -num 0 CONN: 1) @ localhost:4998
+WCCOActrl    (1), 2017.11.21 01:03:37.878, SYS,  INFO,        4, Connected to, (SYS: 1 Event -num 0 CONN: 1) @ Igor-PC (127.0.0.1)
+WCCILevent   (0), 2017.11.21 01:03:37.879, SYS,  WARNING,   105, Invalid license, Igor-PC: No license found, Running as demo version, ctrl
+WCCILevent   (0), 2017.11.21 01:03:37.880, SYS,  INFO,        4, Connected to, (SYS: 1 Ctrl -num 1 CONN: 1) @ Igor-PC (::ffff:127.0.0.1)
+WCCOActrl    (1), 2017.11.21 01:03:37.882, SYS,  INFO,      102, Waiting for user names/passwords
+WCCOActrl    (1), 2017.11.21 01:03:37.883, SYS,  INFO,      103, User names/passwords initialized
+WCCOActrl    (1), 2017.11.21 01:03:37.940, SYS,  WARNING,     0, , Possible mismatch in host configuration: host1=Igor-PC
+WCCOActrl    (1), 2017.11.21 01:03:37.941, CTRL, WARNING,     5/ctrl, Location of the following log entry: calculateState.ctl    Library: C:\Siemens\Automation\WinCC_OA\3.11\scripts\libs\hosts.ctl
+    Line: 61
+WCCOActrl    (1), 2017.11.21 01:03:37.941, SYS,  WARNING,     0, , Possible mismatch in host configuration: host1=Igor-PC
+WCCILsim     (1), 2017.11.21 01:03:38.728, SYS,  INFO,      181, Closing connection to (SYS: 1 Data -num 0 CONN: 1)
+WCCILsim     (1), 2017.11.21 01:03:38.728, SYS,  SEVERE,    105, Invalid license, Demo period expired, exiting...
+WCCILdata    (0), 2017.11.21 01:03:38.728, SYS,  INFO,       39, Connection lost, MAN: (SYS: 1 Driver -num 1 CONN: 1), Connection closed
+WCCILsim     (1), 2017.11.21 01:03:38.729, SYS,  INFO,       39, Connection lost, MAN: (SYS: 1 Data -num 0 CONN: 1), Connection closed
+WCCILsim     (1), 2017.11.21 01:03:38.729, SYS,  INFO,        2, Manager Stop
+WCCOAui      (2), 2017.11.21 01:03:38.777, SYS,  INFO,      181, Closing connection to (SYS: 1 Data -num 0 CONN: 1)
+WCCILdata    (0), 2017.11.21 01:03:38.777, SYS,  INFO,       39, Connection lost, MAN: (SYS: 1 Ui -num 2 CONN: 1), Connection closed
+WCCOAui      (2), 2017.11.21 01:03:38.778, SYS,  INFO,       39, Connection lost, MAN: (SYS: 1 Data -num 0 CONN: 1), Connection closed
+WCCILpmon    (1), 2017.11.21 01:03:38.796, SYS,  INFO,       11/pmon, Detected stopped manager WCCILsim(1) - restarting it #1
+WCCILpmon    (1), 2017.11.21 01:03:38.800, SYS,  INFO,        1, Manager Start, C:\Siemens\Automation\WinCC_OA\3.11\bin\WCCILsim.exe -PROJ sss -pmonIndex 10 
+WCCOAui      (2), 2017.11.21 01:03:38.805, SYS,  INFO,        2, Manager Stop
+WCCILsim     (1), 2017.11.21 01:03:38.878, SYS,  INFO,        1, Manager Start, PROJ, sss, V 3.11 - 3.11    linked at Jul 11 2012 22:27:53
+WCCILsim     (1), 2017.11.21 01:03:38.883, SYS,  INFO,        3, Trying to connect to, (SYS: 0 Data -num 0 CONN: 1) @ localhost:4897
+WCCILsim     (1), 2017.11.21 01:03:38.886, SYS,  INFO,        4, Connected to, (SYS: 0 Data -num 0 CONN: 1) @ Igor-PC (127.0.0.1)
+WCCILdata    (0), 2017.11.21 01:03:38.887, SYS,  INFO,        4, Connected to, (SYS: 1 Driver -num 1 CONN: 1) @ Igor-PC (::ffff:127.0.0.1)
+WCCILdata    (0), 2017.11.21 01:03:38.914, SYS,  INFO,        0, , Manager (SYS: 1 Driver -num 1 CONN: 1) initialised
+WCCILsim     (1), 2017.11.21 01:03:38.914, SYS,  INFO,        6, Initialization by Data Manager finished
+WCCILsim     (1), 2017.11.21 01:03:38.915, SYS,  INFO,        3, Trying to connect to, (SYS: 1 Event -num 0 CONN: 1) @ localhost:4998
+WCCILsim     (1), 2017.11.21 01:03:38.916, SYS,  INFO,        4, Connected to, (SYS: 1 Event -num 0 CONN: 1) @ Igor-PC (127.0.0.1)
+WCCILevent   (0), 2017.11.21 01:03:38.917, SYS,  WARNING,   105, Invalid license, Igor-PC: No license found, Running as demo version, driver
+WCCILevent   (0), 2017.11.21 01:03:38.918, SYS,  INFO,        4, Connected to, (SYS: 1 Driver -num 1 CONN: 1) @ Igor-PC (::ffff:127.0.0.1)
+WCCILsim     (1), 2017.11.21 01:03:38.922, SYS,  SEVERE,    105, Invalid license, Driver will shutdown after the demo period of 1800 seconds
+WCCILsim     (1), 2017.11.21 01:03:38.922, SYS,  INFO,      156, Driver initialization finished.
+WCCILpmon    (1), 2017.11.21 01:03:41.411, SYS,  INFO,       24/pmon, Got START command from ::1, starting the manager WCCOAui(2) at index 11
+WCCILpmon    (1), 2017.11.21 01:03:41.414, SYS,  INFO,        1, Manager Start, C:\Siemens\Automation\WinCC_OA\3.11\bin\WCCOAui.exe -PROJ sss -pmonIndex 11 -m gedi
+WCCOAui      (0), 2017.11.21 01:03:41.494, SYS,  INFO,        1, Manager Start, PROJ, sss, V 3.11 - 3.11    linked at Jul 12 2012 00:11:22
+WCCOAui      (0), 2017.11.21 01:03:41.511, SYS,  INFO,        3, Trying to connect to, (SYS: 0 Data -num 0 CONN: 1) @ localhost:4897
+WCCOAui      (0), 2017.11.21 01:03:41.519, SYS,  INFO,        4, Connected to, (SYS: 0 Data -num 0 CONN: 1) @ Igor-PC (127.0.0.1)
+WCCILdata    (0), 2017.11.21 01:03:41.525, SYS,  INFO,        4, Connected to, (SYS: 1 Ui -num 2 CONN: 1) @ Igor-PC (::ffff:127.0.0.1)
+WCCILdata    (0), 2017.11.21 01:03:41.535, SYS,  INFO,        0, , Manager (SYS: 1 Ui -num 2 CONN: 1) initialised
+WCCOAui      (2), 2017.11.21 01:03:41.537, SYS,  INFO,        6, Initialization by Data Manager finished
+WCCOAui      (2), 2017.11.21 01:03:41.541, SYS,  INFO,        3, Trying to connect to, (SYS: 1 Event -num 0 CONN: 1) @ localhost:4998
+WCCOAui      (2), 2017.11.21 01:03:41.545, SYS,  INFO,        4, Connected to, (SYS: 1 Event -num 0 CONN: 1) @ Igor-PC (127.0.0.1)
+WCCILevent   (0), 2017.11.21 01:03:41.548, SYS,  WARNING,   105, Invalid license, Igor-PC: No license found, Running as demo version, ui
+WCCILevent   (0), 2017.11.21 01:03:41.549, SYS,  INFO,        4, Connected to, (SYS: 1 Ui -num 2 CONN: 1) @ Igor-PC (::ffff:127.0.0.1)
+WCCOAui      (2), 2017.11.21 01:03:41.563, SYS,  INFO,      102, Waiting for user names/passwords
+WCCOAui      (2), 2017.11.21 01:03:41.566, SYS,  INFO,      103, User names/passwords initialized
+WCCOAui      (2), 2017.11.21 01:14:12.025, CTRL, WARNING,    12/uim, 
+    Module: _QuickTest_
+    Panel: C:\sss\panels\InteligentH1.pnl []
+    Object: 8 named: "ELLIPSE1" of type: ELLIPSE
+    In reference: objects\PresenceSensorTableRow.pnl Group: 0 named: "PANEL_REF0"
+      used in:    tables\PresenceSensorTable.pnl Group: 15 named: "PANEL_REF15"
+    Script: Initialize
+    Line: 29, Object "ELLIPSE1" of type "ELLIPSE" does not know the attribute "text" for "setValue()"
+WCCOAui      (2), 2017.11.21 01:14:12.026, CTRL, WARNING,    12/uim, 
+    Module: _QuickTest_
+    Panel: C:\sss\panels\InteligentH1.pnl []
+    Object: 8 named: "ELLIPSE1" of type: ELLIPSE
+    In reference: objects\PresenceSensorTableRow.pnl Group: 1 named: "PANEL_REF1"
+      used in:    tables\PresenceSensorTable.pnl Group: 15 named: "PANEL_REF15"
+    Script: Initialize
+    Line: 29, Object "ELLIPSE1" of type "ELLIPSE" does not know the attribute "text" for "setValue()"
+WCCOAui      (2), 2017.11.21 01:14:12.028, CTRL, WARNING,    12/uim, 
+    Module: _QuickTest_
+    Panel: C:\sss\panels\InteligentH1.pnl []
+    Object: 8 named: "ELLIPSE1" of type: ELLIPSE
+    In reference: objects\PresenceSensorTableRow.pnl Group: 2 named: "PANEL_REF2"
+      used in:    tables\PresenceSensorTable.pnl Group: 15 named: "PANEL_REF15"
+    Script: Initialize
+    Line: 29, Object "ELLIPSE1" of type "ELLIPSE" does not know the attribute "text" for "setValue()"
+WCCOAui      (2), 2017.11.21 01:14:12.029, CTRL, WARNING,    12/uim, 
+    Module: _QuickTest_
+    Panel: C:\sss\panels\InteligentH1.pnl []
+    Object: 8 named: "ELLIPSE1" of type: ELLIPSE
+    In reference: objects\PresenceSensorTableRow.pnl Group: 3 named: "PANEL_REF3"
+      used in:    tables\PresenceSensorTable.pnl Group: 15 named: "PANEL_REF15"
+    Script: Initialize
+    Line: 29, Object "ELLIPSE1" of type "ELLIPSE" does not know the attribute "text" for "setValue()"
+WCCOAui      (2), 2017.11.21 01:14:12.030, CTRL, WARNING,    12/uim, 
+    Module: _QuickTest_
+    Panel: C:\sss\panels\InteligentH1.pnl []
+    Object: 8 named: "ELLIPSE1" of type: ELLIPSE
+    In reference: objects\PresenceSensorTableRow.pnl Group: 4 named: "PANEL_REF4"
+      used in:    tables\PresenceSensorTable.pnl Group: 15 named: "PANEL_REF15"
+    Script: Initialize
+    Line: 29, Object "ELLIPSE1" of type "ELLIPSE" does not know the attribute "text" for "setValue()"
+WCCOAui      (2), 2017.11.21 01:14:12.032, CTRL, WARNING,    12/uim, 
+    Module: _QuickTest_
+    Panel: C:\sss\panels\InteligentH1.pnl []
+    Object: 8 named: "ELLIPSE1" of type: ELLIPSE
+    In reference: objects\PresenceSensorTableRow.pnl Group: 5 named: "PANEL_REF5"
+      used in:    tables\PresenceSensorTable.pnl Group: 15 named: "PANEL_REF15"
+    Script: Initialize
+    Line: 29, Object "ELLIPSE1" of type "ELLIPSE" does not know the attribute "text" for "setValue()"
+WCCOAui      (2), 2017.11.21 01:17:18.240, CTRL, WARNING,    12/uim, 
+    Module: _QuickTest_
+    Panel: C:\sss\panels\InteligentH1.pnl []
+    Object: 8 named: "ELLIPSE1" of type: ELLIPSE
+    In reference: objects\PresenceSensorTableRow.pnl Group: 0 named: "PANEL_REF0"
+      used in:    tables\PresenceSensorTable.pnl Group: 15 named: "PANEL_REF15"
+    Script: Initialize
+    Line: 29, Object "ELLIPSE1" of type "ELLIPSE" does not know the attribute "text" for "setValue()"
+WCCOAui      (2), 2017.11.21 01:17:18.241, CTRL, WARNING,    12/uim, 
+    Module: _QuickTest_
+    Panel: C:\sss\panels\InteligentH1.pnl []
+    Object: 8 named: "ELLIPSE1" of type: ELLIPSE
+    In reference: objects\PresenceSensorTableRow.pnl Group: 1 named: "PANEL_REF1"
+      used in:    tables\PresenceSensorTable.pnl Group: 15 named: "PANEL_REF15"
+    Script: Initialize
+    Line: 29, Object "ELLIPSE1" of type "ELLIPSE" does not know the attribute "text" for "setValue()"
+WCCOAui      (2), 2017.11.21 01:17:18.241, CTRL, WARNING,    12/uim, 
+    Module: _QuickTest_
+    Panel: C:\sss\panels\InteligentH1.pnl []
+    Object: 8 named: "ELLIPSE1" of type: ELLIPSE
+    In reference: objects\PresenceSensorTableRow.pnl Group: 2 named: "PANEL_REF2"
+      used in:    tables\PresenceSensorTable.pnl Group: 15 named: "PANEL_REF15"
+    Script: Initialize
+    Line: 29, Object "ELLIPSE1" of type "ELLIPSE" does not know the attribute "text" for "setValue()"
+WCCOAui      (2), 2017.11.21 01:17:18.242, CTRL, WARNING,    12/uim, 
+    Module: _QuickTest_
+    Panel: C:\sss\panels\InteligentH1.pnl []
+    Object: 8 named: "ELLIPSE1" of type: ELLIPSE
+    In reference: objects\PresenceSensorTableRow.pnl Group: 3 named: "PANEL_REF3"
+      used in:    tables\PresenceSensorTable.pnl Group: 15 named: "PANEL_REF15"
+    Script: Initialize
+    Line: 29, Object "ELLIPSE1" of type "ELLIPSE" does not know the attribute "text" for "setValue()"
+WCCOAui      (2), 2017.11.21 01:17:18.243, CTRL, WARNING,    12/uim, 
+    Module: _QuickTest_
+    Panel: C:\sss\panels\InteligentH1.pnl []
+    Object: 8 named: "ELLIPSE1" of type: ELLIPSE
+    In reference: objects\PresenceSensorTableRow.pnl Group: 4 named: "PANEL_REF4"
+      used in:    tables\PresenceSensorTable.pnl Group: 15 named: "PANEL_REF15"
+    Script: Initialize
+    Line: 29, Object "ELLIPSE1" of type "ELLIPSE" does not know the attribute "text" for "setValue()"
+WCCOAui      (2), 2017.11.21 01:17:18.253, CTRL, WARNING,    12/uim, 
+    Module: _QuickTest_
+    Panel: C:\sss\panels\InteligentH1.pnl []
+    Object: 8 named: "ELLIPSE1" of type: ELLIPSE
+    In reference: objects\PresenceSensorTableRow.pnl Group: 5 named: "PANEL_REF5"
+      used in:    tables\PresenceSensorTable.pnl Group: 15 named: "PANEL_REF15"
+    Script: Initialize
+    Line: 29, Object "ELLIPSE1" of type "ELLIPSE" does not know the attribute "text" for "setValue()"
+WCCOAui      (2), 2017.11.21 01:17:37.111, CTRL, WARNING,    12/uim, 
+    Module: _QuickTest_
+    Panel: C:\sss\panels\InteligentH1.pnl []
+    Object: 8 named: "ELLIPSE1" of type: ELLIPSE
+    In reference: objects\PresenceSensorTableRow.pnl Group: 0 named: "PANEL_REF0"
+      used in:    tables\PresenceSensorTable.pnl Group: 15 named: "PANEL_REF15"
+    Script: Initialize
+    Line: 29, Object "ELLIPSE1" of type "ELLIPSE" does not know the attribute "text" for "setValue()"
+WCCOAui      (2), 2017.11.21 01:17:37.112, CTRL, WARNING,    12/uim, 
+    Module: _QuickTest_
+    Panel: C:\sss\panels\InteligentH1.pnl []
+    Object: 8 named: "ELLIPSE1" of type: ELLIPSE
+    In reference: objects\PresenceSensorTableRow.pnl Group: 1 named: "PANEL_REF1"
+      used in:    tables\PresenceSensorTable.pnl Group: 15 named: "PANEL_REF15"
+    Script: Initialize
+    Line: 29, Object "ELLIPSE1" of type "ELLIPSE" does not know the attribute "text" for "setValue()"
+WCCOAui      (2), 2017.11.21 01:17:37.113, CTRL, WARNING,    12/uim, 
+    Module: _QuickTest_
+    Panel: C:\sss\panels\InteligentH1.pnl []
+    Object: 8 named: "ELLIPSE1" of type: ELLIPSE
+    In reference: objects\PresenceSensorTableRow.pnl Group: 2 named: "PANEL_REF2"
+      used in:    tables\PresenceSensorTable.pnl Group: 15 named: "PANEL_REF15"
+    Script: Initialize
+    Line: 29, Object "ELLIPSE1" of type "ELLIPSE" does not know the attribute "text" for "setValue()"
+WCCOAui      (2), 2017.11.21 01:17:37.114, CTRL, WARNING,    12/uim, 
+    Module: _QuickTest_
+    Panel: C:\sss\panels\InteligentH1.pnl []
+    Object: 8 named: "ELLIPSE1" of type: ELLIPSE
+    In reference: objects\PresenceSensorTableRow.pnl Group: 3 named: "PANEL_REF3"
+      used in:    tables\PresenceSensorTable.pnl Group: 15 named: "PANEL_REF15"
+    Script: Initialize
+    Line: 29, Object "ELLIPSE1" of type "ELLIPSE" does not know the attribute "text" for "setValue()"
+WCCOAui      (2), 2017.11.21 01:17:37.115, CTRL, WARNING,    12/uim, 
+    Module: _QuickTest_
+    Panel: C:\sss\panels\InteligentH1.pnl []
+    Object: 8 named: "ELLIPSE1" of type: ELLIPSE
+    In reference: objects\PresenceSensorTableRow.pnl Group: 4 named: "PANEL_REF4"
+      used in:    tables\PresenceSensorTable.pnl Group: 15 named: "PANEL_REF15"
+    Script: Initialize
+    Line: 29, Object "ELLIPSE1" of type "ELLIPSE" does not know the attribute "text" for "setValue()"
+WCCOAui      (2), 2017.11.21 01:17:37.120, CTRL, WARNING,    12/uim, 
+    Module: _QuickTest_
+    Panel: C:\sss\panels\InteligentH1.pnl []
+    Object: 8 named: "ELLIPSE1" of type: ELLIPSE
+    In reference: objects\PresenceSensorTableRow.pnl Group: 5 named: "PANEL_REF5"
+      used in:    tables\PresenceSensorTable.pnl Group: 15 named: "PANEL_REF15"
+    Script: Initialize
+    Line: 29, Object "ELLIPSE1" of type "ELLIPSE" does not know the attribute "text" for "setValue()"
+WCCOAui      (2), 2017.11.21 01:25:50.922, CTRL, WARNING,    12/uim, 
+    Module: _QuickTest_
+    Panel: C:\sss\panels\InteligentH1.pnl []
+    Object: 8 named: "ELLIPSE1" of type: ELLIPSE
+    In reference: objects\PresenceSensorTableRow.pnl Group: 0 named: "PANEL_REF0"
+      used in:    tables\PresenceSensorTable.pnl Group: 15 named: "PANEL_REF15"
+    Script: Initialize
+    Line: 29, Object "ELLIPSE1" of type "ELLIPSE" does not know the attribute "text" for "setValue()"
+WCCOAui      (2), 2017.11.21 01:25:50.923, CTRL, WARNING,    12/uim, 
+    Module: _QuickTest_
+    Panel: C:\sss\panels\InteligentH1.pnl []
+    Object: 8 named: "ELLIPSE1" of type: ELLIPSE
+    In reference: objects\PresenceSensorTableRow.pnl Group: 1 named: "PANEL_REF1"
+      used in:    tables\PresenceSensorTable.pnl Group: 15 named: "PANEL_REF15"
+    Script: Initialize
+    Line: 29, Object "ELLIPSE1" of type "ELLIPSE" does not know the attribute "text" for "setValue()"
+WCCOAui      (2), 2017.11.21 01:25:50.923, CTRL, WARNING,    12/uim, 
+    Module: _QuickTest_
+    Panel: C:\sss\panels\InteligentH1.pnl []
+    Object: 8 named: "ELLIPSE1" of type: ELLIPSE
+    In reference: objects\PresenceSensorTableRow.pnl Group: 2 named: "PANEL_REF2"
+      used in:    tables\PresenceSensorTable.pnl Group: 15 named: "PANEL_REF15"
+    Script: Initialize
+    Line: 29, Object "ELLIPSE1" of type "ELLIPSE" does not know the attribute "text" for "setValue()"
+WCCOAui      (2), 2017.11.21 01:25:50.924, CTRL, WARNING,    12/uim, 
+    Module: _QuickTest_
+    Panel: C:\sss\panels\InteligentH1.pnl []
+    Object: 8 named: "ELLIPSE1" of type: ELLIPSE
+    In reference: objects\PresenceSensorTableRow.pnl Group: 3 named: "PANEL_REF3"
+      used in:    tables\PresenceSensorTable.pnl Group: 15 named: "PANEL_REF15"
+    Script: Initialize
+    Line: 29, Object "ELLIPSE1" of type "ELLIPSE" does not know the attribute "text" for "setValue()"
+WCCOAui      (2), 2017.11.21 01:25:50.925, CTRL, WARNING,    12/uim, 
+    Module: _QuickTest_
+    Panel: C:\sss\panels\InteligentH1.pnl []
+    Object: 8 named: "ELLIPSE1" of type: ELLIPSE
+    In reference: objects\PresenceSensorTableRow.pnl Group: 4 named: "PANEL_REF4"
+      used in:    tables\PresenceSensorTable.pnl Group: 15 named: "PANEL_REF15"
+    Script: Initialize
+    Line: 29, Object "ELLIPSE1" of type "ELLIPSE" does not know the attribute "text" for "setValue()"
+WCCOAui      (2), 2017.11.21 01:25:50.926, CTRL, WARNING,    12/uim, 
+    Module: _QuickTest_
+    Panel: C:\sss\panels\InteligentH1.pnl []
+    Object: 8 named: "ELLIPSE1" of type: ELLIPSE
+    In reference: objects\PresenceSensorTableRow.pnl Group: 5 named: "PANEL_REF5"
+      used in:    tables\PresenceSensorTable.pnl Group: 15 named: "PANEL_REF15"
+    Script: Initialize
+    Line: 29, Object "ELLIPSE1" of type "ELLIPSE" does not know the attribute "text" for "setValue()"

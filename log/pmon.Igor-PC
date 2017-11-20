@@ -379,3 +379,13 @@ WCCILpmon    (1), 2017.11.21 00:33:37.169, SYS,  INFO,       11/pmon, Detected s
 WCCILpmon    (1), 2017.11.21 00:33:37.172, SYS,  INFO,        1, Manager Start, C:\Siemens\Automation\WinCC_OA\3.11\bin\WCCILsim.exe -PROJ sss -pmonIndex 10 
 WCCILpmon    (1), 2017.11.21 00:33:40.096, SYS,  INFO,       24/pmon, Got START command from ::1, starting the manager WCCOAui(2) at index 11
 WCCILpmon    (1), 2017.11.21 00:33:40.099, SYS,  INFO,        1, Manager Start, C:\Siemens\Automation\WinCC_OA\3.11\bin\WCCOAui.exe -PROJ sss -pmonIndex 11 -m gedi
+WCCILpmon    (1), 2017.11.21 01:03:12.858, SYS,  INFO,       24/pmon, Got START command from ::1, starting the manager WCCOAui(2) at index 11
+WCCILpmon    (1), 2017.11.21 01:03:12.861, SYS,  INFO,        1, Manager Start, C:\Siemens\Automation\WinCC_OA\3.11\bin\WCCOAui.exe -PROJ sss -pmonIndex 11 -m gedi
+WCCILpmon    (1), 2017.11.21 01:03:36.783, SYS,  INFO,       11/pmon, Detected stopped manager WCCILevent(0) - restarting it #1
+WCCILpmon    (1), 2017.11.21 01:03:36.785, SYS,  INFO,        1, Manager Start, C:\Siemens\Automation\WinCC_OA\3.11\bin\WCCILevent.exe -PROJ sss -pmonIndex 8 
+WCCILpmon    (1), 2017.11.21 01:03:37.786, SYS,  INFO,       11/pmon, Detected stopped manager WCCOActrl(1) - restarting it #1
+WCCILpmon    (1), 2017.11.21 01:03:37.788, SYS,  INFO,        1, Manager Start, C:\Siemens\Automation\WinCC_OA\3.11\bin\WCCOActrl.exe -PROJ sss -pmonIndex 9 -f pvss_scripts.lst
+WCCILpmon    (1), 2017.11.21 01:03:38.796, SYS,  INFO,       11/pmon, Detected stopped manager WCCILsim(1) - restarting it #1
+WCCILpmon    (1), 2017.11.21 01:03:38.800, SYS,  INFO,        1, Manager Start, C:\Siemens\Automation\WinCC_OA\3.11\bin\WCCILsim.exe -PROJ sss -pmonIndex 10 
+WCCILpmon    (1), 2017.11.21 01:03:41.411, SYS,  INFO,       24/pmon, Got START command from ::1, starting the manager WCCOAui(2) at index 11
+WCCILpmon    (1), 2017.11.21 01:03:41.414, SYS,  INFO,        1, Manager Start, C:\Siemens\Automation\WinCC_OA\3.11\bin\WCCOAui.exe -PROJ sss -pmonIndex 11 -m gedi
