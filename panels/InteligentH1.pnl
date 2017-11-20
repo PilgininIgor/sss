@@ -1,7 +1,7 @@
 V 12
 1
 LANG:10001 0 
-PANEL,-1 -1 966 594 N "white" 0
+PANEL,-1 -1 1045 594 N "white" 0
 E E E E E 1 -1 -1 0  90 220
 ""0  1
 E E 2
@@ -12,63 +12,6 @@ DISPLAY_LAYER, 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0
 LAYER, 0 
 1
 LANG:10001 0 
-6 135
-"RECTANGLE20"
-""
-1 610 20 E E E 1 E 1 E N "white" E N {255,255,255} E E
- E E
-135 0 0 0 0 0
-E E E
-0
-1
-LANG:10001 0 
-
-1
-"dashclr"N "_Transparent"
-E E 0 1 1 2 1 E 1.9 0 1.294117647058824 -709 174.1176470588235 1 E 610 20 810 190
-6 136
-"RECTANGLE21"
-""
-1 610 20 E E E 1 E 1 E N "white" E N {255,255,255} E E
- E E
-136 0 0 0 0 0
-E E E
-0
-1
-LANG:10001 0 
-
-1
-"dashclr"N "_Transparent"
-E E 0 1 1 2 1 E 1.05000008079741 0 0.2352941176470589 -20.50004928642016 415.2941176470588 1 E 610 20 810 190
-6 133
-"RECTANGLE18"
-""
-1 610 20 E E E 1 E 1 E N "white" E N {255,255,255} E E
- E E
-133 0 0 0 0 0
-E E E
-0
-1
-LANG:10001 0 
-
-1
-"dashclr"N "_Transparent"
-E E 0 1 1 2 1 E 1.05000008079741 0 1.000000003116583 -30.50006544590168 -5.921507346684507e-007 1 E 610 20 810 190
-6 0
-"RECTANGLE1"
-""
-1 40 70 E E E 1 E 1 E N {0,0,0} E N "STD_value_default" E E
- E E
-0 0 0 0 0 0
-E E E
-0
-1
-LANG:10001 0 
-
-2
-"hoverbclr" "N \"STD_value_default\""
-"dashclr"N "_Transparent"
-E E 0 1 1 2 1 E 0.2222222222222222 -6.495198043978307e-017 1.423806649167945e-016 0.5 611.1111111111111 155 1 E 40 70 220 90
 10 113
 "POLYGON3"
 ""
@@ -82,7 +25,7 @@ LANG:10001 0
 
 1
 "dashclr"N "STD_textfield_text"
-E E 0 1 1 2 1 E 0.666666525381579 0 0.6666666931576206 493.3333559389474 -30.00000158945723 1 E 12 160 60
+E E 0 1 1 2 1 E 0.666666525381579 0 0.6666666931576206 669.3333559389474 -20.00000158945723 1 E 12 160 60
 160 70
 160 80
 160 90
@@ -94,355 +37,6 @@ E E 0 1 1 2 1 E 0.666666525381579 0 0.6666666931576206 493.3333559389474 -30.000
 190 120
 190 60
 180 60
- 1
-10 116
-"POLYGON6"
-""
-1 660 50 E E E 1 E 1 E N {0,0,0} E N "Darkgrey" E E
- E E
-116 0 0 0 0 0
-E E E
-0
-1
-LANG:10001 0 
-
-1
-"dashclr"N "_Transparent"
-E E 0 1 1 2 1 E U  1 E 60 660 50
-670 50
-670 40
-670 30
-670 20
-670 10
-660 10
-660 20
-660 30
-660 40
-660 50
-670 50
-670 40
-670 30
-670 20
-670 10
-680 10
-690 10
-700 10
-710 10
-720 10
-730 10
-740 10
-750 10
-760 10
-760 20
-760 10
-770 10
-780 10
-790 10
-800 10
-810 10
-820 10
-830 10
-830 20
-830 30
-830 40
-830 50
-820 50
-810 50
-810 40
-810 30
-810 20
-800 20
-790 20
-780 20
-770 20
-760 20
-750 20
-740 20
-730 20
-720 20
-710 20
-700 20
-690 20
-680 20
-670 20
-670 30
-670 40
-670 50
- 1
-6 118
-"RECTANGLE3"
-""
-1 40 70 E E E 1 E 1 E N {0,0,0} E N "STD_value_default" E E
- E E
-118 0 0 0 0 0
-E E E
-0
-1
-LANG:10001 0 
-
-2
-"hoverbclr" "N \"STD_value_default\""
-"dashclr"N "_Transparent"
-E E 0 1 1 2 1 E 4.734169729520144e-017 -0.1666666666666667 0.5 8.27100824901905e-017 625 236.6666666666667 1 E 40 70 220 90
-6 120
-"RECTANGLE5"
-""
-1 40 70 E E E 1 E 1 E N {0,0,0} E N "STD_value_default" E E
- E E
-120 0 0 0 0 0
-E E E
-0
-1
-LANG:10001 0 
-
-2
-"hoverbclr" "N \"STD_value_default\""
-"dashclr"N "_Transparent"
-E E 0 1 1 2 1 E 0.2222222222222222 -6.495198043978307e-017 1.423806649167945e-016 0.5 611.1111111111111 425 1 E 40 70 220 90
-6 121
-"RECTANGLE6"
-""
-1 40 70 E E E 1 E 1 E N {0,0,0} E N "STD_value_default" E E
- E E
-121 0 0 0 0 0
-E E E
-0
-1
-LANG:10001 0 
-
-2
-"hoverbclr" "N \"STD_value_default\""
-"dashclr"N "_Transparent"
-E E 0 1 1 2 1 E 0.6666666666666666 -6.495198043978307e-017 4.271419947503835e-016 0.5 283.3333333333333 505 1 E 40 70 220 90
-6 122
-"RECTANGLE7"
-""
-1 40 70 E E E 1 E 1 E N {0,0,0} E N "STD_value_default" E E
- E E
-122 0 0 0 0 0
-E E E
-0
-1
-LANG:10001 0 
-
-2
-"hoverbclr" "N \"STD_value_default\""
-"dashclr"N "_Transparent"
-E E 0 1 1 2 1 E 4.734169729520144e-017 -0.2222222222222219 0.5 1.102801099869205e-016 405 328.8888888888889 1 E 40 70 220 90
-6 123
-"RECTANGLE8"
-""
-1 40 70 E E E 1 E 1 E N {0,0,0} E N "STD_inputfield_back_marked" E E
- E E
-123 0 0 0 0 0
-E E E
-0
-1
-LANG:10001 0 
-
-2
-"hoverbclr" "N \"STD_value_default\""
-"dashclr"N "_Transparent"
-E E 0 1 1 2 1 E 4.734164892174319e-017 -0.5 0.4999994891030422 2.481302474705715e-016 565.0000357627871 160 1 E 40 70 220 90
-6 124
-"RECTANGLE9"
-""
-1 40 70 E E E 1 E 1 E N {0,0,0} E N "STD_inputfield_back_marked" E E
- E E
-124 0 0 0 0 0
-E E E
-0
-1
-LANG:10001 0 
-
-2
-"hoverbclr" "N \"STD_value_default\""
-"dashclr"N "_Transparent"
-E E 0 1 1 2 1 E 4.734169729520144e-017 -0.3888888888888889 0.5 1.929901924771112e-016 785 135.5555555555555 1 E 40 70 220 90
-6 125
-"RECTANGLE10"
-""
-1 40 70 E E E 1 E 1 E N {0,0,0} E N "STD_inputfield_back_marked" E E
- E E
-125 0 0 0 0 0
-E E E
-0
-1
-LANG:10001 0 
-
-2
-"hoverbclr" "N \"STD_value_default\""
-"dashclr"N "_Transparent"
-E E 0 1 1 2 1 E 0.2222222222222222 -6.495198043978307e-017 1.423806649167945e-016 0.5 611.1111111111111 -25 1 E 40 70 220 90
-6 126
-"RECTANGLE11"
-""
-1 40 70 E E E 1 E 1 E N {0,0,0} E N "STD_inputfield_back_marked" E E
- E E
-126 0 0 0 0 0
-E E E
-0
-1
-LANG:10001 0 
-
-2
-"hoverbclr" "N \"STD_value_default\""
-"dashclr"N "_Transparent"
-E E 0 1 1 2 1 E 0.3888888888888888 -6.495198043978307e-017 2.491661636043903e-016 0.5 514.4444444444443 155 1 E 40 70 220 90
-6 127
-"RECTANGLE12"
-""
-1 40 70 E E E 1 E 1 E N {0,0,0} E N "STD_inputfield_back_marked" E E
- E E
-127 0 0 0 0 0
-E E E
-0
-1
-LANG:10001 0 
-
-2
-"hoverbclr" "N \"STD_value_default\""
-"dashclr"N "_Transparent"
-E E 0 1 1 2 1 E 0.3888888888888888 -6.495198043978307e-017 2.491661636043903e-016 0.5 694.4444444444443 425 1 E 40 70 220 90
-6 128
-"RECTANGLE13"
-""
-1 40 70 E E E 1 E 1 E N {0,0,0} E N "STD_inputfield_back_marked" E E
- E E
-128 0 0 0 0 0
-E E E
-0
-1
-LANG:10001 0 
-
-2
-"hoverbclr" "N \"STD_value_default\""
-"dashclr"N "_Transparent"
-E E 0 1 1 2 1 E 0.3888888888888888 -6.495198043978307e-017 2.491661636043903e-016 0.5 484.4444444444443 385 1 E 40 70 220 90
-6 130
-"RECTANGLE15"
-""
-1 40 70 E E E 1 E 1 E N {0,0,0} E N "STD_inputfield_back_marked" E E
- E E
-130 0 0 0 0 0
-E E E
-0
-1
-LANG:10001 0 
-
-2
-"hoverbclr" "N \"STD_value_default\""
-"dashclr"N "_Transparent"
-E E 0 1 1 2 1 E 4.734169729520144e-017 -0.1111111111111111 0.5 5.514005499346034e-017 745 234.4444444444445 1 E 40 70 220 90
-6 131
-"RECTANGLE16"
-""
-1 40 70 E E E 1 E 1 E N {0,0,0} E N "STD_inputfield_back_marked" E E
- E E
-131 0 0 0 0 0
-E E E
-0
-1
-LANG:10001 0 
-
-2
-"hoverbclr" "N \"STD_value_default\""
-"dashclr"N "_Transparent"
-E E 0 1 1 2 1 E 4.734169729520144e-017 -0.2777777777777778 0.5 1.378501374836509e-016 245 351.1111111111111 1 E 40 70 220 90
-6 132
-"RECTANGLE17"
-""
-1 40 70 E E E 1 E 1 E N {0,0,0} E N "STD_inputfield_back_marked" E E
- E E
-132 0 0 0 0 0
-E E E
-0
-1
-LANG:10001 0 
-
-2
-"hoverbclr" "N \"STD_value_default\""
-"dashclr"N "_Transparent"
-E E 0 1 1 2 1 E 4.734169729520144e-017 -0.1111111111111111 0.5 5.514005499346034e-017 785 434.4444444444445 1 E 40 70 220 90
-6 134
-"RECTANGLE19"
-""
-1 610 20 E E E 1 E 1 E N "white" E N {255,255,255} E E
- E E
-134 0 0 0 0 0
-E E E
-0
-1
-LANG:10001 0 
-
-1
-"dashclr"N "_Transparent"
-E E 0 1 1 2 1 E 0.75 0 1.647058823529412 -167.5 227.0588235294118 1 E 610 20 810 190
-10 137
-"POLYGON7"
-""
-1 810 120 E E E 1 E 1 E N {0,0,0} E N "Darkgrey" E E
- E E
-137 0 0 0 0 0
-E E E
-0
-1
-LANG:10001 0 
-
-1
-"dashclr"N "_Transparent"
-E E 0 1 1 2 1 E 1 0 1 1.755627681632177e-005 2.600929903451288e-006 1 E 52 810 120
-820 120
-830 120
-830 130
-830 140
-830 150
-830 160
-830 170
-830 180
-830 190
-830 200
-830 210
-820 210
-810 210
-800 210
-790 210
-780 210
-770 210
-770 200
-780 200
-790 200
-800 200
-810 200
-810 190
-800 190
-790 190
-780 190
-770 190
-760 190
-750 190
-740 190
-730 190
-720 190
-710 190
-700 190
-690 190
-680 190
-670 190
-660 190
-660 200
-670 200
-680 200
-690 200
-700 200
-710 200
-720 200
-730 200
-740 200
-750 200
-760 200
-770 200
-810 200
  1
 10 138
 "POLYGON8"
@@ -457,7 +51,7 @@ LANG:10001 0
 
 1
 "dashclr"N "_Transparent"
-E E 0 1 1 2 1 E U  1 E 34 600 140
+E E 0 1 1 2 1 E 1 0 1 176 10 1 E 34 600 140
 600 150
 600 160
 600 170
@@ -492,85 +86,6 @@ E E 0 1 1 2 1 E U  1 E 34 600 140
 620 140
 610 140
  1
-10 140
-"POLYGON10"
-""
-1 660 230 E E E 1 E 1 E N {0,0,0} E N "Darkgrey" E E
- E E
-140 0 0 0 0 0
-E E E
-0
-1
-LANG:10001 0 
-
-1
-"dashclr"N "_Transparent"
-E E 0 1 1 2 1 E U  1 E 65 660 230
-660 240
-660 250
-660 260
-660 270
-660 280
-660 290
-670 290
-680 290
-690 290
-700 290
-710 290
-720 290
-730 290
-740 290
-750 290
-760 290
-770 290
-780 290
-790 290
-800 290
-810 290
-810 300
-810 310
-810 320
-810 330
-820 330
-830 330
-830 320
-830 310
-830 300
-830 290
-830 280
-830 270
-820 270
-810 270
-800 270
-790 270
-790 260
-790 250
-790 240
-790 230
-780 230
-770 230
-770 240
-770 250
-770 260
-770 270
-770 280
-760 280
-750 280
-740 280
-730 280
-720 280
-710 280
-700 280
-690 280
-680 280
-670 280
-670 270
-670 260
-670 250
-670 240
-670 230
-660 230
- 1
 10 142
 "POLYGON12"
 ""
@@ -584,7 +99,7 @@ LANG:10001 0
 
 1
 "dashclr"N "_Transparent"
-E E 0 1 1 2 1 E U  1 E 5 800 340
+E E 0 1 1 2 1 E 1 0 1 176 10 1 E 5 800 340
 830 350
 830 330
 800 330
@@ -603,7 +118,7 @@ LANG:10001 0
 
 1
 "dashclr"N "_Transparent"
-E E 0 1 1 2 1 E U  1 E 6 800 400
+E E 0 1 1 2 1 E 1 0 1 176 10 1 E 6 800 400
 800 390
 830 380
 830 410
@@ -623,7 +138,7 @@ LANG:10001 0
 
 1
 "dashclr"N "_Transparent"
-E E 0 1 1 2 1 E U  1 E 830 330 850 400
+E E 0 1 1 2 1 E 1 0 1 176 10 1 E 830 330 850 400
 10 145
 "POLYGON14"
 ""
@@ -637,7 +152,7 @@ LANG:10001 0
 
 1
 "dashclr"N "_Transparent"
-E E 0 1 1 2 1 E U  1 E 6 810 430
+E E 0 1 1 2 1 E 1 0 1 176 10 1 E 6 810 430
 810 450
 780 450
 780 470
@@ -657,7 +172,7 @@ LANG:10001 0
 
 1
 "dashclr"N "_Transparent"
-E E 0 1 1 2 1 E U  1 E 5 660 450
+E E 0 1 1 2 1 E 1 0 1 176 10 1 E 5 660 450
 660 470
 710 470
 710 450
@@ -676,7 +191,7 @@ LANG:10001 0
 
 1
 "dashclr"N "_Transparent"
-E E 0 1 1 2 1 E U  1 E 7 570 410
+E E 0 1 1 2 1 E 1 0 1 176 10 1 E 7 570 410
 570 430
 600 430
 600 470
@@ -697,7 +212,7 @@ LANG:10001 0
 
 1
 "dashclr"N "_Transparent"
-E E 0 1 1 2 1 E U  1 E 11 440 320
+E E 0 1 1 2 1 E 1 0 1 176 10 1 E 11 440 320
 450 320
 450 410
 500 410
@@ -708,27 +223,6 @@ E E 0 1 1 2 1 E U  1 E 11 440 320
 430 540
 440 540
 440 430
- 1
-10 149
-"POLYGON18"
-""
-1 280 340 E E E 1 E 1 E N {0,0,0} E N "Darkgrey" E E
- E E
-149 0 0 0 0 0
-E E E
-0
-1
-LANG:10001 0 
-
-1
-"dashclr"N "_Transparent"
-E E 0 1 1 2 1 E U  1 E 7 280 340
-300 340
-300 540
-310 540
-310 550
-280 550
-280 340
  1
 10 150
 "POLYGON19"
@@ -743,7 +237,7 @@ LANG:10001 0
 
 1
 "dashclr"N "_Transparent"
-E E 0 1 1 2 1 E U  1 E 15 280 290
+E E 0 1 1 2 1 E 1 0 1 176 10 1 E 15 280 290
 280 240
 440 240
 440 190
@@ -759,6 +253,705 @@ E E 0 1 1 2 1 E U  1 E 15 280 290
 300 290
 280 290
  1
+10 295
+"POLYGON56"
+""
+1 810 140 E E E 1 E 1 E N {0,0,0} E N "Darkgrey" E E
+ E E
+295 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+1
+"dashclr"N "_Transparent"
+E E 0 1 1 2 1 E 1 0 1 176 10 1 E 9 810 140
+830 140
+830 210
+810 210
+810 200
+660 200
+660 190
+810 190
+810 140
+ 0
+10 296
+"POLYGON57"
+""
+1 830 230 E E E 1 E 1 E N {0,0,0} E N "Darkgrey" E E
+ E E
+296 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+1
+"dashclr"N "_Transparent"
+E E 0 1 1 2 1 E 1 0 1 176 10 1 E 11 830 230
+810 230
+810 280
+710 280
+710 240
+700 240
+700 290
+810 290
+810 330
+830 330
+830 230
+ 0
+1 328 0 "" 0
+0
+10 298
+"POLYGON58"
+""
+1 280 380 E E E 1 E 1 E N {0,0,0} E N "Darkgrey" E E
+ E E
+298 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+1
+"dashclr"N "_Transparent"
+E E 0 1 1 2 1 E 1 0 1 176 10 1 E 8 280 380
+300 380
+300 540
+310 540
+310 550
+280 550
+280 540
+280 380
+ 0
+1 329 1 "" 0
+0
+1 330 2 "" 0
+0
+1 331 2 "" 1
+0
+1 332 2 "" 2
+0
+1 333 2 "" 3
+0
+1 334 2 "" 4
+0
+1 335 3 "" 19
+0
+1 336 3 "" 18
+0
+1 337 3 "" 7
+0
+1 338 3 "" 5
+0
+1 339 3 "" 8
+0
+1 340 3 "" 9
+0
+1 341 3 "" 10
+0
+1 342 3 "" 11
+0
+1 343 3 "" 12
+0
+1 344 3 "" 13
+0
+1 345 3 "" 14
+0
+1 346 3 "" 15
+0
+1 347 4 "" 0
+0
+1 348 4 "" 1
+0
+1 349 4 "" 2
+0
+1 350 4 "" 3
+0
+1 351 5 "" 0
+0
+1 352 5 "" 5
+0
+1 353 6 "" 0
+0
+1 354 7 "" 0
+0
+1 355 8 "" 0
+0
+10 327
+"POLYGON59"
+""
+1 870 90 E E E 1 E 1 E N {0,0,0} E N "Darkgrey" E E
+ E E
+307 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+1
+"dashclr"N "_Transparent"
+E E 0 1 1 2 1 E 1 0 1 -34.00002622604271 -30.00000198682142 1 E 9 870 90
+880 90
+880 60
+1020 60
+1020 90
+1040 90
+1040 50
+870 50
+870 90
+ 0
+1 356 9 "" 0
+0
+1 357 10 "" 0
+0
+1 358 10 "" 7
+0
+1 359 10 "" 5
+0
+1 360 10 "" 1
+0
+1 361 10 "" 2
+0
+1 362 10 "" 3
+0
+1 363 10 "" 6
+0
+1 364 11 "" 0
+0
+1 365 11 "" 5
+0
+1 423 12 "1" 0
+0
+1 424 12 "1" 1
+0
+1 425 12 "1" 2
+0
+1 426 12 "1" 3
+0
+1 427 12 "1" 4
+0
+1 428 12 "1" 9
+0
+1 429 12 "1" 10
+0
+1 430 12 "1" 11
+0
+1 431 12 "2" 0
+0
+1 432 12 "2" 1
+0
+1 433 12 "2" 2
+0
+1 434 12 "2" 3
+0
+1 435 12 "2" 4
+0
+1 436 12 "2" 9
+0
+1 437 12 "2" 10
+0
+1 438 12 "2" 11
+0
+1 439 12 "3" 0
+0
+1 440 12 "3" 1
+0
+1 441 12 "3" 2
+0
+1 442 12 "3" 3
+0
+1 443 12 "3" 4
+0
+1 444 12 "3" 9
+0
+1 445 12 "3" 10
+0
+1 446 12 "3" 11
+0
+1 447 12 "4" 0
+0
+1 448 12 "4" 1
+0
+1 449 12 "4" 2
+0
+1 450 12 "4" 3
+0
+1 451 12 "4" 4
+0
+1 452 12 "4" 9
+0
+1 453 12 "4" 10
+0
+1 454 12 "4" 11
+0
+1 455 12 "5" 0
+0
+1 456 12 "5" 1
+0
+1 457 12 "5" 2
+0
+1 458 12 "5" 3
+0
+1 459 12 "5" 4
+0
+1 460 12 "5" 9
+0
+1 461 12 "5" 10
+0
+1 462 12 "5" 11
+0
+1 463 12 "6" 0
+0
+1 464 12 "6" 1
+0
+1 465 12 "6" 2
+0
+1 466 12 "6" 3
+0
+1 467 12 "6" 4
+0
+1 468 12 "6" 9
+0
+1 469 12 "6" 10
+0
+1 470 12 "6" 11
+0
+1 471 12 "" 64
+0
+1 472 12 "" 65
+0
+1 473 12 "" 66
+0
+1 474 12 "" 67
+0
+1 475 12 "" 68
+0
+1 476 12 "" 69
+0
+1 477 12 "" 70
+0
+1 478 12 "" 71
+0
+1 479 12 "" 72
+0
+1 480 13 "1" 2
+0
+1 481 13 "1" 3
+0
+1 482 13 "1" 4
+0
+1 483 13 "1" 5
+0
+1 484 13 "1" 7
+0
+1 485 13 "1" 8
+0
+1 486 13 "1" 10
+0
+1 487 13 "1" 11
+0
+1 488 13 "2" 2
+0
+1 489 13 "2" 3
+0
+1 490 13 "2" 4
+0
+1 491 13 "2" 5
+0
+1 492 13 "2" 7
+0
+1 493 13 "2" 8
+0
+1 494 13 "2" 10
+0
+1 495 13 "2" 11
+0
+1 496 13 "3" 2
+0
+1 497 13 "3" 3
+0
+1 498 13 "3" 4
+0
+1 499 13 "3" 5
+0
+1 500 13 "3" 7
+0
+1 501 13 "3" 8
+0
+1 502 13 "3" 10
+0
+1 503 13 "3" 11
+0
+1 504 13 "4" 2
+0
+1 505 13 "4" 3
+0
+1 506 13 "4" 4
+0
+1 507 13 "4" 5
+0
+1 508 13 "4" 7
+0
+1 509 13 "4" 8
+0
+1 510 13 "4" 10
+0
+1 511 13 "4" 11
+0
+1 512 13 "5" 2
+0
+1 513 13 "5" 3
+0
+1 514 13 "5" 4
+0
+1 515 13 "5" 5
+0
+1 516 13 "5" 7
+0
+1 517 13 "5" 8
+0
+1 518 13 "5" 10
+0
+1 519 13 "5" 11
+0
+1 520 13 "6" 2
+0
+1 521 13 "6" 3
+0
+1 522 13 "6" 4
+0
+1 523 13 "6" 5
+0
+1 524 13 "6" 7
+0
+1 525 13 "6" 8
+0
+1 526 13 "6" 10
+0
+1 527 13 "6" 11
+0
+1 528 13 "" 49
+0
+1 529 13 "" 50
+0
+1 530 13 "" 51
+0
+1 531 13 "" 52
+0
+1 532 13 "" 53
+0
+1 533 13 "" 54
+0
+1 534 13 "" 55
+0
+1 535 13 "" 57
+0
+1 536 13 "" 58
+0
+2 537
+"PRIMITIVE_TEXT8"
+""
+1 22 409 E E E 1 E 1 E N "_WindowText" E N "_Window" E E
+ E E
+313 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+1
+"dashclr"N "_Transparent"
+E E 0 1 1 2 1 E U  0 E 22 409 142 422
+0 2 2 "0s" 0 0 0 192 0 0  22 409 1
+1
+LANG:10001 37 MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0
+0 1
+LANG:10001 39 Датчики освещенности
+2 538
+"PRIMITIVE_TEXT9"
+""
+1 161 410 E E E 1 E 1 E N "_WindowText" E N "_Window" E E
+ E E
+314 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+1
+"dashclr"N "_Transparent"
+E E 0 1 1 2 1 E U  0 E 161 410 247 423
+0 2 2 "0s" 0 0 0 192 0 0  161 410 1
+1
+LANG:10001 37 MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0
+0 1
+LANG:10001 29 Источники света
+1 539 14 "0" 0
+0
+1 540 14 "0" 1
+0
+1 541 14 "0" 2
+0
+1 542 14 "0" 3
+0
+1 543 14 "0" 6
+0
+1 544 14 "0" 7
+0
+1 545 14 "0" 8
+0
+1 546 14 "0" 9
+0
+1 547 14 "0" 10
+0
+1 548 14 "0" 11
+0
+1 549 14 "0" 12
+0
+1 550 14 "0" 13
+0
+1 551 14 "0" 14
+0
+1 552 14 "0" 15
+0
+1 553 14 "1" 0
+0
+1 554 14 "1" 1
+0
+1 555 14 "1" 2
+0
+1 556 14 "1" 3
+0
+1 557 14 "1" 6
+0
+1 558 14 "1" 7
+0
+1 559 14 "1" 8
+0
+1 560 14 "1" 9
+0
+1 561 14 "1" 10
+0
+1 562 14 "1" 11
+0
+1 563 14 "1" 12
+0
+1 564 14 "1" 13
+0
+1 565 14 "1" 14
+0
+1 566 14 "1" 15
+0
+1 567 14 "2" 0
+0
+1 568 14 "2" 1
+0
+1 569 14 "2" 2
+0
+1 570 14 "2" 3
+0
+1 571 14 "2" 6
+0
+1 572 14 "2" 7
+0
+1 573 14 "2" 8
+0
+1 574 14 "2" 9
+0
+1 575 14 "2" 10
+0
+1 576 14 "2" 11
+0
+1 577 14 "2" 12
+0
+1 578 14 "2" 13
+0
+1 579 14 "2" 14
+0
+1 580 14 "2" 15
+0
+1 581 14 "3" 0
+0
+1 582 14 "3" 1
+0
+1 583 14 "3" 2
+0
+1 584 14 "3" 3
+0
+1 585 14 "3" 6
+0
+1 586 14 "3" 7
+0
+1 587 14 "3" 8
+0
+1 588 14 "3" 9
+0
+1 589 14 "3" 10
+0
+1 590 14 "3" 11
+0
+1 591 14 "3" 12
+0
+1 592 14 "3" 13
+0
+1 593 14 "3" 14
+0
+1 594 14 "3" 15
+0
+1 595 14 "" 56
+0
+1 596 14 "" 57
+0
+1 597 14 "" 58
+0
+1 598 14 "" 59
+0
+1 599 14 "" 60
+0
+1 600 14 "" 61
+0
+1 601 14 "" 62
+0
+1 602 14 "" 63
+0
+1 603 14 "" 64
+0
+1 604 14 "" 65
+0
+1 605 14 "" 66
+0
+1 606 14 "" 67
+0
+1 607 14 "" 68
+0
+1 608 14 "" 69
+0
+1 609 14 "" 70
+0
+2 610
+"PRIMITIVE_TEXT10"
+""
+1 19 113 E E E 1 E 1 E N "_WindowText" E N "_Window" E E
+ E E
+316 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+1
+"dashclr"N "_Transparent"
+E E 0 1 1 2 1 E U  0 E 19 113 138 126
+0 2 2 "0s" 0 0 0 192 0 0  19 113 1
+1
+LANG:10001 37 MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0
+0 1
+LANG:10001 39 Системы микроклимата
+1 611 15 "0" 0
+0
+1 612 15 "0" 1
+0
+1 613 15 "0" 2
+0
+1 614 15 "0" 4
+0
+1 615 15 "0" 8
+0
+1 616 15 "0" 9
+0
+1 617 15 "1" 0
+0
+1 618 15 "1" 1
+0
+1 619 15 "1" 2
+0
+1 620 15 "1" 4
+0
+1 621 15 "1" 8
+0
+1 622 15 "1" 9
+0
+1 623 15 "2" 0
+0
+1 624 15 "2" 1
+0
+1 625 15 "2" 2
+0
+1 626 15 "2" 4
+0
+1 627 15 "2" 8
+0
+1 628 15 "2" 9
+0
+1 629 15 "3" 0
+0
+1 630 15 "3" 1
+0
+1 631 15 "3" 2
+0
+1 632 15 "3" 4
+0
+1 633 15 "3" 8
+0
+1 634 15 "3" 9
+0
+1 635 15 "4" 0
+0
+1 636 15 "4" 1
+0
+1 637 15 "4" 2
+0
+1 638 15 "4" 4
+0
+1 639 15 "4" 8
+0
+1 640 15 "4" 9
+0
+1 641 15 "5" 0
+0
+1 642 15 "5" 1
+0
+1 643 15 "5" 2
+0
+1 644 15 "5" 4
+0
+1 645 15 "5" 8
+0
+1 646 15 "5" 9
+0
+1 647 15 "" 36
+0
+1 648 15 "" 37
+0
+1 649 15 "" 38
+0
+1 650 15 "" 39
+0
+1 651 15 "" 40
+0
+1 652 15 "" 41
+0
+2 653
+"PRIMITIVE_TEXT11"
+""
+1 19 246 E E E 1 E 1 E N "_WindowText" E N "_Window" E E
+ E E
+318 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+1
+"dashclr"N "_Transparent"
+E E 0 1 1 2 1 E U  0 E 19 246 130 259
+0 2 2 "0s" 0 0 0 192 0 0  19 246 1
+1
+LANG:10001 37 MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0
+0 1
+LANG:10001 37 Датчики присутствия
 0
 LAYER, 1 
 1
@@ -770,7 +963,7 @@ LANG:10001 0
 4 5
 "LINE5"
 ""
-1 660 10 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 836 20 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 5 0 0 0 0 0
 E E E
@@ -781,11 +974,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  660 10 830 10
+E E 0 1 1 2 1 E  836 20 1006 20
 4 6
 "LINE6"
 ""
-1 830 10 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 1006 20 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 6 0 0 0 0 0
 E E E
@@ -796,11 +989,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  830 10 830 50
+E E 0 1 1 2 1 E  1006 20 1006 60
 4 7
 "LINE7"
 ""
-1 830 50 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 1006 60 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 7 0 0 0 0 0
 E E E
@@ -811,11 +1004,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  830 50 810 50
+E E 0 1 1 2 1 E  1006 60 986 60
 4 8
 "LINE8"
 ""
-1 660 10 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 836 20 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 8 0 0 0 0 0
 E E E
@@ -826,11 +1019,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  660 10 660 50
+E E 0 1 1 2 1 E  836 20 836 60
 4 9
 "LINE9"
 ""
-1 670 20 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 846 30 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 9 0 0 0 0 0
 E E E
@@ -841,11 +1034,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  670 20 670 50
+E E 0 1 1 2 1 E  846 30 846 60
 4 10
 "LINE10"
 ""
-1 670 20 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 845.9999733765931 29.99999920527144 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 10 0 0 0 0 0
 E E E
@@ -856,11 +1049,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  670 20 810 20
+E E 0 1 1 2 1 E  846 30 986 30
 4 11
 "LINE11"
 ""
-1 660 50 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 836 60 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 11 0 0 0 0 0
 E E E
@@ -871,11 +1064,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  660 50 670 50
+E E 0 1 1 2 1 E  836 60 846 60
 4 12
 "LINE12"
 ""
-1 810 20 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 986 30 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 12 0 0 0 0 0
 E E E
@@ -886,11 +1079,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  810 20 810 50
+E E 0 1 1 2 1 E  986 30 986 60
 4 13
 "LINE13"
 ""
-1 600 10 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 776 20 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 13 0 0 0 0 0
 E E E
@@ -901,11 +1094,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  600 10 620 10
+E E 0 1 1 2 1 E  776 20 796 20
 4 14
 "LINE14"
 ""
-1 620 10 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 796 20 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 14 0 0 0 0 0
 E E E
@@ -916,11 +1109,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  620 10 620 50
+E E 0 1 1 2 1 E  796 20 796 60
 4 15
 "LINE15"
 ""
-1 600 10 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 776 20 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 15 0 0 0 0 0
 E E E
@@ -931,11 +1124,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  600 10 600 50
+E E 0 1 1 2 1 E  776 20 776 60
 4 16
 "LINE16"
 ""
-1 600 50 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 776 60 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 16 0 0 0 0 0
 E E E
@@ -946,11 +1139,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  600 50 620 50
+E E 0 1 1 2 1 E  776 60 796 60
 4 17
 "LINE17"
 ""
-1 810 120 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 986 150 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 17 0 0 0 0 0
 E E E
@@ -961,11 +1154,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  810 120 810 190
+E E 0 1 1 2 1 E  986 150 986 200
 4 18
 "LINE18"
 ""
-1 810 120 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 985.9999678134931 149.9999944369 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 18 0 0 0 0 0
 E E E
@@ -976,11 +1169,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  810 120 830 120
+E E 0 1 1 2 1 E  986 150 1006 150
 4 19
 "LINE19"
 ""
-1 830 120 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 1006 150 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 19 0 0 0 0 0
 E E E
@@ -991,11 +1184,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  830 120 830 210
+E E 0 1 1 2 1 E  1006 150 1006 220
 4 20
 "LINE20"
 ""
-1 660 190 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 836 200 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 20 0 0 0 0 0
 E E E
@@ -1006,11 +1199,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  660 190 810 190
+E E 0 1 1 2 1 E  836 200 986 200
 4 21
 "LINE21"
 ""
-1 660 190 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 836 200 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 21 0 0 0 0 0
 E E E
@@ -1021,11 +1214,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  660 190 660 200
+E E 0 1 1 2 1 E  836 200 836 210
 4 22
 "LINE22"
 ""
-1 660 200 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 836 210 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 22 0 0 0 0 0
 E E E
@@ -1036,11 +1229,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  660 200 770 200
+E E 0 1 1 2 1 E  836 210 986 210
 4 23
 "LINE23"
 ""
-1 770 200 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 985.9999678134931 209.9999920527143 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 23 0 0 0 0 0
 E E E
@@ -1051,11 +1244,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  770 200 770 210
+E E 0 1 1 2 1 E  986 210 986 220
 4 24
 "LINE24"
 ""
-1 770 210 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 986 220 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 24 0 0 0 0 0
 E E E
@@ -1066,11 +1259,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  770 210 830 210
+E E 0 1 1 2 1 E  986 220 1006 220
 4 25
 "LINE25"
 ""
-1 660 230 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 875.9999721845002 250 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 25 0 0 0 0 0
 E E E
@@ -1081,11 +1274,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  660 230 660 290
+E E 0 1 1 2 1 E  876 250 876 300
 4 26
 "LINE26"
 ""
-1 660 230 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 875.9999721845002 249.9999904632572 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 26 0 0 0 0 0
 E E E
@@ -1096,11 +1289,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  660 230 670 230
+E E 0 1 1 2 1 E  876 250 886 250
 4 27
 "LINE27"
 ""
-1 670 230 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 885.9999717871359 250 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 27 0 0 0 0 0
 E E E
@@ -1111,11 +1304,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  670 230 670 280
+E E 0 1 1 2 1 E  886 250 886 290
 4 28
 "LINE28"
 ""
-1 660 290 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 876 300 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 28 0 0 0 0 0
 E E E
@@ -1126,11 +1319,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  660 290 810 290
+E E 0 1 1 2 1 E  876 300 986 300
 4 29
 "LINE29"
 ""
-1 670 280 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 885.9999717871359 289.9999888738001 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 29 0 0 0 0 0
 E E E
@@ -1141,11 +1334,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  670 280 770 280
+E E 0 1 1 2 1 E  886 290 986 290
 4 31
 "LINE31"
 ""
-1 770 280 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 985.9999678134931 289.9999888738001 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 31 0 0 0 0 0
 E E E
@@ -1156,11 +1349,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  770 280 770 230
+E E 0 1 1 2 1 E  986 290 986 240
 4 32
 "LINE32"
 ""
-1 770 230 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 985.9999678134931 239.9999908606215 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 32 0 0 0 0 0
 E E E
@@ -1171,11 +1364,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  770 230 790 230
+E E 0 1 1 2 1 E  986 240 1006 240
 4 33
 "LINE33"
 ""
-1 790 230 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 1005.999967018765 239.9999908606215 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 33 0 0 0 0 0
 E E E
@@ -1186,26 +1379,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  790 230 790 270
-4 34
-"LINE34"
-""
-1 790 270 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
- E E
-34 0 0 0 0 0
-E E E
-0
-1
-LANG:10001 0 
-
-2
-"hoverfclr" "N \"STD_value_default\""
-"dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  790 270 830 270
+E E 0 1 1 2 1 E  1006 240 1006 280
 4 35
 "LINE35"
 ""
-1 830 270 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 1006 280 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 35 0 0 0 0 0
 E E E
@@ -1216,11 +1394,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  830 270 830 310
+E E 0 1 1 2 1 E  1006 280 1006 320
 4 36
 "LINE36"
 ""
-1 810 290 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 986 300 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 36 0 0 0 0 0
 E E E
@@ -1231,11 +1409,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  810 290 810 330
+E E 0 1 1 2 1 E  986 300 986 340
 4 37
 "LINE37"
 ""
-1 830 310 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 1006 320 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 37 0 0 0 0 0
 E E E
@@ -1246,11 +1424,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  830 310 830 330
+E E 0 1 1 2 1 E  1006 320 1006 340
 4 38
 "LINE38"
 ""
-1 830 330 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 1006 340 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 38 0 0 0 0 0
 E E E
@@ -1261,11 +1439,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  830 330 850 330
+E E 0 1 1 2 1 E  1006 340 1026 340
 4 39
 "LINE39"
 ""
-1 800 330 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 976 340 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 39 0 0 0 0 0
 E E E
@@ -1276,11 +1454,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  800 330 810 330
+E E 0 1 1 2 1 E  976 340 986 340
 4 40
 "LINE40"
 ""
-1 800 330 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 976 340 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 40 0 0 0 0 0
 E E E
@@ -1291,11 +1469,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  800 330 800 340
+E E 0 1 1 2 1 E  976 340 976 350
 4 41
 "LINE41"
 ""
-1 800 340 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 976 350 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 41 0 0 0 0 0
 E E E
@@ -1306,11 +1484,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  800 340 830 350
+E E 0 1 1 2 1 E  976 350 1006 360
 4 42
 "LINE42"
 ""
-1 850 330 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 1026 340 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 42 0 0 0 0 0
 E E E
@@ -1321,11 +1499,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  850 330 850 400
+E E 0 1 1 2 1 E  1026 340 1026 410
 4 43
 "LINE43"
 ""
-1 830 350 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 1006 360 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 43 0 0 0 0 0
 E E E
@@ -1336,11 +1514,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  830 350 830 380
+E E 0 1 1 2 1 E  1006 360 1006 390
 4 44
 "LINE44"
 ""
-1 830 380 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 1006 390 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 44 0 0 0 0 0
 E E E
@@ -1351,11 +1529,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  830 380 800 390
+E E 0 1 1 2 1 E  1006 390 976 400
 4 47
 "LINE47"
 ""
-1 800 390 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 976 400 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 47 0 0 0 0 0
 E E E
@@ -1366,11 +1544,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  800 390 800 400
+E E 0 1 1 2 1 E  976 400 976 410
 4 48
 "LINE48"
 ""
-1 800 400 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 976 410 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 48 0 0 0 0 0
 E E E
@@ -1381,11 +1559,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  800 400 810 400
+E E 0 1 1 2 1 E  976 410 986 410
 4 49
 "LINE49"
 ""
-1 810 400 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 986 410 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 49 0 0 0 0 0
 E E E
@@ -1396,11 +1574,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  810 400 810 410
+E E 0 1 1 2 1 E  986 410 986 420
 4 50
 "LINE50"
 ""
-1 830 400 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 1006 410 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 50 0 0 0 0 0
 E E E
@@ -1411,11 +1589,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  830 400 850 400
+E E 0 1 1 2 1 E  1006 410 1026 410
 4 52
 "LINE52"
 ""
-1 830 400 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 1006 410 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 52 0 0 0 0 0
 E E E
@@ -1426,11 +1604,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  830 400 830 410
+E E 0 1 1 2 1 E  1006 410 1006 420
 4 53
 "LINE53"
 ""
-1 810 410 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 986 420 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 53 0 0 0 0 0
 E E E
@@ -1441,11 +1619,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  810 410 830 410
+E E 0 1 1 2 1 E  986 420 1006 420
 4 54
 "LINE54"
 ""
-1 810 430 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 986 440 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 54 0 0 0 0 0
 E E E
@@ -1456,11 +1634,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  810 430 810 450
+E E 0 1 1 2 1 E  986 440 986 460
 4 56
 "LINE56"
 ""
-1 830 430 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 1006 440 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 56 0 0 0 0 0
 E E E
@@ -1471,11 +1649,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  830 430 830 470
+E E 0 1 1 2 1 E  1006 440 1006 480
 4 57
 "LINE57"
 ""
-1 810 430 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 986 440 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 57 0 0 0 0 0
 E E E
@@ -1486,11 +1664,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  810 430 830 430
+E E 0 1 1 2 1 E  986 440 1006 440
 4 58
 "LINE58"
 ""
-1 780 450 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 956 460 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 58 0 0 0 0 0
 E E E
@@ -1501,11 +1679,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  780 450 810 450
+E E 0 1 1 2 1 E  956 460 986 460
 4 59
 "LINE59"
 ""
-1 780 470 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 956 480 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 59 0 0 0 0 0
 E E E
@@ -1516,11 +1694,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  780 470 830 470
+E E 0 1 1 2 1 E  956 480 1006 480
 4 60
 "LINE60"
 ""
-1 780 450 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 956 460 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 60 0 0 0 0 0
 E E E
@@ -1531,11 +1709,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  780 450 780 470
+E E 0 1 1 2 1 E  956 460 956 480
 4 61
 "LINE61"
 ""
-1 660 450 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 836 460 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 61 0 0 0 0 0
 E E E
@@ -1546,11 +1724,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  660 450 710 450
+E E 0 1 1 2 1 E  836 460 886 460
 4 62
 "LINE62"
 ""
-1 660 470 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 836 480 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 62 0 0 0 0 0
 E E E
@@ -1561,11 +1739,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  660 470 710 470
+E E 0 1 1 2 1 E  836 480 886 480
 4 63
 "LINE63"
 ""
-1 710 450 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 886 460 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 63 0 0 0 0 0
 E E E
@@ -1576,11 +1754,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  710 450 710 470
+E E 0 1 1 2 1 E  886 460 886 480
 4 64
 "LINE64"
 ""
-1 660 450 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 836 460 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 64 0 0 0 0 0
 E E E
@@ -1591,11 +1769,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  660 450 660 470
+E E 0 1 1 2 1 E  836 460 836 480
 4 65
 "LINE65"
 ""
-1 620 470 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 796 480 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 65 0 0 0 0 0
 E E E
@@ -1606,11 +1784,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  620 470 600 470
+E E 0 1 1 2 1 E  796 480 776 480
 4 66
 "LINE66"
 ""
-1 620 470 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 796 480 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 66 0 0 0 0 0
 E E E
@@ -1621,11 +1799,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  620 470 620 410
+E E 0 1 1 2 1 E  796 480 796 420
 4 67
 "LINE67"
 ""
-1 600 430 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 776 440 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 67 0 0 0 0 0
 E E E
@@ -1636,11 +1814,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  600 430 600 470
+E E 0 1 1 2 1 E  776 440 776 480
 4 68
 "LINE68"
 ""
-1 570 410 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 746 420 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 68 0 0 0 0 0
 E E E
@@ -1651,11 +1829,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  570 410 620 410
+E E 0 1 1 2 1 E  746 420 796 420
 4 69
 "LINE69"
 ""
-1 570 430 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 746 440 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 69 0 0 0 0 0
 E E E
@@ -1666,11 +1844,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  570 430 600 430
+E E 0 1 1 2 1 E  746 440 776 440
 4 71
 "LINE71"
 ""
-1 570 410 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 746 420 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 71 0 0 0 0 0
 E E E
@@ -1681,11 +1859,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  570 410 570 430
+E E 0 1 1 2 1 E  746 420 746 440
 4 72
 "LINE72"
 ""
-1 450 410 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 626 420 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 72 0 0 0 0 0
 E E E
@@ -1696,11 +1874,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  450 410 500 410
+E E 0 1 1 2 1 E  626 420 676 420
 4 73
 "LINE73"
 ""
-1 500 410 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 676 420 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 73 0 0 0 0 0
 E E E
@@ -1711,11 +1889,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  500 410 500 430
+E E 0 1 1 2 1 E  676 420 676 440
 4 74
 "LINE74"
 ""
-1 460 430 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 636 440 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 74 0 0 0 0 0
 E E E
@@ -1726,11 +1904,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  460 430 500 430
+E E 0 1 1 2 1 E  636 440 676 440
 4 75
 "LINE75"
 ""
-1 460 430 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 636 440 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 75 0 0 0 0 0
 E E E
@@ -1741,11 +1919,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  460 430 460 550
+E E 0 1 1 2 1 E  636 440 636 560
 4 76
 "LINE76"
 ""
-1 450 410 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 626 420 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 76 0 0 0 0 0
 E E E
@@ -1756,11 +1934,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  450 410 450 320
+E E 0 1 1 2 1 E  626 420 626 330
 4 77
 "LINE77"
 ""
-1 440 319.9999999999999 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 616 329.9999999999999 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 77 0 0 0 0 0
 E E E
@@ -1771,11 +1949,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  440 320 440 540
+E E 0 1 1 2 1 E  616 330 616 550
 4 79
 "LINE79"
 ""
-1 440 320 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 616 330 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 79 0 0 0 0 0
 E E E
@@ -1786,11 +1964,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  440 320 450 320
+E E 0 1 1 2 1 E  616 330 626 330
 4 80
 "LINE80"
 ""
-1 430 550 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 606 560 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 80 0 0 0 0 0
 E E E
@@ -1801,11 +1979,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  430 550 460 550
+E E 0 1 1 2 1 E  606 560 636 560
 4 81
 "LINE81"
 ""
-1 430 540 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 606 550 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 81 0 0 0 0 0
 E E E
@@ -1816,11 +1994,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  430 540 430 550
+E E 0 1 1 2 1 E  606 550 606 560
 4 82
 "LINE82"
 ""
-1 430 540 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 606 550 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 82 0 0 0 0 0
 E E E
@@ -1831,11 +2009,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  430 540 440 540
+E E 0 1 1 2 1 E  606 550 616 550
 4 83
 "LINE83"
 ""
-1 280 340 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 456 390 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 83 0 0 0 0 0
 E E E
@@ -1846,11 +2024,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  280 340 280 550
+E E 0 1 1 2 1 E  456 390 456 560
 4 84
 "LINE84"
 ""
-1 280 550 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 456 560 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 84 0 0 0 0 0
 E E E
@@ -1861,11 +2039,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  280 550 310 550
+E E 0 1 1 2 1 E  456 560 486 560
 4 85
 "LINE85"
 ""
-1 300 340 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 476 390 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 85 0 0 0 0 0
 E E E
@@ -1876,11 +2054,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  300 340 300 540
+E E 0 1 1 2 1 E  476 390 476 550
 4 86
 "LINE86"
 ""
-1 300 540 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 476 550 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 86 0 0 0 0 0
 E E E
@@ -1891,11 +2069,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  300 540 310 540
+E E 0 1 1 2 1 E  476 550 486 550
 4 87
 "LINE87"
 ""
-1 310 540 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 486 550 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 87 0 0 0 0 0
 E E E
@@ -1906,11 +2084,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  310 540 310 550
+E E 0 1 1 2 1 E  486 550 486 560
 4 88
 "LINE88"
 ""
-1 280 240 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 456 250 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 88 0 0 0 0 0
 E E E
@@ -1921,11 +2099,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  280 240 280 290
+E E 0 1 1 2 1 E  456 250 456 300
 4 89
 "LINE89"
 ""
-1 280 290 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 456 300 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 89 0 0 0 0 0
 E E E
@@ -1936,11 +2114,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  280 290 300 290
+E E 0 1 1 2 1 E  456 300 476 300
 4 90
 "LINE90"
 ""
-1 300 260 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 476 270 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 90 0 0 0 0 0
 E E E
@@ -1951,11 +2129,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  300 260 300 290
+E E 0 1 1 2 1 E  476 270 476 300
 4 92
 "LINE92"
 ""
-1 280 340 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 455.9999888738001 389.9999849001572 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 92 0 0 0 0 0
 E E E
@@ -1966,11 +2144,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  280 340 300 340
+E E 0 1 1 2 1 E  456 390 476 390
 4 93
 "LINE93"
 ""
-1 280 240 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 456 250 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 93 0 0 0 0 0
 E E E
@@ -1981,11 +2159,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  280 240 440 240
+E E 0 1 1 2 1 E  456 250 616 250
 4 94
 "LINE94"
 ""
-1 300 260 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 476 270 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 94 0 0 0 0 0
 E E E
@@ -1996,11 +2174,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  300 260 440 260
+E E 0 1 1 2 1 E  476 270 616 270
 4 95
 "LINE95"
 ""
-1 440 240 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 616 250 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 95 0 0 0 0 0
 E E E
@@ -2011,11 +2189,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  440 240 440 190
+E E 0 1 1 2 1 E  616 250 616 200
 4 96
 "LINE96"
 ""
-1 440 190 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 616 200 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 96 0 0 0 0 0
 E E E
@@ -2026,11 +2204,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  440 190 530 190
+E E 0 1 1 2 1 E  616 200 706 200
 4 97
 "LINE97"
 ""
-1 440 260 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 616 270 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 97 0 0 0 0 0
 E E E
@@ -2041,11 +2219,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  440 260 440 280
+E E 0 1 1 2 1 E  616 270 616 290
 4 98
 "LINE98"
 ""
-1 440 280 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 616 290 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 98 0 0 0 0 0
 E E E
@@ -2056,11 +2234,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  440 280 490 280
+E E 0 1 1 2 1 E  616 290 666 290
 4 99
 "LINE99"
 ""
-1 450 210 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 626 220 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 99 0 0 0 0 0
 E E E
@@ -2071,11 +2249,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  450 210 450 270
+E E 0 1 1 2 1 E  626 220 626 280
 4 100
 "LINE100"
 ""
-1 450 200 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 626 210 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 100 0 0 0 0 0
 E E E
@@ -2086,11 +2264,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  450 200 530 200
+E E 0 1 1 2 1 E  626 210 706 210
 4 101
 "LINE101"
 ""
-1 530 190 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 706 200 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 101 0 0 0 0 0
 E E E
@@ -2101,11 +2279,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  530 190 530 200
+E E 0 1 1 2 1 E  706 200 706 210
 4 102
 "LINE102"
 ""
-1 450 200 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 626 210 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 102 0 0 0 0 0
 E E E
@@ -2116,11 +2294,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  450 200 450 210
+E E 0 1 1 2 1 E  626 210 626 220
 4 103
 "LINE103"
 ""
-1 450 270 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 626 280 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 103 0 0 0 0 0
 E E E
@@ -2131,11 +2309,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  450 270 490 270
+E E 0 1 1 2 1 E  626 280 666 280
 4 104
 "LINE104"
 ""
-1 490 270 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 666 280 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 104 0 0 0 0 0
 E E E
@@ -2146,11 +2324,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  490 270 490 280
+E E 0 1 1 2 1 E  666 280 666 290
 4 105
 "LINE105"
 ""
-1 620 140 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 796 150 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 105 0 0 0 0 0
 E E E
@@ -2161,11 +2339,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  620 140 620 290
+E E 0 1 1 2 1 E  796 150 796 300
 4 106
 "LINE106"
 ""
-1 610 200 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 786 210 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 106 0 0 0 0 0
 E E E
@@ -2176,11 +2354,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  610 200 610 290
+E E 0 1 1 2 1 E  786 210 786 300
 4 107
 "LINE107"
 ""
-1 610 290 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 786 300 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 107 0 0 0 0 0
 E E E
@@ -2191,11 +2369,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  610 290 620 290
+E E 0 1 1 2 1 E  786 300 796 300
 4 108
 "LINE108"
 ""
-1 600 200 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 776 210 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 108 0 0 0 0 0
 E E E
@@ -2206,11 +2384,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  600 200 610 200
+E E 0 1 1 2 1 E  776 210 786 210
 4 109
 "LINE109"
 ""
-1 600 140 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 776 150 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 109 0 0 0 0 0
 E E E
@@ -2221,11 +2399,11 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  600 140 600 200
+E E 0 1 1 2 1 E  776 150 776 210
 4 110
 "LINE110"
 ""
-1 600 140 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
+1 776 150 E E E 1 E 1 E N "stoerKamQuit" E N {255,255,255} E E
  E E
 110 0 0 0 0 0
 E E E
@@ -2236,7 +2414,7 @@ LANG:10001 0
 2
 "hoverfclr" "N \"STD_value_default\""
 "dashclr"N "STD_windows_available"
-E E 0 1 1 2 1 E  600 140 620 140
+E E 0 1 1 2 1 E  776 150 796 150
 0
 LAYER, 3 
 1
@@ -2257,5 +2435,53 @@ LANG:10001 0
 LAYER, 7 
 1
 LANG:10001 0 
+0
+3 0 "PANEL_REF0" -1
+"objects\\WindowV1.pnl" 251 291 T 297 1 0 1 206.9999888738001 9.999988476435817
+0
+3 1 "PANEL_REF1" -1
+"objects\\DoorH.pnl" 741 301 T 299 1 0 1 175 9
+0
+3 2 "PANEL_REF2" -1
+"objects\\Fan.pnl" 761 101 T 300 1 0 1 135 -21
+0
+3 3 "PANEL_REF3" -1
+"objects\\heater2.pnl" 291 11 T 301 0.15625 0 0.1863636583260346 878.0312198003145 14.90454431637609
+0
+3 4 "PANEL_REF4" -1
+"objects\\ligth.pnl" 821 171 T 302 1 0 1 135 -1
+0
+3 5 "PANEL_REF5" -1
+"objects\\Presence.pnl" 521 61 T 303 0.1481481481481481 0 0.159421128396078 718.8148148148149 69.95374865328688
+0
+3 6 "PANEL_REF6" -1
+"objects\\WindowH2.pnl" 621 11 T 304 1 0 1 174.9999753634145 8.999999602635718
+0
+3 7 "PANEL_REF7" -1
+"objects\\WindowV1.pnl" 601 51 T 305 1 0 1 176 10
+0
+3 8 "PANEL_REF8" -1
+"objects\\WindowV1.pnl" 821 51 T 306 1 0 1 175 8.999999999999972
+0
+3 9 "PANEL_REF9" -1
+"objects\\DoorH.pnl" 740 570 T 308 1 0 1 176 10
+0
+3 10 "PANEL_REF10" -1
+"objects\\Lock.pnl" 600 420 T 309 0.3636363636363637 0 0.3 577.8181818181818 379
+0
+3 11 "PANEL_REF11" -1
+"objects\\Presence.pnl" 530 130 T 310 0.1481481481481481 0 0.1562138381057024 727.4814814814815 239.5179362995716
+0
+3 12 "PANEL_REF12" -1
+"tables\\LightSensorTable.pnl" 44 130 T 311 1 0 1 2 342
+0
+3 13 "PANEL_REF13" -1
+"tables\\LightSourceTable.pnl" 241 86 T 312 1 0 1 2 342
+0
+3 14 "PANEL_REF14" -1
+"tables\\mcSystemTable.pnl" 14 193 T 315 1 0 1 4 -37
+0
+3 15 "PANEL_REF15" -1
+"tables\\PresenceSensorTable.pnl" 58 321 T 317 1 0 1 -9 -5
 0
 0

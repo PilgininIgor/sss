@@ -318,3 +318,2563 @@ initializing key file: C:\sss\db\wincc_oa\alliving\alertpr.key
 processing data file: C:\sss\db\wincc_oa\alliving\alertrec.db, total records =       1
 
 key file rebuild completed
+
+#############################################
+## DATA BASE REPAIR with parameter "last" requested on 2017.11.03;02:41:15:284 
+########### CHECKING DATABASE : C:\sss\db\wincc_oa\lastval\ValHist
+ Command: C:\Siemens\Automation\WinCC_OA\3.11\bin\dbcheck -a -k -t C:\sss\db\wincc_oa\lastval\ValHist
+Raima Database Manager 4.5 [Build 17]
+Database Consistency Check Utility
+Copyright (C) 1984-1997, Raima Corporation, All Rights Reserved
+
+----------------------------------------------------------------------
+
+Processing key file: vblkflt.key(33), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: vblkptr.key(34), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: lastlong.key(35), total of 45 nodes
+
+
+------------------------------------------------------------------------
+
+Processing key file: lastflt.key(36), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: lastptr.key(37), total of 25 nodes
+
+
+------------------------------------------------------------------------
+
+Processing data file: vbitvar.db(0), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vbit32va.db(1), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vcharvar.db(2), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vintvar.db(3), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vuintvar.db(4), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vfltvar.db(5), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vtxtvar.db(6), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vtimvar.db(7), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vdynvar.db(8), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vdpidvar.db(9), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vlngvar.db(10), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vulngvar.db(11), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vbit64va.db(12), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lbitvar.db(13), total of 334 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lbit32va.db(14), total of 27 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lcharvar.db(15), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lintvar.db(16), total of 413 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: luintvar.db(17), total of 2245 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lfltvar.db(18), total of 149 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: ltxtvar.db(19), total of 6811 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: ltimvar.db(20), total of 661 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: ldynvar.db(21), total of 9537 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: ldpidvar.db(22), total of 32 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: llngvar.db(23), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lulngvar.db(24), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lbit64va.db(25), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vblklong.db(26), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vblkflt.db(27), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vblkptr.db(28), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lastlong.db(29), total of 3421 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lastflt.db(30), total of 83 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lastptr.db(31), total of 2014 records
+
+
+Database consistency check completed
+
+0 errors were encountered in 0 records/nodes
+########### RUNNING KEYBUILD IN DATABASE : C:\sss\db\wincc_oa\lastval\ValHist
+ Command: C:\Siemens\Automation\WinCC_OA\3.11\bin\keybuild C:\sss\db\wincc_oa\lastval\ValHist
+Raima Database Manager 4.5 [Build 17]
+Key File Build Utility
+Copyright (C) 1984-1997, Raima Corporation, All Rights Reserved
+
+initializing key file: C:\sss\db\wincc_oa\lastval\vblklong.key
+initializing key file: C:\sss\db\wincc_oa\lastval\vblkflt.key
+initializing key file: C:\sss\db\wincc_oa\lastval\vblkptr.key
+initializing key file: C:\sss\db\wincc_oa\lastval\lastlong.key
+initializing key file: C:\sss\db\wincc_oa\lastval\lastflt.key
+initializing key file: C:\sss\db\wincc_oa\lastval\lastptr.key
+
+processing data file: C:\sss\db\wincc_oa\lastval\vblklong.db, total records =       0
+processing data file: C:\sss\db\wincc_oa\lastval\vblkflt.db, total records =       0
+processing data file: C:\sss\db\wincc_oa\lastval\vblkptr.db, total records =       0
+processing data file: C:\sss\db\wincc_oa\lastval\lastlong.db, total records =    3421
+processing data file: C:\sss\db\wincc_oa\lastval\lastflt.db, total records =      83
+processing data file: C:\sss\db\wincc_oa\lastval\lastptr.db, total records =    2014
+
+key file rebuild completed
+########### CHECKING DATABASE : C:\sss\db\wincc_oa\alliving\AlertHist
+ Command: C:\Siemens\Automation\WinCC_OA\3.11\bin\dbcheck -a -k -t C:\sss\db\wincc_oa\alliving\AlertHist
+Raima Database Manager 4.5 [Build 17]
+Database Consistency Check Utility
+Copyright (C) 1984-1997, Raima Corporation, All Rights Reserved
+
+--------------------------------------------------------------------
+
+Processing key file: alertrd.key(2), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: alertpr.key(3), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing data file: alertrec.db(0), total of 1 record
+
+
+------------------------------------------------------------------------
+
+Processing data file: abitvar.db(4), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: abit32va.db(5), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: acharvar.db(6), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: aintvar.db(7), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: auintvar.db(8), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: afltvar.db(9), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: atxtvar.db(10), total of 2 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: atimvar.db(11), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: adynvar.db(12), total of 1 record
+
+
+------------------------------------------------------------------------
+
+Processing data file: adpidvar.db(13), total of 1 record
+
+
+------------------------------------------------------------------------
+
+Processing data file: alngvar.db(14), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: aulngvar.db(15), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: abit64va.db(16), total of 0 records
+
+
+Database consistency check completed
+
+0 errors were encountered in 0 records/nodes
+########### RUNNING KEYBUILD IN DATABASE : C:\sss\db\wincc_oa\alliving\AlertHist
+ Command: C:\Siemens\Automation\WinCC_OA\3.11\bin\keybuild C:\sss\db\wincc_oa\alliving\AlertHist
+Raima Database Manager 4.5 [Build 17]
+Key File Build Utility
+Copyright (C) 1984-1997, Raima Corporation, All Rights Reserved
+
+initializing key file: C:\sss\db\wincc_oa\alliving\alertrg.key
+initializing key file: C:\sss\db\wincc_oa\alliving\alertrd.key
+initializing key file: C:\sss\db\wincc_oa\alliving\alertpr.key
+
+processing data file: C:\sss\db\wincc_oa\alliving\alertrec.db, total records =       1
+
+key file rebuild completed
+
+#############################################
+## DATA BASE REPAIR with parameter "last" requested on 2017.11.03;09:48:52:406 
+########### CHECKING DATABASE : C:\sss\db\wincc_oa\lastval\ValHist
+ Command: C:\Siemens\Automation\WinCC_OA\3.11\bin\dbcheck -a -k -t C:\sss\db\wincc_oa\lastval\ValHist
+Raima Database Manager 4.5 [Build 17]
+Database Consistency Check Utility
+Copyright (C) 1984-1997, Raima Corporation, All Rights Reserved
+
+----------------------------------------------------------------------
+
+Processing key file: vblkflt.key(33), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: vblkptr.key(34), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: lastlong.key(35), total of 45 nodes
+
+
+------------------------------------------------------------------------
+
+Processing key file: lastflt.key(36), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: lastptr.key(37), total of 25 nodes
+
+
+------------------------------------------------------------------------
+
+Processing data file: vbitvar.db(0), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vbit32va.db(1), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vcharvar.db(2), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vintvar.db(3), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vuintvar.db(4), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vfltvar.db(5), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vtxtvar.db(6), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vtimvar.db(7), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vdynvar.db(8), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vdpidvar.db(9), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vlngvar.db(10), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vulngvar.db(11), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vbit64va.db(12), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lbitvar.db(13), total of 334 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lbit32va.db(14), total of 27 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lcharvar.db(15), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lintvar.db(16), total of 414 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: luintvar.db(17), total of 2245 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lfltvar.db(18), total of 149 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: ltxtvar.db(19), total of 6838 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: ltimvar.db(20), total of 663 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: ldynvar.db(21), total of 9562 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: ldpidvar.db(22), total of 32 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: llngvar.db(23), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lulngvar.db(24), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lbit64va.db(25), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vblklong.db(26), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vblkflt.db(27), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vblkptr.db(28), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lastlong.db(29), total of 3421 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lastflt.db(30), total of 85 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lastptr.db(31), total of 2014 records
+
+
+Database consistency check completed
+
+0 errors were encountered in 0 records/nodes
+########### RUNNING KEYBUILD IN DATABASE : C:\sss\db\wincc_oa\lastval\ValHist
+ Command: C:\Siemens\Automation\WinCC_OA\3.11\bin\keybuild C:\sss\db\wincc_oa\lastval\ValHist
+Raima Database Manager 4.5 [Build 17]
+Key File Build Utility
+Copyright (C) 1984-1997, Raima Corporation, All Rights Reserved
+
+initializing key file: C:\sss\db\wincc_oa\lastval\vblklong.key
+initializing key file: C:\sss\db\wincc_oa\lastval\vblkflt.key
+initializing key file: C:\sss\db\wincc_oa\lastval\vblkptr.key
+initializing key file: C:\sss\db\wincc_oa\lastval\lastlong.key
+initializing key file: C:\sss\db\wincc_oa\lastval\lastflt.key
+initializing key file: C:\sss\db\wincc_oa\lastval\lastptr.key
+
+processing data file: C:\sss\db\wincc_oa\lastval\vblklong.db, total records =       0
+processing data file: C:\sss\db\wincc_oa\lastval\vblkflt.db, total records =       0
+processing data file: C:\sss\db\wincc_oa\lastval\vblkptr.db, total records =       0
+processing data file: C:\sss\db\wincc_oa\lastval\lastlong.db, total records =    3421
+processing data file: C:\sss\db\wincc_oa\lastval\lastflt.db, total records =      85
+processing data file: C:\sss\db\wincc_oa\lastval\lastptr.db, total records =    2014
+
+key file rebuild completed
+########### CHECKING DATABASE : C:\sss\db\wincc_oa\alliving\AlertHist
+ Command: C:\Siemens\Automation\WinCC_OA\3.11\bin\dbcheck -a -k -t C:\sss\db\wincc_oa\alliving\AlertHist
+Raima Database Manager 4.5 [Build 17]
+Database Consistency Check Utility
+Copyright (C) 1984-1997, Raima Corporation, All Rights Reserved
+
+--------------------------------------------------------------------
+
+Processing key file: alertrd.key(2), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: alertpr.key(3), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing data file: alertrec.db(0), total of 1 record
+
+
+------------------------------------------------------------------------
+
+Processing data file: abitvar.db(4), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: abit32va.db(5), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: acharvar.db(6), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: aintvar.db(7), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: auintvar.db(8), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: afltvar.db(9), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: atxtvar.db(10), total of 2 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: atimvar.db(11), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: adynvar.db(12), total of 1 record
+
+
+------------------------------------------------------------------------
+
+Processing data file: adpidvar.db(13), total of 1 record
+
+
+------------------------------------------------------------------------
+
+Processing data file: alngvar.db(14), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: aulngvar.db(15), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: abit64va.db(16), total of 0 records
+
+
+Database consistency check completed
+
+0 errors were encountered in 0 records/nodes
+########### RUNNING KEYBUILD IN DATABASE : C:\sss\db\wincc_oa\alliving\AlertHist
+ Command: C:\Siemens\Automation\WinCC_OA\3.11\bin\keybuild C:\sss\db\wincc_oa\alliving\AlertHist
+Raima Database Manager 4.5 [Build 17]
+Key File Build Utility
+Copyright (C) 1984-1997, Raima Corporation, All Rights Reserved
+
+initializing key file: C:\sss\db\wincc_oa\alliving\alertrg.key
+initializing key file: C:\sss\db\wincc_oa\alliving\alertrd.key
+initializing key file: C:\sss\db\wincc_oa\alliving\alertpr.key
+
+processing data file: C:\sss\db\wincc_oa\alliving\alertrec.db, total records =       1
+
+key file rebuild completed
+
+#############################################
+## DATA BASE REPAIR with parameter "last" requested on 2017.11.03;11:39:16:049 
+########### CHECKING DATABASE : C:\sss\db\wincc_oa\lastval\ValHist
+ Command: C:\Siemens\Automation\WinCC_OA\3.11\bin\dbcheck -a -k -t C:\sss\db\wincc_oa\lastval\ValHist
+Raima Database Manager 4.5 [Build 17]
+Database Consistency Check Utility
+Copyright (C) 1984-1997, Raima Corporation, All Rights Reserved
+
+----------------------------------------------------------------------
+
+Processing key file: vblkflt.key(33), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: vblkptr.key(34), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: lastlong.key(35), total of 45 nodes
+
+
+------------------------------------------------------------------------
+
+Processing key file: lastflt.key(36), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: lastptr.key(37), total of 25 nodes
+
+
+------------------------------------------------------------------------
+
+Processing data file: vbitvar.db(0), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vbit32va.db(1), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vcharvar.db(2), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vintvar.db(3), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vuintvar.db(4), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vfltvar.db(5), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vtxtvar.db(6), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vtimvar.db(7), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vdynvar.db(8), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vdpidvar.db(9), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vlngvar.db(10), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vulngvar.db(11), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vbit64va.db(12), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lbitvar.db(13), total of 334 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lbit32va.db(14), total of 27 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lcharvar.db(15), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lintvar.db(16), total of 414 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: luintvar.db(17), total of 2245 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lfltvar.db(18), total of 149 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: ltxtvar.db(19), total of 6843 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: ltimvar.db(20), total of 663 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: ldynvar.db(21), total of 9565 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: ldpidvar.db(22), total of 32 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: llngvar.db(23), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lulngvar.db(24), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lbit64va.db(25), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vblklong.db(26), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vblkflt.db(27), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vblkptr.db(28), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lastlong.db(29), total of 3426 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lastflt.db(30), total of 88 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lastptr.db(31), total of 2018 records
+
+
+Database consistency check completed
+
+0 errors were encountered in 0 records/nodes
+########### RUNNING KEYBUILD IN DATABASE : C:\sss\db\wincc_oa\lastval\ValHist
+ Command: C:\Siemens\Automation\WinCC_OA\3.11\bin\keybuild C:\sss\db\wincc_oa\lastval\ValHist
+Raima Database Manager 4.5 [Build 17]
+Key File Build Utility
+Copyright (C) 1984-1997, Raima Corporation, All Rights Reserved
+
+initializing key file: C:\sss\db\wincc_oa\lastval\vblklong.key
+initializing key file: C:\sss\db\wincc_oa\lastval\vblkflt.key
+initializing key file: C:\sss\db\wincc_oa\lastval\vblkptr.key
+initializing key file: C:\sss\db\wincc_oa\lastval\lastlong.key
+initializing key file: C:\sss\db\wincc_oa\lastval\lastflt.key
+initializing key file: C:\sss\db\wincc_oa\lastval\lastptr.key
+
+processing data file: C:\sss\db\wincc_oa\lastval\vblklong.db, total records =       0
+processing data file: C:\sss\db\wincc_oa\lastval\vblkflt.db, total records =       0
+processing data file: C:\sss\db\wincc_oa\lastval\vblkptr.db, total records =       0
+processing data file: C:\sss\db\wincc_oa\lastval\lastlong.db, total records =    3426
+processing data file: C:\sss\db\wincc_oa\lastval\lastflt.db, total records =      88
+processing data file: C:\sss\db\wincc_oa\lastval\lastptr.db, total records =    2018
+
+key file rebuild completed
+########### CHECKING DATABASE : C:\sss\db\wincc_oa\alliving\AlertHist
+ Command: C:\Siemens\Automation\WinCC_OA\3.11\bin\dbcheck -a -k -t C:\sss\db\wincc_oa\alliving\AlertHist
+Raima Database Manager 4.5 [Build 17]
+Database Consistency Check Utility
+Copyright (C) 1984-1997, Raima Corporation, All Rights Reserved
+
+--------------------------------------------------------------------
+
+Processing key file: alertrd.key(2), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: alertpr.key(3), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing data file: alertrec.db(0), total of 1 record
+
+
+------------------------------------------------------------------------
+
+Processing data file: abitvar.db(4), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: abit32va.db(5), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: acharvar.db(6), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: aintvar.db(7), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: auintvar.db(8), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: afltvar.db(9), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: atxtvar.db(10), total of 2 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: atimvar.db(11), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: adynvar.db(12), total of 1 record
+
+
+------------------------------------------------------------------------
+
+Processing data file: adpidvar.db(13), total of 1 record
+
+
+------------------------------------------------------------------------
+
+Processing data file: alngvar.db(14), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: aulngvar.db(15), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: abit64va.db(16), total of 0 records
+
+
+Database consistency check completed
+
+0 errors were encountered in 0 records/nodes
+########### RUNNING KEYBUILD IN DATABASE : C:\sss\db\wincc_oa\alliving\AlertHist
+ Command: C:\Siemens\Automation\WinCC_OA\3.11\bin\keybuild C:\sss\db\wincc_oa\alliving\AlertHist
+Raima Database Manager 4.5 [Build 17]
+Key File Build Utility
+Copyright (C) 1984-1997, Raima Corporation, All Rights Reserved
+
+initializing key file: C:\sss\db\wincc_oa\alliving\alertrg.key
+initializing key file: C:\sss\db\wincc_oa\alliving\alertrd.key
+initializing key file: C:\sss\db\wincc_oa\alliving\alertpr.key
+
+processing data file: C:\sss\db\wincc_oa\alliving\alertrec.db, total records =       1
+
+key file rebuild completed
+
+#############################################
+## DATA BASE REPAIR with parameter "last" requested on 2017.11.12;17:35:54:158 
+########### CHECKING DATABASE : C:\sss\db\wincc_oa\lastval\ValHist
+ Command: C:\Siemens\Automation\WinCC_OA\3.11\bin\dbcheck -a -k -t C:\sss\db\wincc_oa\lastval\ValHist
+Raima Database Manager 4.5 [Build 17]
+Database Consistency Check Utility
+Copyright (C) 1984-1997, Raima Corporation, All Rights Reserved
+
+----------------------------------------------------------------------
+
+Processing key file: vblkflt.key(33), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: vblkptr.key(34), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: lastlong.key(35), total of 45 nodes
+
+
+------------------------------------------------------------------------
+
+Processing key file: lastflt.key(36), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: lastptr.key(37), total of 25 nodes
+
+
+------------------------------------------------------------------------
+
+Processing data file: vbitvar.db(0), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vbit32va.db(1), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vcharvar.db(2), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vintvar.db(3), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vuintvar.db(4), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vfltvar.db(5), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vtxtvar.db(6), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vtimvar.db(7), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vdynvar.db(8), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vdpidvar.db(9), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vlngvar.db(10), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vulngvar.db(11), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vbit64va.db(12), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lbitvar.db(13), total of 334 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lbit32va.db(14), total of 27 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lcharvar.db(15), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lintvar.db(16), total of 414 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: luintvar.db(17), total of 2245 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lfltvar.db(18), total of 149 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: ltxtvar.db(19), total of 6843 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: ltimvar.db(20), total of 663 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: ldynvar.db(21), total of 9565 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: ldpidvar.db(22), total of 32 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: llngvar.db(23), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lulngvar.db(24), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lbit64va.db(25), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vblklong.db(26), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vblkflt.db(27), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vblkptr.db(28), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lastlong.db(29), total of 3426 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lastflt.db(30), total of 88 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lastptr.db(31), total of 2018 records
+
+
+Database consistency check completed
+
+0 errors were encountered in 0 records/nodes
+########### RUNNING KEYBUILD IN DATABASE : C:\sss\db\wincc_oa\lastval\ValHist
+ Command: C:\Siemens\Automation\WinCC_OA\3.11\bin\keybuild C:\sss\db\wincc_oa\lastval\ValHist
+Raima Database Manager 4.5 [Build 17]
+Key File Build Utility
+Copyright (C) 1984-1997, Raima Corporation, All Rights Reserved
+
+initializing key file: C:\sss\db\wincc_oa\lastval\vblklong.key
+initializing key file: C:\sss\db\wincc_oa\lastval\vblkflt.key
+initializing key file: C:\sss\db\wincc_oa\lastval\vblkptr.key
+initializing key file: C:\sss\db\wincc_oa\lastval\lastlong.key
+initializing key file: C:\sss\db\wincc_oa\lastval\lastflt.key
+initializing key file: C:\sss\db\wincc_oa\lastval\lastptr.key
+
+processing data file: C:\sss\db\wincc_oa\lastval\vblklong.db, total records =       0
+processing data file: C:\sss\db\wincc_oa\lastval\vblkflt.db, total records =       0
+processing data file: C:\sss\db\wincc_oa\lastval\vblkptr.db, total records =       0
+processing data file: C:\sss\db\wincc_oa\lastval\lastlong.db, total records =    3426
+processing data file: C:\sss\db\wincc_oa\lastval\lastflt.db, total records =      88
+processing data file: C:\sss\db\wincc_oa\lastval\lastptr.db, total records =    2018
+
+key file rebuild completed
+########### CHECKING DATABASE : C:\sss\db\wincc_oa\alliving\AlertHist
+ Command: C:\Siemens\Automation\WinCC_OA\3.11\bin\dbcheck -a -k -t C:\sss\db\wincc_oa\alliving\AlertHist
+Raima Database Manager 4.5 [Build 17]
+Database Consistency Check Utility
+Copyright (C) 1984-1997, Raima Corporation, All Rights Reserved
+
+--------------------------------------------------------------------
+
+Processing key file: alertrd.key(2), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: alertpr.key(3), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing data file: alertrec.db(0), total of 1 record
+
+
+------------------------------------------------------------------------
+
+Processing data file: abitvar.db(4), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: abit32va.db(5), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: acharvar.db(6), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: aintvar.db(7), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: auintvar.db(8), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: afltvar.db(9), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: atxtvar.db(10), total of 2 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: atimvar.db(11), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: adynvar.db(12), total of 1 record
+
+
+------------------------------------------------------------------------
+
+Processing data file: adpidvar.db(13), total of 1 record
+
+
+------------------------------------------------------------------------
+
+Processing data file: alngvar.db(14), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: aulngvar.db(15), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: abit64va.db(16), total of 0 records
+
+
+Database consistency check completed
+
+0 errors were encountered in 0 records/nodes
+########### RUNNING KEYBUILD IN DATABASE : C:\sss\db\wincc_oa\alliving\AlertHist
+ Command: C:\Siemens\Automation\WinCC_OA\3.11\bin\keybuild C:\sss\db\wincc_oa\alliving\AlertHist
+Raima Database Manager 4.5 [Build 17]
+Key File Build Utility
+Copyright (C) 1984-1997, Raima Corporation, All Rights Reserved
+
+initializing key file: C:\sss\db\wincc_oa\alliving\alertrg.key
+initializing key file: C:\sss\db\wincc_oa\alliving\alertrd.key
+initializing key file: C:\sss\db\wincc_oa\alliving\alertpr.key
+
+processing data file: C:\sss\db\wincc_oa\alliving\alertrec.db, total records =       1
+
+key file rebuild completed
+
+#############################################
+## DATA BASE REPAIR with parameter "last" requested on 2017.11.13;20:52:32:696 
+########### CHECKING DATABASE : C:\sss\db\wincc_oa\lastval\ValHist
+ Command: C:\Siemens\Automation\WinCC_OA\3.11\bin\dbcheck -a -k -t C:\sss\db\wincc_oa\lastval\ValHist
+Raima Database Manager 4.5 [Build 17]
+Database Consistency Check Utility
+Copyright (C) 1984-1997, Raima Corporation, All Rights Reserved
+
+----------------------------------------------------------------------
+
+Processing key file: vblkflt.key(33), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: vblkptr.key(34), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: lastlong.key(35), total of 45 nodes
+
+
+------------------------------------------------------------------------
+
+Processing key file: lastflt.key(36), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: lastptr.key(37), total of 25 nodes
+
+
+------------------------------------------------------------------------
+
+Processing data file: vbitvar.db(0), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vbit32va.db(1), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vcharvar.db(2), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vintvar.db(3), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vuintvar.db(4), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vfltvar.db(5), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vtxtvar.db(6), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vtimvar.db(7), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vdynvar.db(8), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vdpidvar.db(9), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vlngvar.db(10), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vulngvar.db(11), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vbit64va.db(12), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lbitvar.db(13), total of 334 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lbit32va.db(14), total of 27 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lcharvar.db(15), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lintvar.db(16), total of 414 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: luintvar.db(17), total of 2245 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lfltvar.db(18), total of 149 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: ltxtvar.db(19), total of 6843 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: ltimvar.db(20), total of 663 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: ldynvar.db(21), total of 9565 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: ldpidvar.db(22), total of 32 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: llngvar.db(23), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lulngvar.db(24), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lbit64va.db(25), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vblklong.db(26), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vblkflt.db(27), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vblkptr.db(28), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lastlong.db(29), total of 3426 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lastflt.db(30), total of 88 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lastptr.db(31), total of 2018 records
+
+
+Database consistency check completed
+
+0 errors were encountered in 0 records/nodes
+########### RUNNING KEYBUILD IN DATABASE : C:\sss\db\wincc_oa\lastval\ValHist
+ Command: C:\Siemens\Automation\WinCC_OA\3.11\bin\keybuild C:\sss\db\wincc_oa\lastval\ValHist
+Raima Database Manager 4.5 [Build 17]
+Key File Build Utility
+Copyright (C) 1984-1997, Raima Corporation, All Rights Reserved
+
+initializing key file: C:\sss\db\wincc_oa\lastval\vblklong.key
+initializing key file: C:\sss\db\wincc_oa\lastval\vblkflt.key
+initializing key file: C:\sss\db\wincc_oa\lastval\vblkptr.key
+initializing key file: C:\sss\db\wincc_oa\lastval\lastlong.key
+initializing key file: C:\sss\db\wincc_oa\lastval\lastflt.key
+initializing key file: C:\sss\db\wincc_oa\lastval\lastptr.key
+
+processing data file: C:\sss\db\wincc_oa\lastval\vblklong.db, total records =       0
+processing data file: C:\sss\db\wincc_oa\lastval\vblkflt.db, total records =       0
+processing data file: C:\sss\db\wincc_oa\lastval\vblkptr.db, total records =       0
+processing data file: C:\sss\db\wincc_oa\lastval\lastlong.db, total records =    3426
+processing data file: C:\sss\db\wincc_oa\lastval\lastflt.db, total records =      88
+processing data file: C:\sss\db\wincc_oa\lastval\lastptr.db, total records =    2018
+
+key file rebuild completed
+########### CHECKING DATABASE : C:\sss\db\wincc_oa\alliving\AlertHist
+ Command: C:\Siemens\Automation\WinCC_OA\3.11\bin\dbcheck -a -k -t C:\sss\db\wincc_oa\alliving\AlertHist
+Raima Database Manager 4.5 [Build 17]
+Database Consistency Check Utility
+Copyright (C) 1984-1997, Raima Corporation, All Rights Reserved
+
+--------------------------------------------------------------------
+
+Processing key file: alertrd.key(2), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: alertpr.key(3), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing data file: alertrec.db(0), total of 1 record
+
+
+------------------------------------------------------------------------
+
+Processing data file: abitvar.db(4), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: abit32va.db(5), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: acharvar.db(6), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: aintvar.db(7), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: auintvar.db(8), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: afltvar.db(9), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: atxtvar.db(10), total of 2 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: atimvar.db(11), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: adynvar.db(12), total of 1 record
+
+
+------------------------------------------------------------------------
+
+Processing data file: adpidvar.db(13), total of 1 record
+
+
+------------------------------------------------------------------------
+
+Processing data file: alngvar.db(14), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: aulngvar.db(15), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: abit64va.db(16), total of 0 records
+
+
+Database consistency check completed
+
+0 errors were encountered in 0 records/nodes
+########### RUNNING KEYBUILD IN DATABASE : C:\sss\db\wincc_oa\alliving\AlertHist
+ Command: C:\Siemens\Automation\WinCC_OA\3.11\bin\keybuild C:\sss\db\wincc_oa\alliving\AlertHist
+Raima Database Manager 4.5 [Build 17]
+Key File Build Utility
+Copyright (C) 1984-1997, Raima Corporation, All Rights Reserved
+
+initializing key file: C:\sss\db\wincc_oa\alliving\alertrg.key
+initializing key file: C:\sss\db\wincc_oa\alliving\alertrd.key
+initializing key file: C:\sss\db\wincc_oa\alliving\alertpr.key
+
+processing data file: C:\sss\db\wincc_oa\alliving\alertrec.db, total records =       1
+
+key file rebuild completed
+
+#############################################
+## DATA BASE REPAIR with parameter "last" requested on 2017.11.19;21:59:25:036 
+########### CHECKING DATABASE : C:\sss\db\wincc_oa\lastval\ValHist
+ Command: C:\Siemens\Automation\WinCC_OA\3.11\bin\dbcheck -a -k -t C:\sss\db\wincc_oa\lastval\ValHist
+Raima Database Manager 4.5 [Build 17]
+Database Consistency Check Utility
+Copyright (C) 1984-1997, Raima Corporation, All Rights Reserved
+
+----------------------------------------------------------------------
+
+Processing key file: vblkflt.key(33), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: vblkptr.key(34), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: lastlong.key(35), total of 45 nodes
+
+
+------------------------------------------------------------------------
+
+Processing key file: lastflt.key(36), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: lastptr.key(37), total of 25 nodes
+
+
+------------------------------------------------------------------------
+
+Processing data file: vbitvar.db(0), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vbit32va.db(1), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vcharvar.db(2), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vintvar.db(3), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vuintvar.db(4), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vfltvar.db(5), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vtxtvar.db(6), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vtimvar.db(7), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vdynvar.db(8), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vdpidvar.db(9), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vlngvar.db(10), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vulngvar.db(11), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vbit64va.db(12), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lbitvar.db(13), total of 334 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lbit32va.db(14), total of 27 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lcharvar.db(15), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lintvar.db(16), total of 414 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: luintvar.db(17), total of 2245 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lfltvar.db(18), total of 149 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: ltxtvar.db(19), total of 6843 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: ltimvar.db(20), total of 663 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: ldynvar.db(21), total of 9565 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: ldpidvar.db(22), total of 32 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: llngvar.db(23), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lulngvar.db(24), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lbit64va.db(25), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vblklong.db(26), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vblkflt.db(27), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vblkptr.db(28), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lastlong.db(29), total of 3426 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lastflt.db(30), total of 88 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lastptr.db(31), total of 2018 records
+
+
+Database consistency check completed
+
+0 errors were encountered in 0 records/nodes
+########### RUNNING KEYBUILD IN DATABASE : C:\sss\db\wincc_oa\lastval\ValHist
+ Command: C:\Siemens\Automation\WinCC_OA\3.11\bin\keybuild C:\sss\db\wincc_oa\lastval\ValHist
+Raima Database Manager 4.5 [Build 17]
+Key File Build Utility
+Copyright (C) 1984-1997, Raima Corporation, All Rights Reserved
+
+initializing key file: C:\sss\db\wincc_oa\lastval\vblklong.key
+initializing key file: C:\sss\db\wincc_oa\lastval\vblkflt.key
+initializing key file: C:\sss\db\wincc_oa\lastval\vblkptr.key
+initializing key file: C:\sss\db\wincc_oa\lastval\lastlong.key
+initializing key file: C:\sss\db\wincc_oa\lastval\lastflt.key
+initializing key file: C:\sss\db\wincc_oa\lastval\lastptr.key
+
+processing data file: C:\sss\db\wincc_oa\lastval\vblklong.db, total records =       0
+processing data file: C:\sss\db\wincc_oa\lastval\vblkflt.db, total records =       0
+processing data file: C:\sss\db\wincc_oa\lastval\vblkptr.db, total records =       0
+processing data file: C:\sss\db\wincc_oa\lastval\lastlong.db, total records =    3426
+processing data file: C:\sss\db\wincc_oa\lastval\lastflt.db, total records =      88
+processing data file: C:\sss\db\wincc_oa\lastval\lastptr.db, total records =    2018
+
+key file rebuild completed
+########### CHECKING DATABASE : C:\sss\db\wincc_oa\alliving\AlertHist
+ Command: C:\Siemens\Automation\WinCC_OA\3.11\bin\dbcheck -a -k -t C:\sss\db\wincc_oa\alliving\AlertHist
+Raima Database Manager 4.5 [Build 17]
+Database Consistency Check Utility
+Copyright (C) 1984-1997, Raima Corporation, All Rights Reserved
+
+--------------------------------------------------------------------
+
+Processing key file: alertrd.key(2), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: alertpr.key(3), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing data file: alertrec.db(0), total of 1 record
+
+
+------------------------------------------------------------------------
+
+Processing data file: abitvar.db(4), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: abit32va.db(5), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: acharvar.db(6), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: aintvar.db(7), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: auintvar.db(8), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: afltvar.db(9), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: atxtvar.db(10), total of 2 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: atimvar.db(11), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: adynvar.db(12), total of 1 record
+
+
+------------------------------------------------------------------------
+
+Processing data file: adpidvar.db(13), total of 1 record
+
+
+------------------------------------------------------------------------
+
+Processing data file: alngvar.db(14), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: aulngvar.db(15), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: abit64va.db(16), total of 0 records
+
+
+Database consistency check completed
+
+0 errors were encountered in 0 records/nodes
+########### RUNNING KEYBUILD IN DATABASE : C:\sss\db\wincc_oa\alliving\AlertHist
+ Command: C:\Siemens\Automation\WinCC_OA\3.11\bin\keybuild C:\sss\db\wincc_oa\alliving\AlertHist
+Raima Database Manager 4.5 [Build 17]
+Key File Build Utility
+Copyright (C) 1984-1997, Raima Corporation, All Rights Reserved
+
+initializing key file: C:\sss\db\wincc_oa\alliving\alertrg.key
+initializing key file: C:\sss\db\wincc_oa\alliving\alertrd.key
+initializing key file: C:\sss\db\wincc_oa\alliving\alertpr.key
+
+processing data file: C:\sss\db\wincc_oa\alliving\alertrec.db, total records =       1
+
+key file rebuild completed
+
+#############################################
+## DATA BASE REPAIR with parameter "last" requested on 2017.11.19;22:13:08:940 
+########### CHECKING DATABASE : C:\sss\db\wincc_oa\lastval\ValHist
+ Command: C:\Siemens\Automation\WinCC_OA\3.11\bin\dbcheck -a -k -t C:\sss\db\wincc_oa\lastval\ValHist
+Raima Database Manager 4.5 [Build 17]
+Database Consistency Check Utility
+Copyright (C) 1984-1997, Raima Corporation, All Rights Reserved
+
+----------------------------------------------------------------------
+
+Processing key file: vblkflt.key(33), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: vblkptr.key(34), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: lastlong.key(35), total of 45 nodes
+
+
+------------------------------------------------------------------------
+
+Processing key file: lastflt.key(36), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: lastptr.key(37), total of 25 nodes
+
+
+------------------------------------------------------------------------
+
+Processing data file: vbitvar.db(0), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vbit32va.db(1), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vcharvar.db(2), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vintvar.db(3), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vuintvar.db(4), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vfltvar.db(5), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vtxtvar.db(6), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vtimvar.db(7), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vdynvar.db(8), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vdpidvar.db(9), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vlngvar.db(10), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vulngvar.db(11), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vbit64va.db(12), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lbitvar.db(13), total of 334 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lbit32va.db(14), total of 27 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lcharvar.db(15), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lintvar.db(16), total of 414 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: luintvar.db(17), total of 2245 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lfltvar.db(18), total of 149 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: ltxtvar.db(19), total of 6843 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: ltimvar.db(20), total of 663 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: ldynvar.db(21), total of 9565 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: ldpidvar.db(22), total of 32 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: llngvar.db(23), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lulngvar.db(24), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lbit64va.db(25), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vblklong.db(26), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vblkflt.db(27), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vblkptr.db(28), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lastlong.db(29), total of 3426 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lastflt.db(30), total of 88 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lastptr.db(31), total of 2018 records
+
+
+Database consistency check completed
+
+0 errors were encountered in 0 records/nodes
+########### RUNNING KEYBUILD IN DATABASE : C:\sss\db\wincc_oa\lastval\ValHist
+ Command: C:\Siemens\Automation\WinCC_OA\3.11\bin\keybuild C:\sss\db\wincc_oa\lastval\ValHist
+Raima Database Manager 4.5 [Build 17]
+Key File Build Utility
+Copyright (C) 1984-1997, Raima Corporation, All Rights Reserved
+
+initializing key file: C:\sss\db\wincc_oa\lastval\vblklong.key
+initializing key file: C:\sss\db\wincc_oa\lastval\vblkflt.key
+initializing key file: C:\sss\db\wincc_oa\lastval\vblkptr.key
+initializing key file: C:\sss\db\wincc_oa\lastval\lastlong.key
+initializing key file: C:\sss\db\wincc_oa\lastval\lastflt.key
+initializing key file: C:\sss\db\wincc_oa\lastval\lastptr.key
+
+processing data file: C:\sss\db\wincc_oa\lastval\vblklong.db, total records =       0
+processing data file: C:\sss\db\wincc_oa\lastval\vblkflt.db, total records =       0
+processing data file: C:\sss\db\wincc_oa\lastval\vblkptr.db, total records =       0
+processing data file: C:\sss\db\wincc_oa\lastval\lastlong.db, total records =    3426
+processing data file: C:\sss\db\wincc_oa\lastval\lastflt.db, total records =      88
+processing data file: C:\sss\db\wincc_oa\lastval\lastptr.db, total records =    2018
+
+key file rebuild completed
+########### CHECKING DATABASE : C:\sss\db\wincc_oa\alliving\AlertHist
+ Command: C:\Siemens\Automation\WinCC_OA\3.11\bin\dbcheck -a -k -t C:\sss\db\wincc_oa\alliving\AlertHist
+Raima Database Manager 4.5 [Build 17]
+Database Consistency Check Utility
+Copyright (C) 1984-1997, Raima Corporation, All Rights Reserved
+
+--------------------------------------------------------------------
+
+Processing key file: alertrd.key(2), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: alertpr.key(3), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing data file: alertrec.db(0), total of 1 record
+
+
+------------------------------------------------------------------------
+
+Processing data file: abitvar.db(4), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: abit32va.db(5), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: acharvar.db(6), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: aintvar.db(7), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: auintvar.db(8), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: afltvar.db(9), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: atxtvar.db(10), total of 2 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: atimvar.db(11), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: adynvar.db(12), total of 1 record
+
+
+------------------------------------------------------------------------
+
+Processing data file: adpidvar.db(13), total of 1 record
+
+
+------------------------------------------------------------------------
+
+Processing data file: alngvar.db(14), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: aulngvar.db(15), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: abit64va.db(16), total of 0 records
+
+
+Database consistency check completed
+
+0 errors were encountered in 0 records/nodes
+########### RUNNING KEYBUILD IN DATABASE : C:\sss\db\wincc_oa\alliving\AlertHist
+ Command: C:\Siemens\Automation\WinCC_OA\3.11\bin\keybuild C:\sss\db\wincc_oa\alliving\AlertHist
+Raima Database Manager 4.5 [Build 17]
+Key File Build Utility
+Copyright (C) 1984-1997, Raima Corporation, All Rights Reserved
+
+initializing key file: C:\sss\db\wincc_oa\alliving\alertrg.key
+initializing key file: C:\sss\db\wincc_oa\alliving\alertrd.key
+initializing key file: C:\sss\db\wincc_oa\alliving\alertpr.key
+
+processing data file: C:\sss\db\wincc_oa\alliving\alertrec.db, total records =       1
+
+key file rebuild completed
+
+#############################################
+## DATA BASE REPAIR with parameter "last" requested on 2017.11.20;22:33:09:473 
+########### CHECKING DATABASE : C:\sss\db\wincc_oa\lastval\ValHist
+ Command: C:\Siemens\Automation\WinCC_OA\3.11\bin\dbcheck -a -k -t C:\sss\db\wincc_oa\lastval\ValHist
+Raima Database Manager 4.5 [Build 17]
+Database Consistency Check Utility
+Copyright (C) 1984-1997, Raima Corporation, All Rights Reserved
+
+----------------------------------------------------------------------
+
+Processing key file: vblkflt.key(33), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: vblkptr.key(34), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: lastlong.key(35), total of 45 nodes
+
+
+------------------------------------------------------------------------
+
+Processing key file: lastflt.key(36), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: lastptr.key(37), total of 25 nodes
+
+
+------------------------------------------------------------------------
+
+Processing data file: vbitvar.db(0), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vbit32va.db(1), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vcharvar.db(2), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vintvar.db(3), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vuintvar.db(4), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vfltvar.db(5), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vtxtvar.db(6), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vtimvar.db(7), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vdynvar.db(8), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vdpidvar.db(9), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vlngvar.db(10), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vulngvar.db(11), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vbit64va.db(12), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lbitvar.db(13), total of 334 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lbit32va.db(14), total of 28 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lcharvar.db(15), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lintvar.db(16), total of 414 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: luintvar.db(17), total of 2245 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lfltvar.db(18), total of 150 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: ltxtvar.db(19), total of 6846 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: ltimvar.db(20), total of 664 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: ldynvar.db(21), total of 9568 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: ldpidvar.db(22), total of 32 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: llngvar.db(23), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lulngvar.db(24), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lbit64va.db(25), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vblklong.db(26), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vblkflt.db(27), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vblkptr.db(28), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lastlong.db(29), total of 3426 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lastflt.db(30), total of 88 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lastptr.db(31), total of 2019 records
+
+
+Database consistency check completed
+
+0 errors were encountered in 0 records/nodes
+########### RUNNING KEYBUILD IN DATABASE : C:\sss\db\wincc_oa\lastval\ValHist
+ Command: C:\Siemens\Automation\WinCC_OA\3.11\bin\keybuild C:\sss\db\wincc_oa\lastval\ValHist
+Raima Database Manager 4.5 [Build 17]
+Key File Build Utility
+Copyright (C) 1984-1997, Raima Corporation, All Rights Reserved
+
+initializing key file: C:\sss\db\wincc_oa\lastval\vblklong.key
+initializing key file: C:\sss\db\wincc_oa\lastval\vblkflt.key
+initializing key file: C:\sss\db\wincc_oa\lastval\vblkptr.key
+initializing key file: C:\sss\db\wincc_oa\lastval\lastlong.key
+initializing key file: C:\sss\db\wincc_oa\lastval\lastflt.key
+initializing key file: C:\sss\db\wincc_oa\lastval\lastptr.key
+
+processing data file: C:\sss\db\wincc_oa\lastval\vblklong.db, total records =       0
+processing data file: C:\sss\db\wincc_oa\lastval\vblkflt.db, total records =       0
+processing data file: C:\sss\db\wincc_oa\lastval\vblkptr.db, total records =       0
+processing data file: C:\sss\db\wincc_oa\lastval\lastlong.db, total records =    3426
+processing data file: C:\sss\db\wincc_oa\lastval\lastflt.db, total records =      88
+processing data file: C:\sss\db\wincc_oa\lastval\lastptr.db, total records =    2019
+
+key file rebuild completed
+########### CHECKING DATABASE : C:\sss\db\wincc_oa\alliving\AlertHist
+ Command: C:\Siemens\Automation\WinCC_OA\3.11\bin\dbcheck -a -k -t C:\sss\db\wincc_oa\alliving\AlertHist
+Raima Database Manager 4.5 [Build 17]
+Database Consistency Check Utility
+Copyright (C) 1984-1997, Raima Corporation, All Rights Reserved
+
+--------------------------------------------------------------------
+
+Processing key file: alertrd.key(2), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: alertpr.key(3), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing data file: alertrec.db(0), total of 1 record
+
+
+------------------------------------------------------------------------
+
+Processing data file: abitvar.db(4), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: abit32va.db(5), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: acharvar.db(6), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: aintvar.db(7), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: auintvar.db(8), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: afltvar.db(9), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: atxtvar.db(10), total of 2 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: atimvar.db(11), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: adynvar.db(12), total of 1 record
+
+
+------------------------------------------------------------------------
+
+Processing data file: adpidvar.db(13), total of 1 record
+
+
+------------------------------------------------------------------------
+
+Processing data file: alngvar.db(14), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: aulngvar.db(15), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: abit64va.db(16), total of 0 records
+
+
+Database consistency check completed
+
+0 errors were encountered in 0 records/nodes
+########### RUNNING KEYBUILD IN DATABASE : C:\sss\db\wincc_oa\alliving\AlertHist
+ Command: C:\Siemens\Automation\WinCC_OA\3.11\bin\keybuild C:\sss\db\wincc_oa\alliving\AlertHist
+Raima Database Manager 4.5 [Build 17]
+Key File Build Utility
+Copyright (C) 1984-1997, Raima Corporation, All Rights Reserved
+
+initializing key file: C:\sss\db\wincc_oa\alliving\alertrg.key
+initializing key file: C:\sss\db\wincc_oa\alliving\alertrd.key
+initializing key file: C:\sss\db\wincc_oa\alliving\alertpr.key
+
+processing data file: C:\sss\db\wincc_oa\alliving\alertrec.db, total records =       1
+
+key file rebuild completed

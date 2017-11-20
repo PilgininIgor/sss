@@ -13,7 +13,7 @@ DISPLAY_LAYER, 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0
 LAYER, 0 
 1
 LANG:10001 0 
-28 6
+28 0
 "TAB1"
 ""
 1 10 10 E E E 1 E 1 E N "_3DText" E N "_3DFace" E E
@@ -39,7 +39,8 @@ LANG:10001 0
 LANG:10001 37 Датчики присутствия
 1 "tables/presenceSensorsPanel.pnl.bak" 1
 LANG:10001 0 
-0
+1
+"$dpe_value""$dpe_value"
 
 "Магнитные датчики" 1
 LANG:10001 33 Магнитные датчики
@@ -59,7 +60,8 @@ LANG:10001 0
 LANG:10001 29 Источники света
 1 "tables/lightSoursePanel.pnl.bak" 1
 LANG:10001 0 
-0
+1
+"$dpe_value""$dpe_value"
 
 
 0
