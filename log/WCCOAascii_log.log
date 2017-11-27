@@ -1,9 +1,0 @@
-WCCOAascii   (0), 2017.11.02 21:43:21.144, SYS,  INFO,        1, Manager Start, PROJ, sss, V 3.11 - 3.11    linked at Jul 11 2012 23:22:54
-WCCOAascii   (0), 2017.11.02 21:43:21.149, SYS,  INFO,        3, Trying to connect to, (SYS: 0 Data -num 0 CONN: 1) @ Igor-PC:4897
-WCCOAascii   (0), 2017.11.02 21:43:21.153, SYS,  INFO,        4, Connected to, (SYS: 0 Data -num 0 CONN: 1) @ Igor-PC (127.0.0.1)
-WCCOAascii   (1), 2017.11.02 21:43:21.159, SYS,  INFO,        6, Initialization by Data Manager finished
-WCCOAascii   (1), 2017.11.02 21:43:21.159, SYS,  INFO,        3, Trying to connect to, (SYS: 1 Event -num 0 CONN: 1) @ Igor-PC:4998
-WCCOAascii   (1), 2017.11.02 21:43:21.160, SYS,  INFO,        4, Connected to, (SYS: 1 Event -num 0 CONN: 1) @ Igor-PC (127.0.0.1)
-WCCOAascii   (1), 2017.11.02 21:43:21.164, SYS,  INFO,      102, Waiting for user names/passwords
-WCCOAascii   (1), 2017.11.02 21:43:21.164, SYS,  INFO,      103, User names/passwords initialized
-WCCOAascii   (1), 2017.11.02 21:43:21.226, SYS,  INFO,        2, Manager Stop
